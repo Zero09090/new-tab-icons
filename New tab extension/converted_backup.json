@@ -1,0 +1,5384 @@
+{
+  "cards": {
+    "f_v4tyfpfk1": [
+      {
+        "icon": "Viral icon pack/favicon/dummylabs_live.png",
+        "id": "c_dzqjfs2z0",
+        "subtitle": "",
+        "title": "cc-generator",
+        "url": "https://dummylabs.live/cc-generator"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0dkeuxwhj",
+        "subtitle": "",
+        "title": "credit-card-validator",
+        "url": "https://dnschecker.org/credit-card-validator.php?ccn=5154620021120603"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_oed7asfxb",
+        "subtitle": "",
+        "title": "Kimi Code CLI",
+        "url": "https://github.com/MoonshotAI/kimi-cli"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_p3tvlcyw7",
+        "subtitle": "",
+        "title": "openclaw",
+        "url": "https://github.com/openclaw/openclaw"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_v8dpfv8jd",
+        "subtitle": "",
+        "title": "ZIP CODE FINDER",
+        "url": "https://www.randymajors.org/zipcodegmap?state=AL&onestate=show&labels=show&x=-86.4059033&y=33.7326175&cx=-86.7300000&cy=32.6200000&zoom=7&zipcodes=show"
+      }
+    ],
+    "f_t1jkst3of": [
+      {
+        "icon": "Viral icon pack/favicon/mediasavvy_pages_dev.png",
+        "id": "c_ddcjy2b5a",
+        "subtitle": "",
+        "title": "1- mediasavvy",
+        "url": "https://mediasavvy.pages.dev/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/champagne_pages_dev.png",
+        "id": "c_gsfhofawc",
+        "subtitle": "",
+        "title": "2- champagne",
+        "url": "https://champagne.pages.dev/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_hs6hpj1vv",
+        "subtitle": "",
+        "title": "3- shakil-shahada",
+        "url": "https://shakil-shahadat.github.io/awesome-piracy/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/fmhy_net.png",
+        "id": "c_m55ogdyw4",
+        "subtitle": "",
+        "title": "4- free media heck yeah",
+        "url": "https://fmhy.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/ripped_guide.png",
+        "id": "c_8ts13mr54",
+        "subtitle": "",
+        "title": "5- ripped",
+        "url": "https://ripped.guide/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/awesome-selfhosted_net.png",
+        "id": "c_fls2e32jo",
+        "subtitle": "",
+        "title": "awesome-selfhosted",
+        "url": "https://awesome-selfhosted.net/"
+      }
+    ],
+    "f_8g1d46sb3": [
+      {
+        "icon": "https://icons.duckduckgo.com/ip3/.ico",
+        "id": "c_67uwlwci7",
+        "subtitle": "",
+        "title": "4- Ebook2AudioBook",
+        "url": "localhost:7860"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_kmnv7f15v",
+        "subtitle": "",
+        "title": "AdGuard Home",
+        "url": "http://localhost/#"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_xdlr7nkjm",
+        "subtitle": "",
+        "title": "chatwoot",
+        "url": "https://127.0.0.1:3000"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_399a6orp0",
+        "subtitle": "",
+        "title": "Comfy Ui",
+        "url": "http://127.0.0.1:8188/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_tk7963y86",
+        "subtitle": "",
+        "title": "Domain ",
+        "url": "https://app.tinkerhost.net/login"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_edpelymrv",
+        "subtitle": "",
+        "title": "Eaton UPS",
+        "url": "https://127.0.0.1:4680/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_49j9t25fo",
+        "subtitle": "",
+        "title": "gate",
+        "url": "http://192.168.1.1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_aijribicr",
+        "subtitle": "",
+        "title": "Home-assistant",
+        "url": "http://homeassistant.local:8123/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_cdd65kcgo",
+        "subtitle": "",
+        "title": "immich",
+        "url": "http://127.0.0.1:2283/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ub8p7c3ep",
+        "subtitle": "",
+        "title": "jelly fin",
+        "url": "http://localhost:8096/web/index.html#/home.html"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_w91eq37d2",
+        "subtitle": "",
+        "title": "lean Time",
+        "url": "http://localhost:8080/dashboard/home"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_yh8qvad9n",
+        "subtitle": "",
+        "title": "Plane ",
+        "url": "http://localhost:80/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_hcgx95dgo",
+        "subtitle": "",
+        "title": "Plane GodMode",
+        "url": "http://localhost/god-mode/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_hjm526inf",
+        "subtitle": "",
+        "title": "playwright unlimited bw",
+        "url": "https://replit.com/@junker2dumpu098/IrritatingEarnestApplicationprogram"
+      },
+      {
+        "icon": "Viral icon pack/app_internet_speed_meter.png",
+        "id": "c_fwxzkvhqz",
+        "subtitle": "",
+        "title": "Vodafone cash pdf",
+        "url": "https://internet.vodafone.com.eg/digital/vf_cash_guide.pdf"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_75wyexcg1",
+        "subtitle": "",
+        "title": "Wifi",
+        "url": "https://192.168.5.1"
+      }
+    ],
+    "f_yknn8lngb": [
+      {
+        "icon": "Viral icon pack/favicon/pcpartpicker_com.png",
+        "id": "c_i2uw78lce",
+        "subtitle": "",
+        "title": "1- PCPartPicker",
+        "url": "https://pcpartpicker.com/list/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_gsfac16qo",
+        "subtitle": "",
+        "title": "2- howmanyfps",
+        "url": "https://howmanyfps.com/processors"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_8604fv97e",
+        "subtitle": "",
+        "title": "3- cultists",
+        "url": "https://cultists.network/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_j98wbx2wq",
+        "subtitle": "",
+        "title": "4- Cpu list",
+        "url": "https://nanoreview.net/en/cpu-list/cinebench-scores"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_3laqlkoxv",
+        "subtitle": "",
+        "title": "5- GPU list",
+        "url": "https://docs.google.com/spreadsheets/d/1uMWv0eRsL_eCFTH1R2Mu9xtszHGiL0LxjMhePqoOHmg/edit?gid=1285535276#gid=1285535276"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_lx43mvt0i",
+        "subtitle": "",
+        "title": "6- AM4 [AMD]",
+        "url": "https://docs.google.com/spreadsheets/d/1-cw7A2MDHPvA-oB3OKXivdUo9BbTcsss1Rzy3J4hRyA/edit#gid=2112472504"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_lzt6k19sw",
+        "subtitle": "",
+        "title": "6- AM5 [AMD]",
+        "url": "https://docs.google.com/spreadsheets/d/1NQHkDEcgDPm34Mns3C93K6SJoBnua-x9O-y_6hv8sPs/edit?gid=454171143#gid=454171143"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_chdpi57uf",
+        "subtitle": "",
+        "title": "6- LGA1151v2 for Intel 9th & 8th-Gen",
+        "url": "https://docs.google.com/spreadsheets/d/1IY6W6YhyjnzSvi8BqEqiK1xykSiTDF2Lt1FO8cNhI6I/edit?gid=585498417#gid=585498417"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_q24lwmip3",
+        "subtitle": "",
+        "title": "6- LGA1851 [Intel]",
+        "url": "https://docs.google.com/spreadsheets/d/1o0PmKbAd6INOj3VFn5qsw7Rat2LalcDOV_hcr6Zvi88/edit?gid=0#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_i6vwtjsq6",
+        "subtitle": "",
+        "title": "7- PSU list",
+        "url": "https://docs.google.com/spreadsheets/d/1i6gYAlEEB8Wpbr4E3jY3ctuYvNR5SiuokzPLb5WiQlw/edit#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_la5vw7a6a",
+        "subtitle": "",
+        "title": "8- ssd & m.2 list",
+        "url": "https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit?gid=0#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/favicon/techpowerup_com.png",
+        "id": "c_px31yzpyk",
+        "subtitle": "",
+        "title": "8- ssd specs",
+        "url": "https://www.techpowerup.com/ssd-specs"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gpumagick_com.png",
+        "id": "c_6j3qaxmge",
+        "subtitle": "",
+        "title": "9- FurMark Score list",
+        "url": "https://www.gpumagick.com/scores/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3qh4tmjso",
+        "subtitle": "",
+        "title": "amd-chips-rating",
+        "url": "https://nanoreview.net/en/cpu-list/amd-chips-rating"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3uf5o7xb7",
+        "subtitle": "",
+        "title": "intel-chips-rating",
+        "url": "https://nanoreview.net/en/cpu-list/intel-chips-rating"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_mjajx3tkf",
+        "subtitle": "",
+        "title": "megacharts/cpus",
+        "url": "https://gamersnexus.net/megacharts/cpus"
+      }
+    ],
+    "f_0bwuhz495": [
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_251xoo6wu",
+        "subtitle": "",
+        "title": "1- 1panel",
+        "url": "https://docs.1panel.pro/quick_start/"
+      }
+    ],
+    "f_bvzlr5ihc": [
+      {
+        "icon": "Viral icon pack/favicon/watermarkremover_io.png",
+        "id": "c_zo6vc8k0u",
+        "subtitle": "",
+        "title": "1- watermarkremover",
+        "url": "https://www.watermarkremover.io/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_d73266n31",
+        "subtitle": "",
+        "title": "10- Pixlr ",
+        "url": "https://pixlr.com/image-generator/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_1278n7kku",
+        "subtitle": "",
+        "title": "11- upscale.media",
+        "url": "https://www.upscale.media/upload"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3tqxvlnzf",
+        "subtitle": "",
+        "title": "2- pixelbin",
+        "url": "https://www.pixelbin.io/"
+      },
+      {
+        "icon": "Viral icon pack/app_eraser.png",
+        "id": "c_zd7fk5yme",
+        "subtitle": "",
+        "title": "3- erase.bg",
+        "url": "https://www.erase.bg/?ref=watermarkremover"
+      },
+      {
+        "icon": "Viral icon pack/favicon/clipdrop_co.png",
+        "id": "c_5jn7oaz7y",
+        "subtitle": "",
+        "title": "4- clipdrop",
+        "url": "https://clipdrop.co/remove-background"
+      },
+      {
+        "icon": "Viral icon pack/favicon/clipdrop_co.png",
+        "id": "c_8itfhb1ed",
+        "subtitle": "",
+        "title": "4- clipdrop Tools",
+        "url": "https://clipdrop.co/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_9yqlbfoie",
+        "subtitle": "",
+        "title": "5- Pixlr editor",
+        "url": "https://pixlr.com/editor/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_tf5ljwwfn",
+        "subtitle": "",
+        "title": "6- Pixlr",
+        "url": "https://pixlr.com/remove-background/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_rpucolq37",
+        "subtitle": "",
+        "title": "7- Pixlr",
+        "url": "https://pixlr.com/batch/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_u5duntru0",
+        "subtitle": "",
+        "title": "8- Pixlr ",
+        "url": "https://pixlr.com/designer/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_fuxxd70me",
+        "subtitle": "",
+        "title": "9- Pixlr ",
+        "url": "https://pixlr.com/express/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/deviantart_com.png",
+        "id": "c_gaj1zbfbd",
+        "subtitle": "",
+        "title": "DeviantArt",
+        "url": "https://www.deviantart.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/imgupscaler_com.png",
+        "id": "c_e2y16t9dn",
+        "subtitle": "",
+        "title": "imgupscaler",
+        "url": "https://imgupscaler.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/pexels_com.png",
+        "id": "c_8p76hy9wg",
+        "subtitle": "",
+        "title": "Pexels",
+        "url": "https://www.pexels.com/"
+      },
+      {
+        "icon": "Viral icon pack/pinterest.png",
+        "id": "c_rftncgj2t",
+        "subtitle": "",
+        "title": "Pinterest",
+        "url": "https://www.pinterest.com"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_g0hl9lv17",
+        "subtitle": "",
+        "title": "text-behind-image",
+        "url": "https://github.com/RexanWONG/text-behind-image"
+      }
+    ],
+    "f_36icq1kig": [
+      {
+        "icon": "Viral icon pack/favicon/fmhy_net.png",
+        "id": "c_qv3yvxz6q",
+        "subtitle": "",
+        "title": "1- Courses all sites",
+        "url": "https://fmhy.net/edupiracyguide#torrenting"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_poo3yeds3",
+        "subtitle": "",
+        "title": "2- tutflix",
+        "url": "https://tutflix.org/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_7wto9mgf1",
+        "subtitle": "",
+        "title": "3- gigacourse",
+        "url": "https://www.gigacourses.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_e40jahvr6",
+        "subtitle": "",
+        "title": "3- tutflix best",
+        "url": "https://tutflix.org/forums/ui-ux.41/?order=view_count&direction=desc"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_cjmjii0uk",
+        "subtitle": "",
+        "title": "4- courseclub",
+        "url": "https://courseclub.me/?1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_tp2ceehbx",
+        "subtitle": "",
+        "title": "5- freecoursesite",
+        "url": "https://freecoursesite.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/downloadfreecourse_com.png",
+        "id": "c_dxzhojhm1",
+        "subtitle": "",
+        "title": "7- downloadfreecourse",
+        "url": "https://downloadfreecourse.com/development-25"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_cile7bp5y",
+        "subtitle": "",
+        "title": "8- downloadlynet.ir",
+        "url": "https://downloadlynet.ir/"
+      },
+      {
+        "icon": "Viral icon pack/aarogya_setu.png",
+        "id": "c_t7sq3jhfr",
+        "subtitle": "",
+        "title": "9- yandex search",
+        "url": "https://ya.ru/search/?text=CSS+-+The+Complete+Guide+2024+(incl.+Flexbox%2C+Grid+%26+Sass)&lr=213&search_source=yaru_desktop_common&search_domain=yaru"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_7fcj67erj",
+        "subtitle": "",
+        "title": "academind  courses",
+        "url": "https://academind.com/courses/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/docspedia_world.png",
+        "id": "c_5p2ib4xki",
+        "subtitle": "",
+        "title": "docspedia",
+        "url": "https://docspedia.world/browse.php"
+      },
+      {
+        "icon": "Viral icon pack/favicon/hacksnation_com.png",
+        "id": "c_uznqob4sk",
+        "subtitle": "",
+        "title": "hacksnation",
+        "url": "https://hacksnation.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_goqj96k3z",
+        "subtitle": "",
+        "title": "onehack.se",
+        "url": "https://onehack.se/"
+      },
+      {
+        "icon": "Viral icon pack/udemy.png",
+        "id": "c_zpwimkpcv",
+        "subtitle": "",
+        "title": "Udemy",
+        "url": "https://www.udemy.com"
+      }
+    ],
+    "f_xzwqaqra7": [
+      {
+        "icon": "Viral icon pack/favicon/seedr_cc.png",
+        "id": "c_qi1hnbpxe",
+        "subtitle": "",
+        "title": "1- Seedr",
+        "url": "https://www.seedr.cc/"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_7gd4pobuh",
+        "subtitle": "",
+        "title": "10- sonic bit",
+        "url": "https://my.sonicbit.net/seedbox"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_5q6jlofmf",
+        "subtitle": "",
+        "title": "2- webtor",
+        "url": "https://webtor.io/#/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0627ex3yl",
+        "subtitle": "",
+        "title": "3- The Pirate Bay",
+        "url": "https://thepiratebay.org/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/torrentz2_nz.png",
+        "id": "c_gw34km8rf",
+        "subtitle": "",
+        "title": "3-torrentz2",
+        "url": "https://torrentz2.nz/"
+      },
+      {
+        "icon": "Viral icon pack/app_hoyts_cinema.png",
+        "id": "c_zgyzq7b6r",
+        "subtitle": "",
+        "title": "4- yts",
+        "url": "https://yts.mx/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_gb5yvmjqj",
+        "subtitle": "",
+        "title": "5- 1337x",
+        "url": "https://www.1337x.to/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_7b0j79b7w",
+        "subtitle": "",
+        "title": "6- limetorrents",
+        "url": "https://www.limetorrents.info/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_my28tl6qp",
+        "subtitle": "",
+        "title": "7- kick ass torrent",
+        "url": "https://katcr.to/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_1cmn9i7wx",
+        "subtitle": "",
+        "title": "8- ez tv",
+        "url": "https://eztvx.to/home"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ab833e900",
+        "subtitle": "",
+        "title": "9- torlock",
+        "url": "https://www.torlock.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/kisscartoon_nz.png",
+        "id": "c_6z2miwsr9",
+        "subtitle": "",
+        "title": "kiss cartoon",
+        "url": "https://kisscartoon.nz/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/snowfl_com.png",
+        "id": "c_4uug23kku",
+        "subtitle": "",
+        "title": "snowfl",
+        "url": "https://snowfl.com/"
+      }
+    ],
+    "f_7fre0mnhn": [
+      {
+        "icon": "Viral icon pack/favicon/filehostlist_miraheze_org.png",
+        "id": "c_pz71dpdrg",
+        "subtitle": "",
+        "title": "1- Premium_Leeches",
+        "url": "https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_hcackyeek",
+        "subtitle": "",
+        "title": "2- cocoleech",
+        "url": "https://cocoleech.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_stft2eq2l",
+        "subtitle": "",
+        "title": "3- leechall",
+        "url": "https://leechall.com/"
+      },
+      {
+        "icon": "Viral icon pack/adobe_premiere_clip.png",
+        "id": "c_5vrhum2zq",
+        "subtitle": "",
+        "title": "4- prem.link",
+        "url": "http://prem.link/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_tumimztuu",
+        "subtitle": "",
+        "title": "4- uploadedpremiumlink",
+        "url": "http://www.uploadedpremiumlink.xyz/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_kc7vghbgv",
+        "subtitle": "",
+        "title": "5- fshare ",
+        "url": "https://getlinkfshare.net/"
+      }
+    ],
+    "f_degeyn9qw": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_8wyqkknuy",
+        "subtitle": "",
+        "title": "1- freeduim",
+        "url": "https://freedium.cfd/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_gmcjdx7ho",
+        "subtitle": "",
+        "title": "2- pay wall buster",
+        "url": "https://paywallbuster.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/byebyepaywall_com.png",
+        "id": "c_35f5sn95f",
+        "subtitle": "",
+        "title": "3- bye bye pay wall",
+        "url": "https://byebyepaywall.com/en/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/smry_ai.png",
+        "id": "c_p4a78gxnk",
+        "subtitle": "",
+        "title": "4- smry ai",
+        "url": "https://www.smry.ai/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_pms6gio2c",
+        "subtitle": "",
+        "title": "5- open access button",
+        "url": "https://openaccessbutton.org/"
+      }
+    ],
+    "f_qlqw9ubqb": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_qp0wnhyp3",
+        "subtitle": "",
+        "title": "1- proxysite",
+        "url": "https://www.proxysite.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/proxyium_com.png",
+        "id": "c_xpvs35q5x",
+        "subtitle": "",
+        "title": "2- proxyium",
+        "url": "https://proxyium.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/croxyproxy_com.png",
+        "id": "c_nrfebawqh",
+        "subtitle": "",
+        "title": "3- croxyproxy",
+        "url": "https://www.croxyproxy.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3gz3sypvi",
+        "subtitle": "",
+        "title": "4- proxysite.pro",
+        "url": "https://proxysite.pro/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/whatismyipaddress_com.png",
+        "id": "c_yon1ugzke",
+        "subtitle": "",
+        "title": "blacklist-check",
+        "url": "https://whatismyipaddress.com/blacklist-check"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_zqzkdfp9p",
+        "subtitle": "",
+        "title": "ip-blacklist-checker",
+        "url": "https://dnschecker.org/ip-blacklist-checker.php"
+      },
+      {
+        "icon": "Viral icon pack/favicon/proxy2_webshare_io.png",
+        "id": "c_qkfma6wnh",
+        "subtitle": "",
+        "title": "webshare",
+        "url": "https://proxy2.webshare.io/proxy/"
+      }
+    ],
+    "f_88tsicmth": [
+      {
+        "icon": "Viral icon pack/favicon/dodi-repacks_site.png",
+        "id": "c_90kjhpbwk",
+        "subtitle": "",
+        "title": "1- dodi-repacks",
+        "url": "https://dodi-repacks.site/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/rentry_org.png",
+        "id": "c_1b30wuttw",
+        "subtitle": "",
+        "title": "2- gnarly_repacks",
+        "url": "https://rentry.org/gnarly_repacks"
+      },
+      {
+        "icon": "Viral icon pack/favicon/steamrip_com.png",
+        "id": "c_bks3ecerg",
+        "subtitle": "",
+        "title": "2- steamrip [full game]",
+        "url": "https://steamrip.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gload_to.png",
+        "id": "c_zl72pvbyt",
+        "subtitle": "",
+        "title": "3- gload",
+        "url": "https://gload.to/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_46h8h09x7",
+        "subtitle": "",
+        "title": "4- gamdie",
+        "url": "https://gamdie.com/popular-games/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6w37dfwne",
+        "subtitle": "",
+        "title": "Dead Island 2",
+        "url": "https://Dead Island 2"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_rgd0rfc2k",
+        "subtitle": "",
+        "title": "g4u",
+        "url": "https://g4u.to/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_11tq1whwn",
+        "subtitle": "",
+        "title": "game-repack.site",
+        "url": "https://game-repack.site/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/metacritic_com.png",
+        "id": "c_ld4hkp0e3",
+        "subtitle": "",
+        "title": "Metacritic",
+        "url": "https://www.metacritic.com/browse/game/pc/all/all-time/userscore/?releaseYearMin=2010&releaseYearMax=2025&platform=pc&page=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ywmxgp693",
+        "subtitle": "",
+        "title": "Poopgirl Repacks",
+        "url": "https://fitgirl-repacks.site/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_ve65cfc7g",
+        "subtitle": "",
+        "title": "Reddit megathread games",
+        "url": "https://www.reddit.com/r/Piracy/wiki/megathread/games/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_o61eqjyjo",
+        "subtitle": "",
+        "title": "seven-gamers",
+        "url": "https://www.seven-gamers.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/steamdb_info.png",
+        "id": "c_zmim0a904",
+        "subtitle": "",
+        "title": "SteamDB [games review]",
+        "url": "https://steamdb.info/stats/gameratings/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/steamrip_com.png",
+        "id": "c_ilmdhlc23",
+        "subtitle": "",
+        "title": "steamrip",
+        "url": "https://steamrip.com/"
+      }
+    ],
+    "f_1g5dywv4f": [
+      {
+        "icon": "Viral icon pack/beta.png",
+        "id": "c_acr4c3anf",
+        "subtitle": "",
+        "title": "beta.deeeep.io",
+        "url": "https://beta.deeeep.io/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ksnk6s70v",
+        "subtitle": "",
+        "title": "diep",
+        "url": "https://diep.io/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_qze3z63rq",
+        "subtitle": "",
+        "title": "IoGames/wiki/index/",
+        "url": "https://www.reddit.com/r/IoGames/wiki/index/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_lywbvh1kc",
+        "subtitle": "",
+        "title": "narrow.one",
+        "url": "https://narrow.one/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/stug_io.png",
+        "id": "c_g186c7xh0",
+        "subtitle": "",
+        "title": "stug.",
+        "url": "https://stug.io/"
+      }
+    ],
+    "f_2fac3dl6t": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_9b4hv3gld",
+        "subtitle": "",
+        "title": "1- File cr Android ",
+        "url": "https://filecr.com/android/?id=895662014000"
+      },
+      {
+        "icon": "Viral icon pack/favicon/modyolo_com.png",
+        "id": "c_e4g3cqclh",
+        "subtitle": "",
+        "title": "2-Mod yolo",
+        "url": "https://modyolo.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_krufahkmf",
+        "subtitle": "",
+        "title": "3-Apk mody",
+        "url": "https://apkmody.io/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6rg3lz6as",
+        "subtitle": "",
+        "title": "4-Mod apkok",
+        "url": "https://modapkok.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ctnk55e8c",
+        "subtitle": "",
+        "title": "5- Revdl",
+        "url": "https://www.revdl.com/category/apps/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/getmodsapk_com.png",
+        "id": "c_ufb97rmzs",
+        "subtitle": "",
+        "title": "getmodsapk",
+        "url": "https://getmodsapk.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/liteapks_com.png",
+        "id": "c_ks0eavpeg",
+        "subtitle": "",
+        "title": "Liteapks",
+        "url": "https://liteapks.com/"
+      }
+    ],
+    "f_rhuu26rad": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_9bflsaheq",
+        "subtitle": "",
+        "title": "1- smailpro",
+        "url": "https://smailpro.com/advanced"
+      },
+      {
+        "icon": "Viral icon pack/favicon/temp-mail_org.png",
+        "id": "c_c0vsxirhf",
+        "subtitle": "",
+        "title": "2- Temp Mail",
+        "url": "https://temp-mail.org/en/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/tempumail_com.png",
+        "id": "c_roo4typd2",
+        "subtitle": "",
+        "title": "3- tempumail",
+        "url": "https://tempumail.com/mailbox"
+      },
+      {
+        "icon": "Viral icon pack/adobe_premiere_clip.png",
+        "id": "c_7vj0kzapz",
+        "subtitle": "",
+        "title": "cloud flare temp mail",
+        "url": "https://em.bjedu.tech/en/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/edumailfree_com.png",
+        "id": "c_jgc0ya38v",
+        "subtitle": "",
+        "title": "edumailfree",
+        "url": "https://edumailfree.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/etempmail_com.png",
+        "id": "c_xrud8k7dm",
+        "subtitle": "",
+        "title": "etempmail",
+        "url": "https://etempmail.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/namesnerd_com.png",
+        "id": "c_g6obv4t8t",
+        "subtitle": "",
+        "title": "name-generator",
+        "url": "https://www.namesnerd.com/people/polish-name-generator/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_9en4w9yim",
+        "subtitle": "",
+        "title": "random-address",
+        "url": "https://www.bestrandoms.com/random-address-in-nl"
+      }
+    ],
+    "f_l57dncps6": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_0udhycqoh",
+        "subtitle": "",
+        "title": "1- Arch linux Jakool",
+        "url": "https://github.com/JaKooLit/Arch-Hyprland"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_u6my6rw3h",
+        "subtitle": "",
+        "title": "2- JaKooLit Keybinds",
+        "url": "https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"
+      },
+      {
+        "icon": "Viral icon pack/app_youtube_blue.png",
+        "id": "c_oeumyxyj7",
+        "subtitle": "",
+        "title": "3- nwg-dock-hyprland",
+        "url": "https://www.youtube.com/watch?v=16KX3vnbNcg"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_b3v5ycpsg",
+        "subtitle": "",
+        "title": "4- flathub",
+        "url": "https://flathub.org/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/snapcraft_io.png",
+        "id": "c_qm73ey097",
+        "subtitle": "",
+        "title": "5- Snap Store ",
+        "url": "https://snapcraft.io/store"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_8ucji5ua5",
+        "subtitle": "",
+        "title": "actionless/pikaur",
+        "url": "https://github.com/actionless/pikaur"
+      },
+      {
+        "icon": "Viral icon pack/superuser.png",
+        "id": "c_3d07rc29k",
+        "subtitle": "",
+        "title": "arch brightness",
+        "url": "https://superuser.com/questions/1531050/no-brightness-control-in-kde"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gist_github_com.png",
+        "id": "c_lkxdqz7p3",
+        "subtitle": "",
+        "title": "Arch linux",
+        "url": "https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_nmvhc0pzy",
+        "subtitle": "",
+        "title": "arch-nvidia-drivers-installation-guide",
+        "url": "https://github.com/korvahannu/arch-nvidia-drivers-installation-guide"
+      },
+      {
+        "icon": "Viral icon pack/favicon/itsfoss_com.png",
+        "id": "c_zbw3xh2xo",
+        "subtitle": "",
+        "title": "bluetooth",
+        "url": "https://itsfoss.com/bluetooth-arch-linux/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_df1gl6b7v",
+        "subtitle": "",
+        "title": "hyprland",
+        "url": "https://github.com/mylinuxforwork/dotfiles"
+      },
+      {
+        "icon": "Viral icon pack/app_wikipedia.png",
+        "id": "c_0eumdw0bz",
+        "subtitle": "",
+        "title": "hyprland Nvidia",
+        "url": "https://wiki.hyprland.org/Nvidia/"
+      }
+    ],
+    "f_zbs1fdo6l": [
+      {
+        "icon": "Viral icon pack/favicon/fshare_vn.png",
+        "id": "c_6ryo8tcm7",
+        "subtitle": "",
+        "title": "1- Most Blender Plugins",
+        "url": "https://www.fshare.vn/folder/LYROTUGJZ6IT?token=1735846728"
+      }
+    ],
+    "f_0uemb6scw": [
+      {
+        "icon": "Viral icon pack/app_apus_browser.png",
+        "id": "c_elwcso6t2",
+        "subtitle": "",
+        "title": "browser.lol",
+        "url": "https://browser.lol/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/browserling_com.png",
+        "id": "c_wmfr37xtr",
+        "subtitle": "",
+        "title": "browserling",
+        "url": "https://www.browserling.com/"
+      }
+    ],
+    "f_qzrstulj4": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_9083qbuak",
+        "subtitle": "",
+        "title": "1- Kimovil",
+        "url": "https://www.kimovil.com/en/best-smartphones-antutu"
+      },
+      {
+        "icon": "Viral icon pack/favicon/2b_com_eg.png",
+        "id": "c_n0eaoeqmn",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/en/mobile-and-tablet/mobiles.html?product_list_order=price&product_list_dir=asc"
+      },
+      {
+        "icon": "Viral icon pack/beta.png",
+        "id": "c_epobdtunc",
+        "subtitle": "",
+        "title": "beta.btech",
+        "url": "https://beta.btech.com/en/c/32f83711-3591-48eb-8bb8-2d5a045f2d31?sort=low_to_high"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_clxftf8o4",
+        "subtitle": "",
+        "title": "CPU ranking ",
+        "url": "https://nanoreview.net/en/soc-list/rating"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3dfow5wee",
+        "subtitle": "",
+        "title": "dream2000",
+        "url": "https://dream2000.com/en/mobiles.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/drmobilestore_com.png",
+        "id": "c_8qrgf8yh2",
+        "subtitle": "",
+        "title": "drmobilestore",
+        "url": "https://drmobilestore.com/shop.html?q=categories&c=MOBILES&page=1&nitems=36"
+      },
+      {
+        "icon": "Viral icon pack/favicon/egypt_sharafdg_com.png",
+        "id": "c_kczmcbkjf",
+        "subtitle": "",
+        "title": "egypt.sharafdg",
+        "url": "https://egypt.sharafdg.com/c/mobiles_tablets/mobiles/?idx=egypt_products_price_asc&hFR[taxonomies.taxonomies_hierarchical][0]=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elghazawy_com.png",
+        "id": "c_itlg7vxhy",
+        "subtitle": "",
+        "title": "elghazawy",
+        "url": "https://elghazawy.com/en/sub-category/smart-phone?ordered=price&sort=asc"
+      },
+      {
+        "icon": "Viral icon pack/favicon/eshop_vodafone_com_eg.png",
+        "id": "c_j9kggc2zz",
+        "subtitle": "",
+        "title": "eshop.vodafone",
+        "url": "https://eshop.vodafone.com.eg/en/list?channelId=organicGoogle&c_id=DACS0367&c_medium=Organic&c_source=Google&c_type=Anonymous&categoryUrls=%2Fsmart-phones&sort=bestPrice,asc"
+      },
+      {
+        "icon": "Viral icon pack/favicon/etisalat_eg.png",
+        "id": "c_1rvnimlh3",
+        "subtitle": "",
+        "title": "etisalat.eg",
+        "url": "https://www.etisalat.eg/eshop2/#/category/devices?cid=2&categoryType=Category"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elghazawy_com.png",
+        "id": "c_m5i0qbw9e",
+        "subtitle": "",
+        "title": "https://elghazawy.com/en/product/38074270288563/Redmi+A5+Dual+SIM+Mobile%2C+128GB+Memory%2C+4GB+RAM%2C+4G+LTE+Network%2C+Midnight+Black",
+        "url": "https://elghazawy.com/en/product/38074270288563/Redmi+A5+Dual+SIM+Mobile%2C+128GB+Memory%2C+4GB+RAM%2C+4G+LTE+Network%2C+Midnight+Black"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_fmffhc1ms",
+        "subtitle": "",
+        "title": "imediastores",
+        "url": "https://www.imediastores.com/product-category/all_devices/mobile-phones/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/iq-mobiles_com.png",
+        "id": "c_gly1mzrdk",
+        "subtitle": "",
+        "title": "iq-mobiles",
+        "url": "https://iq-mobiles.com/ar/mobile.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/jumia_com_eg.png",
+        "id": "c_qt9jqoxhs",
+        "subtitle": "",
+        "title": "jumia",
+        "url": "https://www.jumia.com.eg/mobile-phones/?sort=lowest-price#catalog-listing"
+      },
+      {
+        "icon": "Viral icon pack/favicon/kimostore_net.png",
+        "id": "c_4oi8t9098",
+        "subtitle": "",
+        "title": "kimostore",
+        "url": "https://kimostore.net/collections/mobile-phone?sort_by=price-ascending"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_mz64zunsv",
+        "subtitle": "",
+        "title": "mobilaty",
+        "url": "https://www.mobilaty.com/en/product/mobiles?sort=low"
+      },
+      {
+        "icon": "Viral icon pack/favicon/myxprs_com.png",
+        "id": "c_ip98b8wnm",
+        "subtitle": "",
+        "title": "myxprs",
+        "url": "https://myxprs.com/collections/mobile-phones-egypt?filter.v.availability=1&sort_by=price-ascending"
+      },
+      {
+        "icon": "Viral icon pack/favicon/rayashop_com.png",
+        "id": "c_nyskn0pd7",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/en/smartphones"
+      },
+      {
+        "icon": "Viral icon pack/adobe_photoshop_fix.png",
+        "id": "c_oqpprn63x",
+        "subtitle": "",
+        "title": "shop.orange",
+        "url": "https://shop.orange.eg/en/mobiles?s=4G&orderby=10"
+      },
+      {
+        "icon": "Viral icon pack/favicon/smartkoshk_com.png",
+        "id": "c_9lkguvq1j",
+        "subtitle": "",
+        "title": "smartkoshk",
+        "url": "https://smartkoshk.com/collections/smartphones"
+      },
+      {
+        "icon": "Viral icon pack/absolutely_walls.png",
+        "id": "c_cp4dtn1zm",
+        "subtitle": "",
+        "title": "te.eg Mobile-Phones",
+        "url": "https://te.eg/wps/portal/te/Personal/Devices/Mobile-Phones"
+      }
+    ],
+    "f_wb539d6f4": [
+      {
+        "icon": "Viral icon pack/favicon/excalidraw_com.png",
+        "id": "c_o82vpk6aj",
+        "subtitle": "",
+        "title": "1- excalidraw",
+        "url": "https://excalidraw.com/"
+      }
+    ],
+    "f_gq4dw1hn9": [
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_x7a1xzuhh",
+        "subtitle": "",
+        "title": "Blender Documentations",
+        "url": "https://docs.blender.org/manual/en/latest/"
+      }
+    ],
+    "f_dbw06rz9j": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4y9nuhy8p",
+        "subtitle": "",
+        "title": "Arabic subtitle",
+        "url": "https://www.opensubtitles.com/ar/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_q9rdej6b9",
+        "subtitle": "",
+        "title": "opensubtitles arabic",
+        "url": "https://www.opensubtitles.org/ar/ssearch/sublanguageid-ara/idmovie-1184717"
+      },
+      {
+        "icon": "Viral icon pack/favicon/subdl_com.png",
+        "id": "c_hej5j0bh2",
+        "subtitle": "",
+        "title": "subdl",
+        "url": "https://subdl.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_5rs72kalr",
+        "subtitle": "",
+        "title": "yts-subs",
+        "url": "https://yts-subs.com/"
+      }
+    ],
+    "f_6e7sxpdkt": [
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_a3sz7om0h",
+        "subtitle": "",
+        "title": "Dokploy",
+        "url": "https://docs.dokploy.com/docs/core"
+      },
+      {
+        "icon": "Viral icon pack/app_streamlabs.png",
+        "id": "c_pmn0nvjug",
+        "subtitle": "",
+        "title": "play-with-docker",
+        "url": "https://labs.play-with-docker.com/"
+      }
+    ],
+    "f_6j6o3ykug": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_xpkj8qgwx",
+        "subtitle": "",
+        "title": "1- tier list cloud storage",
+        "url": "https://comparisontabl.es/cloud-storage/"
+      },
+      {
+        "icon": "Viral icon pack/mega.png",
+        "id": "c_lznjprnvp",
+        "subtitle": "",
+        "title": "1-MEGA",
+        "url": "https://mega.nz/fm/Q70jlJZY"
+      },
+      {
+        "icon": "Viral icon pack/dropbox.png",
+        "id": "c_ufi7lrbo1",
+        "subtitle": "",
+        "title": "2-Dropbox",
+        "url": "https://www.dropbox.com"
+      },
+      {
+        "icon": "Viral icon pack/drive.png",
+        "id": "c_mzg8w9yay",
+        "subtitle": "",
+        "title": "3-Google Drive",
+        "url": "https://drive.google.com"
+      },
+      {
+        "icon": "Viral icon pack/onedrive.png",
+        "id": "c_9mar178w7",
+        "subtitle": "",
+        "title": "4- OneDrive",
+        "url": "https://onedrive.live.com"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_m2y09ud71",
+        "subtitle": "",
+        "title": "app.filen.io",
+        "url": "https://app.filen.io/"
+      }
+    ],
+    "f_5870rzg4d": [
+      {
+        "icon": "Viral icon pack/favicon/notebooklm_google_com.png",
+        "id": "c_v4rg4uoev",
+        "subtitle": "",
+        "title": "1- notebooklm",
+        "url": "https://notebooklm.google.com/"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_lajv0wora",
+        "subtitle": "",
+        "title": "1- OpenAI",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_lio2hepys",
+        "subtitle": "",
+        "title": "10- llama2.ai",
+        "url": "https://www.llama2.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lepton_ai.png",
+        "id": "c_ql07txlkg",
+        "subtitle": "",
+        "title": "11- leption",
+        "url": "https://www.lepton.ai/playground/sdxl/stable-diffusion-xl"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lepton_ai.png",
+        "id": "c_t37cgcpvc",
+        "subtitle": "",
+        "title": "11- lepton",
+        "url": "https://www.lepton.ai/playground/stable-video-diffusion"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lepton_ai.png",
+        "id": "c_512hvxcsf",
+        "subtitle": "",
+        "title": "11- lepton ",
+        "url": "https://www.lepton.ai/playground/whisper/whisper-v3"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lepton_ai.png",
+        "id": "c_kjcftx3t3",
+        "subtitle": "",
+        "title": "11- lepton.ai",
+        "url": "https://www.lepton.ai/playground"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_nq46ynxp5",
+        "subtitle": "",
+        "title": "12- deepseek Coder",
+        "url": "https://chat.deepseek.com/coder"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_u0kz314z1",
+        "subtitle": "",
+        "title": "13- gpt.h2o.ai",
+        "url": "https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg"
+      },
+      {
+        "icon": "Viral icon pack/favicon/codeium_com.png",
+        "id": "c_s53wu99o7",
+        "subtitle": "",
+        "title": "14- Codeium chat",
+        "url": "https://codeium.com/live/general?referrer=navbar"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_xfpwlgpsu",
+        "subtitle": "",
+        "title": "15- leonardo.ai",
+        "url": "https://app.leonardo.ai/auth/login?callbackUrl=%2F"
+      },
+      {
+        "icon": "Viral icon pack/favicon/civitai_com.png",
+        "id": "c_bsdfxv9ik",
+        "subtitle": "",
+        "title": "16- civitai",
+        "url": "https://civitai.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/bard_google_com.png",
+        "id": "c_piwz5uwq8",
+        "subtitle": "",
+        "title": "2- Google Ai",
+        "url": "https://bard.google.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/perplexity_ai.png",
+        "id": "c_q1okb878e",
+        "subtitle": "",
+        "title": "3- perplexity",
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/theresanaiforthat_com.png",
+        "id": "c_sywyd464c",
+        "subtitle": "",
+        "title": "3- TIAFT",
+        "url": "https://theresanaiforthat.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_c8whsigdl",
+        "subtitle": "",
+        "title": "4- Hugging face",
+        "url": "https://huggingface.co/chat/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/producthunt_com.png",
+        "id": "c_3hzilh2w5",
+        "subtitle": "",
+        "title": "4- producthunt",
+        "url": "https://www.producthunt.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/agentgpt_reworkd_ai.png",
+        "id": "c_bu3a1q75c",
+        "subtitle": "",
+        "title": "5- agentgpt",
+        "url": "https://agentgpt.reworkd.ai/?utm_source=theneuron&utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_22c85axoz",
+        "subtitle": "",
+        "title": "6- phind",
+        "url": "https://www.phind.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_iaq53jxda",
+        "subtitle": "",
+        "title": "7- humata.ai",
+        "url": "https://app.humata.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/claude_ai.png",
+        "id": "c_w5z9lbuyx",
+        "subtitle": "",
+        "title": "8- claude.ai",
+        "url": "https://claude.ai/login"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_u4145qzxg",
+        "subtitle": "",
+        "title": "9-  Carlos",
+        "url": "https://www.getproduct.help/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_f8o09cofo",
+        "subtitle": "",
+        "title": "Awesome-GPT-Store",
+        "url": "https://github.com/Anil-matcha/Awesome-GPT-Store"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_rkqoqrmx3",
+        "subtitle": "",
+        "title": "camenduru",
+        "url": "https://github.com/camenduru"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_7kne2lvx7",
+        "subtitle": "",
+        "title": "chatbot-arena-leaderboard",
+        "url": "https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/favicon/cookup_ai.png",
+        "id": "c_yo67clgx2",
+        "subtitle": "",
+        "title": "cookup.ai",
+        "url": "https://cookup.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia#programming"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_tc5e0kqed",
+        "subtitle": "",
+        "title": "dify",
+        "url": "https://github.com/langgenius/dify"
+      },
+      {
+        "icon": "Viral icon pack/app_eraser.png",
+        "id": "c_xpap7h3i2",
+        "subtitle": "",
+        "title": "erase.bg",
+        "url": "https://www.erase.bg/?utm_source=watermarkremover&utm_campaign=cross-sell&ref=watermarkremover"
+      },
+      {
+        "icon": "Viral icon pack/app_firefly_vapor.png",
+        "id": "c_ztdf8wuid",
+        "subtitle": "",
+        "title": "FireFly",
+        "url": "https://firefly.adobe.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/futurepedia_io.png",
+        "id": "c_owxr2hmno",
+        "subtitle": "",
+        "title": "futurepedia",
+        "url": "https://www.futurepedia.io/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/artificialanalysis_ai.png",
+        "id": "c_p9jyscllz",
+        "subtitle": "",
+        "title": "https://artificialanalysis.ai/models",
+        "url": "https://artificialanalysis.ai/models"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_1ez3kz6lw",
+        "subtitle": "",
+        "title": "huggingface",
+        "url": "https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_xfh1l0ipf",
+        "subtitle": "",
+        "title": "huggingface ",
+        "url": "https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03"
+      },
+      {
+        "icon": "Viral icon pack/favicon/imagecolorizer_com.png",
+        "id": "c_ol13utzgu",
+        "subtitle": "",
+        "title": "imagecolorizer",
+        "url": "https://imagecolorizer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0rlc6x5gb",
+        "subtitle": "",
+        "title": "lalal.ai",
+        "url": "https://www.lalal.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lmarena_ai.png",
+        "id": "c_g7zr4b1pv",
+        "subtitle": "",
+        "title": "lmarena.ai leaderboard",
+        "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/favicon/eu2_make_com.png",
+        "id": "c_i9s1t8s9d",
+        "subtitle": "",
+        "title": "make.com",
+        "url": "https://eu2.make.com/organization/1575572/dashboard"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_wao6rltch",
+        "subtitle": "",
+        "title": "myshell.ai",
+        "url": "https://app.myshell.ai/chat"
+      },
+      {
+        "icon": "Viral icon pack/favicon/openrouter_ai.png",
+        "id": "c_1vy35lydq",
+        "subtitle": "",
+        "title": "Open Router",
+        "url": "https://openrouter.ai/chat?room=orc-1745569617-clF1fF8rn3LJPT7h4fKN"
+      },
+      {
+        "icon": "Viral icon pack/favicon/openrouter_ai.png",
+        "id": "c_r7595yg4g",
+        "subtitle": "",
+        "title": "openrouter free api key",
+        "url": "https://openrouter.ai/models?max_price=0"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_7alhn5n0f",
+        "subtitle": "",
+        "title": "qwen.ai",
+        "url": "https://chat.qwen.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/reimaginehome_ai.png",
+        "id": "c_4vr5ffcio",
+        "subtitle": "",
+        "title": "reimaginehome.ai",
+        "url": "https://www.reimaginehome.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_d4ett2rxt",
+        "subtitle": "",
+        "title": "surya",
+        "url": "https://www.datalab.to/surya"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_cdd5u4hse",
+        "subtitle": "",
+        "title": "the-big-benchmarks-collection",
+        "url": "https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a"
+      },
+      {
+        "icon": "Viral icon pack/favicon/sdk_vercel_ai.png",
+        "id": "c_opq3zkfcu",
+        "subtitle": "",
+        "title": "vercel.ai",
+        "url": "https://sdk.vercel.ai/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/watermarkremover_io.png",
+        "id": "c_3bgux4qou",
+        "subtitle": "",
+        "title": "watermarkremover.io",
+        "url": "https://www.watermarkremover.io/"
+      }
+    ],
+    "f_fadv2tgwc": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_5uq95k3y8",
+        "subtitle": "",
+        "title": "anonymsms",
+        "url": "https://anonymsms.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/esimplus_me.png",
+        "id": "c_pgmj2p5gx",
+        "subtitle": "",
+        "title": "esimplus.me",
+        "url": "https://esimplus.me/temporary-numbers"
+      },
+      {
+        "icon": "Viral icon pack/favicon/receive-smss-online_com.png",
+        "id": "c_w2qlrw3yt",
+        "subtitle": "",
+        "title": "receive-smss-online",
+        "url": "https://www.receive-smss-online.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/textrapp_com.png",
+        "id": "c_a7w99qu0k",
+        "subtitle": "",
+        "title": "textrapp",
+        "url": "https://textrapp.com/free-tools/textr-free-receive-sms-online-tool"
+      },
+      {
+        "icon": "Viral icon pack/app_the_zueiras_voice.png",
+        "id": "c_ssul0y3u6",
+        "subtitle": "",
+        "title": "Voice",
+        "url": "https://voice.google.com/u/0/calls"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_nexzb7369",
+        "subtitle": "",
+        "title": "www.sms-receive-online",
+        "url": "https://www.sms-receive-online.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_btm1klwq2",
+        "subtitle": "",
+        "title": "yunduanxin",
+        "url": "https://www.yunduanxin.xyz/en/"
+      }
+    ],
+    "f_4ez7y2pgp": [
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_vtevt3bmk",
+        "subtitle": "",
+        "title": "1- nanonets",
+        "url": "https://app.nanonets.com/#/ocr/test/a2c51ca6-7e25-4c47-aad9-9d89cad0493f"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_t2bsy7qt5",
+        "subtitle": "",
+        "title": "Mistral-OCR",
+        "url": "https://huggingface.co/spaces/merterbak/Mistral-OCR"
+      }
+    ],
+    "f_vdaeuxers": [
+      {
+        "icon": "Viral icon pack/system_asus_heart_rate.png",
+        "id": "c_qkn0nt8ov",
+        "subtitle": "",
+        "title": "B760M-PLUS WIFI D4 ASUSTeK ",
+        "url": "https://www.asus.com/supportonly/tuf%20gaming%20b760m-plus%20wifi%20d4/helpdesk_download/"
+      }
+    ],
+    "f_q9m2bg5iy": [
+      {
+        "icon": "Viral icon pack/google_playbook_for_developers.png",
+        "id": "c_gc4bf4yg1",
+        "subtitle": "",
+        "title": "1- hashicorp",
+        "url": "https://developer.hashicorp.com/vault/install?product_intent=vault"
+      },
+      {
+        "icon": "Viral icon pack/portal.png",
+        "id": "c_tyy6fknyk",
+        "subtitle": "",
+        "title": "hashicorp vault cloud",
+        "url": "https://portal.cloud.hashicorp.com/services/secrets/apps/bitwarden/secrets?project_id=247f382b-6869-453a-8b3e-52d833390c69"
+      }
+    ],
+    "f_a2spxca34": [
+      {
+        "icon": "Viral icon pack/google_cloud_console.png",
+        "id": "c_ortpsd1jx",
+        "subtitle": "",
+        "title": "1-Aiven io",
+        "url": "https://console.aiven.io/account/a52492998a86/project/kareemmehesen2026-0680/services"
+      },
+      {
+        "icon": "Viral icon pack/google_cloud_console.png",
+        "id": "c_1dez61yob",
+        "subtitle": "",
+        "title": "2-Upstash Redis",
+        "url": "https://console.upstash.com/redis?teamid=0"
+      },
+      {
+        "icon": "Viral icon pack/actiondash.png",
+        "id": "c_x9oeieahh",
+        "subtitle": "",
+        "title": "Cloudflare",
+        "url": "https://dash.cloudflare.com/30562615b16fd86d16b0509f4f56a9ed/outmatch.online"
+      },
+      {
+        "icon": "Viral icon pack/favicon/cranl_com.png",
+        "id": "c_ybw7owuag",
+        "subtitle": "",
+        "title": "cranl better  than vercel",
+        "url": "https://cranl.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_fkaw10njx",
+        "subtitle": "",
+        "title": "github hosting",
+        "url": "https://container-hosting.anotherwebservice.com/#start"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_itbzt6ln6",
+        "subtitle": "",
+        "title": "GitLab",
+        "url": "https://www.gitlab.com"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_sgikgqj6e",
+        "subtitle": "",
+        "title": "koyeb postgress",
+        "url": "https://app.koyeb.com/database-services/d1d3a3b8-eebb-4205-9735-1d957eb1a4a8/settings"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_zwc12xvup",
+        "subtitle": "",
+        "title": "LeetCode",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_cloud_console.png",
+        "id": "c_dx9t4xxqf",
+        "subtitle": "",
+        "title": "neon  Postgres17",
+        "url": "https://console.neon.tech/app/projects/blue-fire-60786604"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_directions_railway.png",
+        "id": "c_arnwhml82",
+        "subtitle": "",
+        "title": "railway",
+        "url": "https://railway.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vercel_com.png",
+        "id": "c_2j7jchfs0",
+        "subtitle": "",
+        "title": "Vercel",
+        "url": "https://vercel.com"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_7tsbltcm8",
+        "subtitle": "",
+        "title": "zeabur",
+        "url": "https://zeabur.com/projects"
+      }
+    ],
+    "f_jbo6t2h7w": [
+      {
+        "icon": "Viral icon pack/favicon/linuxvmimages_com.png",
+        "id": "c_u9exsk9t6",
+        "subtitle": "",
+        "title": "linuxvmimages",
+        "url": "https://www.linuxvmimages.com/images/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/osboxes_org.png",
+        "id": "c_f4n2ry6ux",
+        "subtitle": "",
+        "title": "osboxes",
+        "url": "https://www.osboxes.org/vmware-images/"
+      }
+    ],
+    "f_1aezjhpmm": [
+      {
+        "icon": "Viral icon pack/favicon/ggntw_com.png",
+        "id": "c_36m0ralhv",
+        "subtitle": "",
+        "title": "ggntw workshop-wallpaper-engine",
+        "url": "https://ggntw.com/steam"
+      },
+      {
+        "icon": "Viral icon pack/favicon/steamcommunity_com.png",
+        "id": "c_6g6q6or2d",
+        "subtitle": "",
+        "title": "workshop - WallpaperEngine",
+        "url": "https://steamcommunity.com/workshop/browse/?appid=431960&browsesort=trend&section=readytouseitems"
+      }
+    ],
+    "f_4nfm18p94": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ke8xncnqr",
+        "subtitle": "",
+        "title": "grafana cloud ",
+        "url": "https://kareemmehesen2026.grafana.net/a/grafana-setupguide-app/onboarding-flow/start?src=hg_notification_trial"
+      }
+    ],
+    "f_87m24tpup": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_rvwm4gooo",
+        "subtitle": "",
+        "title": "Cloud-Free-Tier-Comparison",
+        "url": "https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_fa25lzs3s",
+        "subtitle": "",
+        "title": "jumpserver",
+        "url": "https://github.com/jumpserver/jumpserver?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_vmciunu1w",
+        "subtitle": "",
+        "title": "nakama",
+        "url": "https://github.com/heroiclabs/nakama?tab=readme-ov-file"
+      }
+    ],
+    "f_i47s10jfv": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_4z4q0dd8e",
+        "subtitle": "",
+        "title": "ComfyUI-LTXVideo",
+        "url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_739qmpmo3",
+        "subtitle": "",
+        "title": "LTX-Video",
+        "url": "https://github.com/Lightricks/LTX-Video"
+      }
+    ],
+    "f_bhcvparaw": [
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_sia4c83bd",
+        "subtitle": "",
+        "title": "Regex tricks",
+        "url": "https://app.affine.pro/workspace/d9b6cb93-daf1-4184-8598-9b4deb6c854d/W02FElmLcU"
+      },
+      {
+        "icon": "Viral icon pack/favicon/platform_text_com.png",
+        "id": "c_8lcevdb15",
+        "subtitle": "",
+        "title": "regex-builder",
+        "url": "https://platform.text.com/tools/regex-builder"
+      },
+      {
+        "icon": "Viral icon pack/favicon/regex-generator_olafneumann_org.png",
+        "id": "c_isistp1mz",
+        "subtitle": "",
+        "title": "regex-generator",
+        "url": "https://regex-generator.olafneumann.org/?sampleText=Futurama%20-%2009x06%20L%27attacco%20dei%20pantacloni%20ITA.ENG%201080p%20H265%20sub%20ita.eng%20Sp33dy94-MIRCrew.mkv&flags=i&selection=11%7CDigit,12%7CDigit,13%7CCharacter,14%7CDigit,15%7CDigit"
+      },
+      {
+        "icon": "Viral icon pack/favicon/rexegg_com.png",
+        "id": "c_h4b65xt5b",
+        "subtitle": "",
+        "title": "regex-quickstart",
+        "url": "https://www.rexegg.com/regex-quickstart.php"
+      }
+    ],
+    "f_h19qv6yor": [
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_xlp46h0lm",
+        "subtitle": "",
+        "title": "Affine",
+        "url": "https://app.affine.pro/"
+      },
+      {
+        "icon": "Viral icon pack/app_xodo_docs.png",
+        "id": "c_s9d741yeb",
+        "subtitle": "",
+        "title": "docs.craft.do",
+        "url": "https://docs.craft.do/recents"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_ik7l0tupi",
+        "subtitle": "",
+        "title": "hyprnote",
+        "url": "https://github.com/fastrepl/hyprnote"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_dra4xg0hl",
+        "subtitle": "",
+        "title": "notegen ",
+        "url": "https://notegen.top/zh/preview/files.html"
+      }
+    ],
+    "f_k96yqk9mp": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3fza1mk2r",
+        "subtitle": "",
+        "title": "1- ipspeed.info",
+        "url": "https://ipspeed.info/index.php?language=en"
+      },
+      {
+        "icon": "Viral icon pack/adblock_fast.png",
+        "id": "c_o5gcsespl",
+        "subtitle": "",
+        "title": "2- Fast",
+        "url": "https://fast.com"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gameserverping_com.png",
+        "id": "c_uyrdrsxiw",
+        "subtitle": "",
+        "title": "3- valorant ping test",
+        "url": "https://gameserverping.com/valorant/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/waveform_com.png",
+        "id": "c_g8eqztp1s",
+        "subtitle": "",
+        "title": "bufferbloat",
+        "url": "https://www.waveform.com/tools/bufferbloat"
+      },
+      {
+        "icon": "Viral icon pack/app_imagemeter.png",
+        "id": "c_a826mwtx2",
+        "subtitle": "",
+        "title": "meter.net",
+        "url": "https://www.meter.net/tools/world-ping-test/"
+      }
+    ],
+    "f_5sa9nzrd4": [
+      {
+        "icon": "Viral icon pack/favicon/civitai_com.png",
+        "id": "c_iksexq6u7",
+        "subtitle": "",
+        "title": "civitai",
+        "url": "https://civitai.com/models"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_nrot9oasn",
+        "subtitle": "",
+        "title": "comfyui-wiki install-models",
+        "url": "https://comfyui-wiki.com/en/install/install-models"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_lnbg5d1p8",
+        "subtitle": "",
+        "title": "liblib.art",
+        "url": "https://www.liblib.art/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3ag3xoyjp",
+        "subtitle": "",
+        "title": "openart.ai workflows templates",
+        "url": "https://openart.ai/workflows/templates"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_1y5v9n9gr",
+        "subtitle": "",
+        "title": "Photoshop SDXL + ControlNet",
+        "url": "https://openart.ai/workflows/tiger_vicious_50/photoshop-sdxl-controlnet/2HTFV9wKjCmrmOJuVicZ"
+      }
+    ],
+    "f_gr0jjwnt8": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_jz3wlvm88",
+        "subtitle": "",
+        "title": "agenticSeek",
+        "url": "https://github.com/Fosowl/agenticSeek"
+      }
+    ],
+    "f_q3mypjpfm": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_thmij1t17",
+        "subtitle": "",
+        "title": "Color Hunt",
+        "url": "https://colorhunt.co/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/coolors_co.png",
+        "id": "c_d8jnzkfwg",
+        "subtitle": "",
+        "title": "Coolors",
+        "url": "https://coolors.co/7fb069-fffbbd-e6aa68-ca3c25-1d1a05"
+      },
+      {
+        "icon": "Viral icon pack/favicon/htmlcolorcodes_com.png",
+        "id": "c_kimwv61xz",
+        "subtitle": "",
+        "title": "htmlcolorcodes",
+        "url": "https://htmlcolorcodes.com/"
+      }
+    ],
+    "f_hryxseue6": [
+      {
+        "icon": "Viral icon pack/favicon/uptime_betterstack_com.png",
+        "id": "c_cw9nxlixl",
+        "subtitle": "",
+        "title": "betterstack",
+        "url": "https://uptime.betterstack.com/team/164784/monitors"
+      },
+      {
+        "icon": "Viral icon pack/favicon/hoppscotch_io.png",
+        "id": "c_bkdnlzeut",
+        "subtitle": "",
+        "title": "hoppscotch",
+        "url": "https://hoppscotch.io/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_1iafpn10e",
+        "subtitle": "",
+        "title": "httpie.io",
+        "url": "https://httpie.io/app"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_rz4m66f9o",
+        "subtitle": "",
+        "title": "MotiaDev/motia",
+        "url": "https://github.com/MotiaDev/motia"
+      }
+    ],
+    "f_fboebp1r5": [
+      {
+        "icon": "Viral icon pack/favicon/psychic-waddle-4q4vg4qvj5x3j5rp_github_dev.png",
+        "id": "c_l42s7m82c",
+        "subtitle": "",
+        "title": "Vscode Github",
+        "url": "https://psychic-waddle-4q4vg4qvj5x3j5rp.github.dev/"
+      }
+    ],
+    "f_b5jjh4kg5": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_qgixtod0i",
+        "subtitle": "",
+        "title": "1- fonnts",
+        "url": "https://fonnts.com/"
+      },
+      {
+        "icon": "Viral icon pack/app_fonts.png",
+        "id": "c_t7ztn1ob5",
+        "subtitle": "",
+        "title": "2- font download",
+        "url": "https://font.download/font/"
+      }
+    ],
+    "f_trv4qrpyj": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_w7rtc0y01",
+        "subtitle": "",
+        "title": "n8n",
+        "url": "http://localhost:5678"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3krgmi53s",
+        "subtitle": "",
+        "title": "Workflow",
+        "url": "http://127.0.0.1:8000"
+      }
+    ],
+    "f_n8rngocyf": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6w31jk42s",
+        "subtitle": "",
+        "title": "1- annas archive",
+        "url": "https://annas-archive.org/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/mostrecommendedbooks_com.png",
+        "id": "c_kjls5jz72",
+        "subtitle": "",
+        "title": "10- most recommended books",
+        "url": "https://www.mostrecommendedbooks.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/cse_google_com.png",
+        "id": "c_7yt7uw90n",
+        "subtitle": "",
+        "title": "11- Audio book searcher",
+        "url": "https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd#gsc.tab=0&gsc.q=So%20Good%20They%20Can%E2%80%99t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love&gsc.sort="
+      },
+      {
+        "icon": "Viral icon pack/favicon/hardrisk_github_io.png",
+        "id": "c_lk304o5o9",
+        "subtitle": "",
+        "title": "12- hash to magnet link",
+        "url": "https://hardrisk.github.io/magnet/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_2zixzlx1n",
+        "subtitle": "",
+        "title": "2- library Genesis",
+        "url": "https://libgen.is/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_9coz5264l",
+        "subtitle": "",
+        "title": "3- Z-library ",
+        "url": "https://z-lib.gs/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_jppp78342",
+        "subtitle": "",
+        "title": "4- Book racy",
+        "url": "https://bookracy.ru/?q="
+      },
+      {
+        "icon": "Viral icon pack/favicon/liber3_eth_limo.png",
+        "id": "c_dbbemimrk",
+        "subtitle": "",
+        "title": "5- liber3",
+        "url": "https://liber3.eth.limo/#/?"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_fy2lhsgad",
+        "subtitle": "",
+        "title": "6- pdf drive",
+        "url": "https://www.pdfdrive.to/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/audiobookbay_lu.png",
+        "id": "c_3bjhsrdas",
+        "subtitle": "",
+        "title": "7- audiobookbay",
+        "url": "https://audiobookbay.lu/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_99kgdkunn",
+        "subtitle": "",
+        "title": "8- Magazinelib",
+        "url": "https://magazinelib.com/technology/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/forcoder_net.png",
+        "id": "c_8k7eqmrws",
+        "subtitle": "",
+        "title": "9- for coder",
+        "url": "https://forcoder.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/fmhy_net.png",
+        "id": "c_jf2ed5twy",
+        "subtitle": "",
+        "title": "99- readingpiracyguide",
+        "url": "https://fmhy.net/readingpiracyguide"
+      }
+    ],
+    "f_of81h33m9": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_xjbrwg0rb",
+        "subtitle": "",
+        "title": "sim",
+        "url": "https://github.com/simstudioai/sim"
+      }
+    ],
+    "f_9euflfdjw": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_1q5w8f22a",
+        "subtitle": "",
+        "title": "zerobyte",
+        "url": "https://github.com/nicotsx/zerobyte?tab=readme-ov-file"
+      }
+    ],
+    "f_gthqabiwt": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_7e0rklz7w",
+        "subtitle": "",
+        "title": "1- filecr",
+        "url": "https://filecr.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/pesktop_com.png",
+        "id": "c_tqofaqkfh",
+        "subtitle": "",
+        "title": "2- pesktop",
+        "url": "https://pesktop.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_xw1m7sxl6",
+        "subtitle": "",
+        "title": "3- softarchive",
+        "url": "https://softarchive.is/software/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_madsqbb3e",
+        "subtitle": "",
+        "title": "4- Getintopc",
+        "url": "https://Getintopc.com"
+      },
+      {
+        "icon": "Viral icon pack/favicon/winstall_app.png",
+        "id": "c_o7pj7cr5b",
+        "subtitle": "",
+        "title": "5- winstall",
+        "url": "https://winstall.app/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_qh2vnhp5u",
+        "subtitle": "",
+        "title": "6- aedownload",
+        "url": "https://aedownload.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/programs_themicrotech_net.png",
+        "id": "c_6tqgac6v7",
+        "subtitle": "",
+        "title": "6- themicrotech",
+        "url": "https://programs.themicrotech.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/appdoze_net.png",
+        "id": "c_f0laohpm4",
+        "subtitle": "",
+        "title": "7- appdoze",
+        "url": "https://appdoze.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/allpcworld_com.png",
+        "id": "c_uwup7tndl",
+        "subtitle": "",
+        "title": "7-allpcworld",
+        "url": "https://allpcworld.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/portapps_io.png",
+        "id": "c_4atdmgvmx",
+        "subtitle": "",
+        "title": "98- portable site for program",
+        "url": "https://portapps.io/apps/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_p3hedrto4",
+        "subtitle": "",
+        "title": "99- megathread software",
+        "url": "https://www.reddit.com/r/Piracy/wiki/megathread/software/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_tlju31tr4",
+        "subtitle": "",
+        "title": "AlternativeTo",
+        "url": "https://alternativeto.net/"
+      }
+    ],
+    "f_jejj3vun7": [
+      {
+        "icon": "Viral icon pack/favicon/movie-web-kickstart_vercel_app.png",
+        "id": "c_jzh5h2hux",
+        "subtitle": "",
+        "title": "1- movie-web.app",
+        "url": "https://movie-web-kickstart.vercel.app/new-and-popular"
+      },
+      {
+        "icon": "Viral icon pack/favicon/movieuniverse_lol.png",
+        "id": "c_yroeoo7h8",
+        "subtitle": "",
+        "title": "10- movieuniverse.se",
+        "url": "https://movieuniverse.lol/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_alemhnbkd",
+        "subtitle": "",
+        "title": "11- series4pack",
+        "url": "https://siries4pack.site/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_45fzvdlpg",
+        "subtitle": "",
+        "title": "12- Soup2day",
+        "url": "https://soap2dayx.to/home"
+      },
+      {
+        "icon": "Viral icon pack/system_messaging_asus_colors10.png",
+        "id": "c_tzqhto672",
+        "subtitle": "",
+        "title": "13- Cima club",
+        "url": "https://s10.cmaclb.store/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_quxyfmzcf",
+        "subtitle": "",
+        "title": "14- arab seed",
+        "url": "https://m5.arbsd5.sbs/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_49vt6yn8b",
+        "subtitle": "",
+        "title": "15- 360 torrent upload guy",
+        "url": "https://thepiratebay.org/search.php?q=user:threesixtyp"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_urhqisrhn",
+        "subtitle": "",
+        "title": "2-weciiima",
+        "url": "https://wecima.ac/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_cgmrkvzf8",
+        "subtitle": "",
+        "title": "3- tuktukcinema",
+        "url": "https://tuktukcima.art/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_pa8jhb3r0",
+        "subtitle": "",
+        "title": "4- shahid4",
+        "url": "https://shiid4u.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/fushaar_link.png",
+        "id": "c_tkl9zn6aw",
+        "subtitle": "",
+        "title": "5- fushaar",
+        "url": "https://www.fushaar.link/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elcinema_com.png",
+        "id": "c_79op2f6fo",
+        "subtitle": "",
+        "title": "6- cinema",
+        "url": "https://elcinema.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_b01s0abp6",
+        "subtitle": "",
+        "title": "7- arblionz",
+        "url": "https://arblionz.net/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_cxfo4qfr3",
+        "subtitle": "",
+        "title": "7- cimanow",
+        "url": "https://cimanow.cc/"
+      },
+      {
+        "icon": "Viral icon pack/amtrak.png",
+        "id": "c_2h6lsw20f",
+        "subtitle": "",
+        "title": "8- Akwam",
+        "url": "https://ak.sv/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_17ixqvngm",
+        "subtitle": "",
+        "title": "9- ciimaa4u",
+        "url": "https://cima4u.actor/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/extend_seedr_cc.png",
+        "id": "c_tzfoa8tr2",
+        "subtitle": "",
+        "title": "extend.seedr.cc/stremio/",
+        "url": "https://extend.seedr.cc/stremio/?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6OTc7fXM6NToiZW1haWwiO2k6OTc7czo0OiJzdGF0IjtzOjIyOiI2OWE0NzQ5YTg2Nzg1MDg3NzQ1MjY2IjtzOjQ6ImxlYWQiO3M6NzoiMzY0ODA4OCI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6OTc7fX0%3D&utm_source=mautic&utm_medium=email&utm_campaign=stremio-addon&utm_content=cta_primary"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_wkxcgm3i9",
+        "subtitle": "",
+        "title": "Filepursuit",
+        "url": "https://filepursuit.com/"
+      },
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_6ag9bzcbs",
+        "subtitle": "",
+        "title": "stremio web",
+        "url": "https://web.stremio.com/#/"
+      }
+    ],
+    "f_thx3tw9ru": [
+      {
+        "icon": "Viral icon pack/favicon/sigma-computer_com.png",
+        "id": "c_vaniih9wq",
+        "subtitle": "",
+        "title": "1- sigma-computer",
+        "url": "https://www.sigma-computer.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compumarts_com.png",
+        "id": "c_phf2tq003",
+        "subtitle": "",
+        "title": "10- compumarts",
+        "url": "https://www.compumarts.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compuscience_com_eg.png",
+        "id": "c_xu4ci9g9v",
+        "subtitle": "",
+        "title": "11- compuscience",
+        "url": "https://compuscience.com.eg/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ntj3hvp7s",
+        "subtitle": "",
+        "title": "12- nextmarteg",
+        "url": "https://www.nextmarteg.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compuartstore_com.png",
+        "id": "c_7kug02u6m",
+        "subtitle": "",
+        "title": "13- compuartstore",
+        "url": "https://www.compuartstore.com/intel?sort=p.price&order=DESC&page=2"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_b4cu511qt",
+        "subtitle": "",
+        "title": "14- maximumhardware",
+        "url": "https://maximumhardware.store/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3h1s2tfn8",
+        "subtitle": "",
+        "title": "15- solidhardware",
+        "url": "https://solidhardware.store/shop/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/highendstore_net.png",
+        "id": "c_nuu1fqk5e",
+        "subtitle": "",
+        "title": "16- highendstore",
+        "url": "https://highendstore.net/index.php?route=common/home"
+      },
+      {
+        "icon": "Viral icon pack/favicon/hankerz_com_eg.png",
+        "id": "c_erqifgx0t",
+        "subtitle": "",
+        "title": "17- hankerz",
+        "url": "https://www.hankerz.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/antennapod.png",
+        "id": "c_o44rkb7dp",
+        "subtitle": "",
+        "title": "18- ennap",
+        "url": "https://www.ennap.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/kimostore_net.png",
+        "id": "c_kohmgdnjg",
+        "subtitle": "",
+        "title": "19- kimostore",
+        "url": "https://kimostore.net/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4215lce2k",
+        "subtitle": "",
+        "title": "2- alfrensia",
+        "url": "https://alfrensia.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/homzmart_com.png",
+        "id": "c_soyq7i8ae",
+        "subtitle": "",
+        "title": "20- homzmart",
+        "url": "https://homzmart.com/c/appliances"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_kj891jtfw",
+        "subtitle": "",
+        "title": "21- albadrlaptop",
+        "url": "https://albadrlaptop.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/computecheg_com.png",
+        "id": "c_q265cwyem",
+        "subtitle": "",
+        "title": "22- computecheg",
+        "url": "https://computecheg.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/2b_com_eg.png",
+        "id": "c_iz5rrc126",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/ar/home-appliances.html"
+      },
+      {
+        "icon": "Viral icon pack/venus.png",
+        "id": "c_r5z37n5iq",
+        "subtitle": "",
+        "title": "3- venus.tech",
+        "url": "https://venus.tech/shop/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/barakacomputer_net.png",
+        "id": "c_9gacuxg7q",
+        "subtitle": "",
+        "title": "4- barakacomputer",
+        "url": "https://barakacomputer.net/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ft4sd9gxk",
+        "subtitle": "",
+        "title": "5- hardwaremarket",
+        "url": "https://hardwaremarket.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/ahw_store.png",
+        "id": "c_viud8n4xx",
+        "subtitle": "",
+        "title": "6- arabhardware",
+        "url": "https://ahw.store/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elbadrgroupeg_store.png",
+        "id": "c_a7xnh16bw",
+        "subtitle": "",
+        "title": "7- elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4w47cvdvc",
+        "subtitle": "",
+        "title": "8- elnour-tech",
+        "url": "https://elnour-tech.com/ar/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elnekhelytechnology_com.png",
+        "id": "c_mjri0bzjq",
+        "subtitle": "",
+        "title": "9- elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/altyseer_com.png",
+        "id": "c_ddrgh8z5m",
+        "subtitle": "",
+        "title": "altyseer",
+        "url": "https://altyseer.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/btech_com.png",
+        "id": "c_yhc46nswk",
+        "subtitle": "",
+        "title": "btech",
+        "url": "https://btech.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compudatacenter_com.png",
+        "id": "c_j8dci7zn1",
+        "subtitle": "",
+        "title": "compudatacenter",
+        "url": "https://compudatacenter.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/eg-pc_com.png",
+        "id": "c_5cym2rd62",
+        "subtitle": "",
+        "title": "eg-pc",
+        "url": "https://eg-pc.com/?in_stock=true&category=monitor&page=10&sort_field=price&sort_dir=asc"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elarabygroup_com.png",
+        "id": "c_9tw2c945p",
+        "subtitle": "",
+        "title": "elarabygroup",
+        "url": "https://www.elarabygroup.com/ar/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elghazawy_com.png",
+        "id": "c_u9tqg4wme",
+        "subtitle": "",
+        "title": "elghazawy",
+        "url": "https://elghazawy.com/ar/categories/home-appliances"
+      },
+      {
+        "icon": "Viral icon pack/favicon/eliraqi_com_eg.png",
+        "id": "c_q1nhrb6rr",
+        "subtitle": "",
+        "title": "eliraqi",
+        "url": "https://eliraqi.com.eg/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_om2cgmznu",
+        "subtitle": "",
+        "title": "esteraad",
+        "url": "https://www.esteraad.com/ar/"
+      },
+      {
+        "icon": "Viral icon pack/amazonfresh.png",
+        "id": "c_cemo28961",
+        "subtitle": "",
+        "title": "fresh",
+        "url": "https://fresh.com.eg/en"
+      },
+      {
+        "icon": "Viral icon pack/favicon/hyperone_com_eg.png",
+        "id": "c_32guvefq4",
+        "subtitle": "",
+        "title": "hyperone",
+        "url": "https://www.hyperone.com.eg/ar/categories/appliances"
+      },
+      {
+        "icon": "Viral icon pack/favicon/jumia_com_eg.png",
+        "id": "c_k9tsla3mg",
+        "subtitle": "",
+        "title": "jumia",
+        "url": "https://www.jumia.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/app_lg_friends_manager.png",
+        "id": "c_3opytdytz",
+        "subtitle": "",
+        "title": "lg",
+        "url": "https://www.lg.com/eg_ar/home-appliances"
+      },
+      {
+        "icon": "Viral icon pack/favicon/passap_com_eg.png",
+        "id": "c_vdgukborn",
+        "subtitle": "",
+        "title": "passap",
+        "url": "https://www.passap.com.eg/arabic/home/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/price-engine_com.png",
+        "id": "c_rbpigl7sg",
+        "subtitle": "",
+        "title": "price-engine",
+        "url": "https://price-engine.com/?dept=electronics"
+      },
+      {
+        "icon": "Viral icon pack/favicon/raneen_com.png",
+        "id": "c_x740ux6je",
+        "subtitle": "",
+        "title": "raneen",
+        "url": "https://www.raneen.com/ar/appliances"
+      },
+      {
+        "icon": "Viral icon pack/favicon/rayashop_com.png",
+        "id": "c_pgm739yqe",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/ar/large-appliances"
+      },
+      {
+        "icon": "Viral icon pack/favicon/softlaptop_com.png",
+        "id": "c_izzk6t309",
+        "subtitle": "",
+        "title": "softlaptop",
+        "url": "https://softlaptop.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_2w7t0u7u0",
+        "subtitle": "",
+        "title": "TimeTech",
+        "url": "https://www.timetecheg.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_91i4ejldp",
+        "subtitle": "",
+        "title": "trend-pc",
+        "url": "https://www.trend-pc.com/"
+      }
+    ],
+    "f_3r7mc1ege": [
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_sxf1ljhaz",
+        "subtitle": "",
+        "title": "1- internet usage 🛜",
+        "url": "https://my.te.eg/echannel/#/usage?mainOfferId=820048"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_syk4ozbps",
+        "subtitle": "",
+        "title": "2- renew , exp dates 🗓️",
+        "url": "https://my.te.eg/echannel/#/overview"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_bpxx2tlx5",
+        "subtitle": "",
+        "title": "accountoverview",
+        "url": "https://my.te.eg/echannel/#/accountoverview"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_rkpfqmbo4",
+        "subtitle": "",
+        "title": "addon",
+        "url": "https://my.te.eg/echannel/#/tomoreaddon"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_ltgc2dw38",
+        "subtitle": "",
+        "title": "balance-recharge [we internet]",
+        "url": "https://my.te.eg/echannel/#/balance-recharge"
+      },
+      {
+        "icon": "Viral icon pack/app_internet_speed_meter.png",
+        "id": "c_87z5k395q",
+        "subtitle": "",
+        "title": "Vodafone Cash",
+        "url": "https://internet.vodafone.com.eg/digital/vf_cash_guide.pdf"
+      }
+    ],
+    "f_3zzdwhyth": [
+      {
+        "icon": "Viral icon pack/favicon/routeway_ai.png",
+        "id": "c_dcs9vupp1",
+        "subtitle": "",
+        "title": "routeway",
+        "url": "https://routeway.ai/dashboard"
+      }
+    ],
+    "f_h9zyqjasu": [
+      {
+        "icon": "Viral icon pack/app_streamlabs.png",
+        "id": "c_fehu7ybpr",
+        "subtitle": "",
+        "title": "flow ",
+        "url": "https://labs.google/fx/tools/flow/"
+      }
+    ],
+    "f_v7rnv4ya2": [
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_oivphynqq",
+        "subtitle": "",
+        "title": "ResembleAI/Chatterbox",
+        "url": "https://huggingface.co/spaces/ResembleAI/Chatterbox"
+      }
+    ],
+    "f_xe82elyx3": [
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_q4pgqnhrx",
+        "subtitle": "",
+        "title": "gemini",
+        "url": "https://gemini.google.com/app"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_y2pdpf5uy",
+        "subtitle": "",
+        "title": "OpenAI",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/firecrawl_dev.png",
+        "id": "c_bgvgt1s07",
+        "subtitle": "",
+        "title": "scrape url",
+        "url": "https://www.firecrawl.dev/playground?endpoint=scrape&url=https%3A%2F%2Fprice-engine.com%2F%3Fcat%3Dmotherboard&dept=electronics"
+      }
+    ],
+    "f_8ggifxzwn": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_ilt7oc94b",
+        "subtitle": "",
+        "title": "public-apis",
+        "url": "https://github.com/public-apis/public-apis"
+      }
+    ],
+    "f_rz97hmgjd": [
+      {
+        "icon": "Viral icon pack/favicon/openstatus_dev.png",
+        "id": "c_y71icgaar",
+        "subtitle": "",
+        "title": "openstatus.dev",
+        "url": "https://www.openstatus.dev/app/onboarding?workspaceSlug=melodic-autumn&path=http"
+      }
+    ],
+    "f_itqvhk6to": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_kiwlownpy",
+        "subtitle": "",
+        "title": "cc checker",
+        "url": "https://chkr.cc/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/dummylabs_live.png",
+        "id": "c_75gzd4rdv",
+        "subtitle": "",
+        "title": "cc-generator",
+        "url": "https://dummylabs.live/cc-generator"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_2rgug7fdt",
+        "subtitle": "",
+        "title": "credit-card-validator",
+        "url": "https://dnschecker.org/credit-card-validator.php?ccn=3743551269364129"
+      },
+      {
+        "icon": "Viral icon pack/favicon/payate_com.png",
+        "id": "c_x4ax6u6sv",
+        "subtitle": "",
+        "title": "payate",
+        "url": "https://www.payate.com/best-credit-cards/"
+      }
+    ],
+    "f_1m3zh225m": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_i8cakppkg",
+        "subtitle": "",
+        "title": "codefy",
+        "url": "https://www.codefy.ai/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_sztaltncq",
+        "subtitle": "",
+        "title": "replit",
+        "url": "https://replit.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ln3aqbix3",
+        "subtitle": "",
+        "title": "stackblitz",
+        "url": "https://stackblitz.com/"
+      }
+    ],
+    "f_zsjmqr771": [
+      {
+        "icon": "Viral icon pack/canva.png",
+        "id": "c_a87ptz0ah",
+        "subtitle": "",
+        "title": "Canva",
+        "url": "https://www.canva.com/colors/color-palette-generator/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_z46rj0mpx",
+        "subtitle": "",
+        "title": "Color Hunt",
+        "url": "https://colorhunt.co/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/coolors_co.png",
+        "id": "c_labiugzch",
+        "subtitle": "",
+        "title": "Coolors",
+        "url": "https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06"
+      },
+      {
+        "icon": "Viral icon pack/favicon/stephango_com.png",
+        "id": "c_it8rrrrn5",
+        "subtitle": "",
+        "title": "flexoki",
+        "url": "https://stephango.com/flexoki"
+      }
+    ],
+    "f_4nkw2k3j3": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_m4ojh5rwu",
+        "subtitle": "",
+        "title": "blockchair",
+        "url": "https://blockchair.com/"
+      }
+    ],
+    "f_z7d7h2a06": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_yr0rd6qkj",
+        "subtitle": "",
+        "title": "animate.style",
+        "url": "https://animate.style/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/markodenic_com.png",
+        "id": "c_yvqix0idk",
+        "subtitle": "",
+        "title": "buttons-generator/",
+        "url": "https://markodenic.com/tools/buttons-generator/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ssrhkao79",
+        "subtitle": "",
+        "title": "codeimg.io",
+        "url": "https://codeimg.io/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3mxdrpxg0",
+        "subtitle": "",
+        "title": "creative-tim",
+        "url": "https://www.creative-tim.com/bootstrap-themes/free"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_dqfz1cza3",
+        "subtitle": "",
+        "title": "free-css-templates",
+        "url": "https://www.free-css.com/free-css-templates"
+      },
+      {
+        "icon": "Viral icon pack/favicon/html5up_net.png",
+        "id": "c_loulkzshr",
+        "subtitle": "",
+        "title": "html5up",
+        "url": "https://html5up.net/"
+      },
+      {
+        "icon": "Viral icon pack/app_promo_codes.png",
+        "id": "c_4y28b8rz8",
+        "subtitle": "",
+        "title": "image-resizer/",
+        "url": "https://promo.com/tools/image-resizer/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ct09espp4",
+        "subtitle": "",
+        "title": "mashuptemplate/",
+        "url": "https://themewagon.com/author/mashuptemplate/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_z1pnes1id",
+        "subtitle": "",
+        "title": "mdbootstrap freebies",
+        "url": "https://mdbootstrap.com/freebies/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/css-tricks_com.png",
+        "id": "c_tm7qeyek4",
+        "subtitle": "",
+        "title": "media-queries-for-standard-devices/",
+        "url": "https://css-tricks.com/snippets/css/media-queries-for-standard-devices/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_navetcncs",
+        "subtitle": "",
+        "title": "metatags.io",
+        "url": "https://metatags.io/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/mockups_pixeltrue_com.png",
+        "id": "c_c3xa6t2z3",
+        "subtitle": "",
+        "title": "mockups",
+        "url": "https://mockups.pixeltrue.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_8j6k3qgae",
+        "subtitle": "",
+        "title": "picsum.photos",
+        "url": "https://picsum.photos/"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_leak_remove.png",
+        "id": "c_x3b3oq8ms",
+        "subtitle": "",
+        "title": "Remove Background",
+        "url": "https://www.remove.bg/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_516omf0ca",
+        "subtitle": "",
+        "title": "screensizemap",
+        "url": "https://www.screensizemap.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_jfgqtpozk",
+        "subtitle": "",
+        "title": "startbootstrap templates",
+        "url": "https://startbootstrap.com/templates"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6ds0p9bj3",
+        "subtitle": "",
+        "title": "templatemo",
+        "url": "https://templatemo.com/page/1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0p43ed5mp",
+        "subtitle": "",
+        "title": "wireframer",
+        "url": "https://wireframer.art/"
+      }
+    ],
+    "f_hemyiveo8": [
+      {
+        "icon": "Viral icon pack/alliant_energy.png",
+        "id": "c_rrd5g2e4i",
+        "subtitle": "",
+        "title": "Ant Design",
+        "url": "https://ant.design/docs/react/introduce"
+      },
+      {
+        "icon": "Viral icon pack/favicon/chakra-ui_com.png",
+        "id": "c_6z9pwj0w9",
+        "subtitle": "",
+        "title": "chakra-ui",
+        "url": "https://chakra-ui.com/docs/styled-system/theme"
+      },
+      {
+        "icon": "Viral icon pack/app_emui_themes.png",
+        "id": "c_u997a1qq0",
+        "subtitle": "",
+        "title": "mui",
+        "url": "https://mui.com/core/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/nextui_org.png",
+        "id": "c_b1okxdwew",
+        "subtitle": "",
+        "title": "nextui",
+        "url": "https://nextui.org/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_1gpoe0b22",
+        "subtitle": "",
+        "title": "react-native-vector-icons",
+        "url": "https://oblador.github.io/react-native-vector-icons/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6rtq9c51d",
+        "subtitle": "",
+        "title": "react-native-web",
+        "url": "https://necolas.github.io/react-native-web/docs/picker/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/react_semantic-ui_com.png",
+        "id": "c_gg97tbw64",
+        "subtitle": "",
+        "title": "react.semantic-u",
+        "url": "https://react.semantic-ui.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/reactnativeelements_com.png",
+        "id": "c_ipfuinwhq",
+        "subtitle": "",
+        "title": "reactnativeelements",
+        "url": "https://reactnativeelements.com/docs"
+      },
+      {
+        "icon": "Viral icon pack/favicon/evergreen_segment_com.png",
+        "id": "c_2meatqn2y",
+        "subtitle": "",
+        "title": "Segment",
+        "url": "https://evergreen.segment.com/components"
+      },
+      {
+        "icon": "Viral icon pack/app_emui_themes.png",
+        "id": "c_yw3pusn8y",
+        "subtitle": "",
+        "title": "ui.shadcn",
+        "url": "https://ui.shadcn.com/docs/components/switch"
+      }
+    ],
+    "f_937hyy8qd": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_6hlo2trc0",
+        "subtitle": "",
+        "title": "ai Scraping",
+        "url": "https://github.com/VinciGit00/Scrapegraph-ai"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_0j04e76d8",
+        "subtitle": "",
+        "title": "app.koyeb",
+        "url": "https://app.koyeb.com/database-services/b67957fe-aa9b-4c98-ba61-b7cdcdcaefaf/connection-details"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_ldud3hrbz",
+        "subtitle": "",
+        "title": "app.teable",
+        "url": "https://app.teable.io/base/bseUNFLA5WannnYaHqc/dashboard"
+      },
+      {
+        "icon": "Viral icon pack/favicon/it-tools_tech.png",
+        "id": "c_j3t0o042v",
+        "subtitle": "",
+        "title": "best tools",
+        "url": "https://it-tools.tech/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/uptime_betterstack_com.png",
+        "id": "c_vmebgleg4",
+        "subtitle": "",
+        "title": "betterstack",
+        "url": "https://uptime.betterstack.com/team/164784/monitors"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_aruz15q6q",
+        "subtitle": "",
+        "title": "bun js and ts engine",
+        "url": "https://github.com/oven-sh/bun?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_dashboard.png",
+        "id": "c_0pyt392ax",
+        "subtitle": "",
+        "title": "dashboard.render",
+        "url": "https://dashboard.render.com/d/dpg-cnsu0t0l6cac73dcfu5g-a/info"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_details.png",
+        "id": "c_d9iv9fjzu",
+        "subtitle": "",
+        "title": "deta.space",
+        "url": "https://deta.space/?horizon=ypgyWpWmwo"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_cs7e3kf7c",
+        "subtitle": "",
+        "title": "dev road map",
+        "url": "https://github.com/kamranahmedse/developer-roadmap"
+      },
+      {
+        "icon": "Viral icon pack/favicon/drawdb_vercel_app.png",
+        "id": "c_jthvqgc1z",
+        "subtitle": "",
+        "title": "drawdb.vercel",
+        "url": "https://drawdb.vercel.app/editor"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_1cekiqzsf",
+        "subtitle": "",
+        "title": "free-for-dev",
+        "url": "https://github.com/ripienaar/free-for-dev"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_39vaum9qz",
+        "subtitle": "",
+        "title": "Gitpod Vscode",
+        "url": "https://red0hood-vscode-s4rfy6kirux.ws-eu107.gitpod.io/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gitpod_io.png",
+        "id": "c_t8wxx3dub",
+        "subtitle": "",
+        "title": "gitpod.io",
+        "url": "https://gitpod.io/workspaces"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_5p192tyw6",
+        "subtitle": "",
+        "title": "Google idx",
+        "url": "https://idx.google.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0e2j72xe1",
+        "subtitle": "",
+        "title": "LeetCode",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_7h2f9d78r",
+        "subtitle": "",
+        "title": "llm-app-stack",
+        "url": "https://github.com/a16z-infra/llm-app-stack"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_c0wu5vzso",
+        "subtitle": "",
+        "title": "MoneyPrinterV2",
+        "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+      },
+      {
+        "icon": "Viral icon pack/amazon_cloud_drive.png",
+        "id": "c_gzo97f7gi",
+        "subtitle": "",
+        "title": "MongoDB",
+        "url": "https://cloud.mongodb.com/v2/65913e0ac02eda2c765693d8#/metrics/replicaSet/659142d1f3c9ff79489bdfc6/explorer/mydatabase/Invoice/find"
+      },
+      {
+        "icon": "Viral icon pack/amazon_cloud_drive.png",
+        "id": "c_qkv8qlw0m",
+        "subtitle": "",
+        "title": "MongoDB atlas",
+        "url": "https://cloud.mongodb.com/v2/65913e0ac02eda2c765693d8#/overview"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_tiwnm1qiq",
+        "subtitle": "",
+        "title": "node (backend)",
+        "url": "http://localhost:5000/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_rj8y6s35w",
+        "subtitle": "",
+        "title": "OpenDevin",
+        "url": "https://github.com/OpenDevin/OpenDevin"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_9aw4ywng3",
+        "subtitle": "",
+        "title": "plandex",
+        "url": "https://github.com/plandex-ai/plandex?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_opka1fwwy",
+        "subtitle": "",
+        "title": "professional-programming",
+        "url": "https://github.com/charlax/professional-programming"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_fjfsuxoq4",
+        "subtitle": "",
+        "title": "react (frontend)",
+        "url": "http://localhost:3000/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_bstkp6p18",
+        "subtitle": "",
+        "title": "refinedev/refine",
+        "url": "https://github.com/refinedev/refine"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_vsajf0yv1",
+        "subtitle": "",
+        "title": "zerotomastery-complete-web-mobile-designer-in-2023-ui-ux-figma-more.97/",
+        "url": "https://tutflix.org/resources/zerotomastery-complete-web-mobile-designer-in-2023-ui-ux-figma-more.97/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_a8qamwwkw",
+        "subtitle": "",
+        "title": "zoom-clone",
+        "url": "https://github.com/adrianhajdin/zoom-clone"
+      }
+    ],
+    "f_abkpg9arb": [
+      {
+        "icon": "Viral icon pack/app_systempanel.png",
+        "id": "c_sik1aerlp",
+        "subtitle": "",
+        "title": "000webhost",
+        "url": "https://panel.000webhost.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_enlt5ecur",
+        "subtitle": "",
+        "title": "cloudns",
+        "url": "https://www.cloudns.net/main/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/dnspod_com.png",
+        "id": "c_91a4zpoi3",
+        "subtitle": "",
+        "title": "dnspod",
+        "url": "https://www.dnspod.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/gname_com.png",
+        "id": "c_jjyiun8dn",
+        "subtitle": "",
+        "title": "gname",
+        "url": "https://www.gname.com/user#/admin_ym"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_k7kz85uwp",
+        "subtitle": "",
+        "title": "https://app.tinkerhost.net/",
+        "url": "https://app.tinkerhost.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_domains.png",
+        "id": "c_9abb3zapl",
+        "subtitle": "",
+        "title": "https://domain.stackryze.com/",
+        "url": "https://domain.stackryze.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/namecheap_com.png",
+        "id": "c_0fa4j5gfk",
+        "subtitle": "",
+        "title": "Namecheap",
+        "url": "https://www.namecheap.com"
+      },
+      {
+        "icon": "Viral icon pack/app_bionic_reading.png",
+        "id": "c_iwrr9ipny",
+        "subtitle": "",
+        "title": "nic.eu.org",
+        "url": "https://nic.eu.org/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_no8l99hrb",
+        "subtitle": "",
+        "title": "outmatch.online",
+        "url": "https://outmatch.online/"
+      },
+      {
+        "icon": "Viral icon pack/alto_mail.png",
+        "id": "c_nyi13ii01",
+        "subtitle": "",
+        "title": "private-mail",
+        "url": "https://mail.zoho.com/zm/#mail/folder/inbox/p/1693357492260110002"
+      },
+      {
+        "icon": "Viral icon pack/favicon/mailadmin_zoho_com.png",
+        "id": "c_rr42d4ksf",
+        "subtitle": "",
+        "title": "Zoho",
+        "url": "https://mailadmin.zoho.com/hosting?plan=free"
+      }
+    ],
+    "f_niv8aw5db": [
+      {
+        "icon": "Viral icon pack/favicon/adel-elsamman_com.png",
+        "id": "c_rznuyiah7",
+        "subtitle": "",
+        "title": "adel-elsamman",
+        "url": "https://www.adel-elsamman.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4qa6gj7bi",
+        "subtitle": "",
+        "title": "elgammalelectronics",
+        "url": "http://www.elgammalelectronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/free-electronic_com.png",
+        "id": "c_9dk05i68a",
+        "subtitle": "",
+        "title": "free-electronic",
+        "url": "https://free-electronic.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lampatronics_com.png",
+        "id": "c_dzg2b13tu",
+        "subtitle": "",
+        "title": "lampatronics",
+        "url": "https://lampatronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/makerselectronics_com.png",
+        "id": "c_0aipcji1b",
+        "subtitle": "",
+        "title": "makerselectronics",
+        "url": "https://makerselectronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_appstore.png",
+        "id": "c_y0jyv61ix",
+        "subtitle": "",
+        "title": "store.fut-electronics",
+        "url": "https://store.fut-electronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/uge-one_com.png",
+        "id": "c_trmm3k9xx",
+        "subtitle": "",
+        "title": "uge-one",
+        "url": "https://uge-one.com/categories/"
+      }
+    ],
+    "f_nfesjwrt0": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_ezl2l86vy",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/Drakkar-Software/OctoBot"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_stfb8lpr6",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/tysonwu/dash-tradingview"
+      }
+    ],
+    "f_er3ljrwfp": [
+      {
+        "icon": "Viral icon pack/favicon/bassamtalksgenerator_lovable_app.png",
+        "id": "c_crmiodfan",
+        "subtitle": "",
+        "title": "bassamtalksgenerator",
+        "url": "https://bassamtalksgenerator.lovable.app/"
+      },
+      {
+        "icon": "Viral icon pack/app_streamlabs.png",
+        "id": "c_kphk1a21a",
+        "subtitle": "",
+        "title": "flow",
+        "url": "https://labs.google/fx/tools/flow"
+      },
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_36b4809xb",
+        "subtitle": "",
+        "title": "gemini",
+        "url": "https://gemini.google.com/app"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_w5sqxwu7w",
+        "subtitle": "",
+        "title": "opal",
+        "url": "https://opal.google/landing/"
+      },
+      {
+        "icon": "Viral icon pack/app_stitcher.png",
+        "id": "c_ksgu6r6ar",
+        "subtitle": "",
+        "title": "stitch google",
+        "url": "https://stitch.withgoogle.com/projects/15331715079905368599?pli=1"
+      },
+      {
+        "icon": "Viral icon pack/app_streamlabs.png",
+        "id": "c_0fvpo6s43",
+        "subtitle": "",
+        "title": "veo 3 flow",
+        "url": "https://labs.google/fx/tools/flow/project/577443e9-727a-4a7e-884f-121240044000"
+      },
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_fb8ylu0vz",
+        "subtitle": "",
+        "title": "Veo3",
+        "url": "https://gemini.google.com/app?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+      },
+      {
+        "icon": "Viral icon pack/favicon/ocdevel_com.png",
+        "id": "c_tqjyr1pgv",
+        "subtitle": "",
+        "title": "Veo3 enhancer",
+        "url": "https://ocdevel.com/prompt"
+      }
+    ],
+    "f_sevyr82ju": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_es22y4wz1",
+        "subtitle": "",
+        "title": "breached",
+        "url": "https://breached.vc/index.php"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ujzg53tu1",
+        "subtitle": "",
+        "title": "nulled.to",
+        "url": "https://www.nulled.to/index.php?"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_s24f9g62l",
+        "subtitle": "",
+        "title": "top hacker forums",
+        "url": "https://webz.io/dwp/top-5-hacker-forums-on-the-deep-and-dark-web-in-2022/"
+      }
+    ],
+    "f_jynnd74z7": [
+      {
+        "icon": "Viral icon pack/app_youtube_blue.png",
+        "id": "c_rhccn3yew",
+        "subtitle": "",
+        "title": " تدبر سورة النحل",
+        "url": "https://www.youtube.com/watch?v=B5Uu4tweUI8&list=PLukAHj56HNKan5Fv62SnvIlOHmtolkbsv"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_5gvzcz8vt",
+        "subtitle": "",
+        "title": "alternativeto",
+        "url": "https://alternativeto.net/browse/new-apps/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_xocngav7f",
+        "subtitle": "",
+        "title": "build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+      },
+      {
+        "icon": "Viral icon pack/favicon/codesandbox_io.png",
+        "id": "c_nsrkarzri",
+        "subtitle": "",
+        "title": "CodeSandbox",
+        "url": "https://codesandbox.io/signin"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_e0tw5517z",
+        "subtitle": "",
+        "title": "dns-blocklists ultimate",
+        "url": "https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ultimate"
+      },
+      {
+        "icon": "Viral icon pack/favicon/excalidraw_com.png",
+        "id": "c_du1ibh4c1",
+        "subtitle": "",
+        "title": "excalidraw",
+        "url": "https://excalidraw.com/"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_znfynp4eh",
+        "subtitle": "",
+        "title": "flowsavvy",
+        "url": "https://my.flowsavvy.app/app"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_wud23amhm",
+        "subtitle": "",
+        "title": "full-stack",
+        "url": "https://roadmap.sh/full-stack"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_dcj3beo9j",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/trending"
+      },
+      {
+        "icon": "Viral icon pack/google.png",
+        "id": "c_f7hd5gj04",
+        "subtitle": "",
+        "title": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "icon": "Viral icon pack/app_business_calendar_1.png",
+        "id": "c_co10vfnxu",
+        "subtitle": "",
+        "title": "Google Calendar",
+        "url": "https://calendar.google.com"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_h4niuaq9v",
+        "subtitle": "",
+        "title": "internet usage",
+        "url": "https://my.te.eg/echannel/#/usage?mainOfferId=820048"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_uja8g0gtu",
+        "subtitle": "",
+        "title": "Jsoncrack.com",
+        "url": "https://github.com/AykutSarac/jsoncrack.com"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_v1shk879j",
+        "subtitle": "",
+        "title": "karakeep",
+        "url": "https://github.com/karakeep-app/karakeep"
+      },
+      {
+        "icon": "Viral icon pack/favicon/kixat_com.png",
+        "id": "c_qjoa5rzyu",
+        "subtitle": "",
+        "title": "kixat",
+        "url": "https://www.kixat.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/meteum_ai.png",
+        "id": "c_p1gyjb8ec",
+        "subtitle": "",
+        "title": "meteum.ai",
+        "url": "https://meteum.ai/weather/en?utm_campaign=suggest&utm_medium=drp&utm_source=distrib&clid=3721391&lat=31.427796&lon=31.811222"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_kvgcrmhu0",
+        "subtitle": "",
+        "title": "OSSU ",
+        "url": "https://github.com/ossu/computer-science"
+      },
+      {
+        "icon": "Viral icon pack/alarmpad.png",
+        "id": "c_p7v3r0g7v",
+        "subtitle": "",
+        "title": "pad.ws - whiteboard as an IDE",
+        "url": "https://pad.ws/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_983oyclq4",
+        "subtitle": "",
+        "title": "productivie.",
+        "url": "https://www.productivie.com/app"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_etushxir6",
+        "subtitle": "",
+        "title": "roadmap",
+        "url": "https://roadmap.sh/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_hrmi58ak8",
+        "subtitle": "",
+        "title": "Router",
+        "url": "http://Zero:8080@192.168.2.1/QoS.asp"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_itmzxyrip",
+        "subtitle": "",
+        "title": "system-design-101",
+        "url": "https://github.com/ByteByteGoHq/system-design-101"
+      },
+      {
+        "icon": "Viral icon pack/app_youtube_blue.png",
+        "id": "c_fmmjpjds6",
+        "subtitle": "",
+        "title": "YouTube",
+        "url": "https://www.youtube.com"
+      },
+      {
+        "icon": "Viral icon pack/app_youtube_blue.png",
+        "id": "c_s809cf5t5",
+        "subtitle": "",
+        "title": "اسرع طريقه تستخدم بيها فلاكس كونتيكست || FLUX KONTEXT WITH nunchaku",
+        "url": "https://www.youtube.com/watch?v=SQoWlC0M_no"
+      }
+    ],
+    "f_pidk9pqpn": [
+      {
+        "icon": "Viral icon pack/favicon/ideogram_ai.png",
+        "id": "c_7st9rj6yu",
+        "subtitle": "",
+        "title": "4-ideogram",
+        "url": "https://ideogram.ai/t/explore"
+      },
+      {
+        "icon": "Viral icon pack/app_chat___gpt.png",
+        "id": "c_9z9iwb1zd",
+        "subtitle": "",
+        "title": "flux 1.1 pro",
+        "url": "https://chat.mistral.ai/chat/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_xn9vfc7sa",
+        "subtitle": "",
+        "title": "XLabs-AI-flux-RealismLora",
+        "url": "https://huggingface.co/spaces/Remodeler9023/XLabs-AI-flux-RealismLora"
+      }
+    ],
+    "f_yu6eivbn4": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_zgvkegos8",
+        "subtitle": "",
+        "title": "diffra.ai",
+        "url": "https://diffra.ai/image-to-video"
+      },
+      {
+        "icon": "Viral icon pack/favicon/easemate_ai.png",
+        "id": "c_thi0nhx4e",
+        "subtitle": "",
+        "title": "easemate.ai",
+        "url": "https://www.easemate.ai/image-to-video-generator"
+      },
+      {
+        "icon": "Viral icon pack/favicon/runninghub_ai.png",
+        "id": "c_yhhno2xlm",
+        "subtitle": "",
+        "title": "runninghub.ai/workflow/1996195162357481474",
+        "url": "https://www.runninghub.ai/workflow/1996195162357481474"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vivago_ai.png",
+        "id": "c_6r3e1ve21",
+        "subtitle": "",
+        "title": "vivago.ai/",
+        "url": "https://vivago.ai/video-generation"
+      },
+      {
+        "icon": "Viral icon pack/favicon/runninghub_ai.png",
+        "id": "c_365id0bj5",
+        "subtitle": "",
+        "title": "www.runninghub.ai",
+        "url": "https://www.runninghub.ai/model-cology"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_agf3fuz9o",
+        "subtitle": "",
+        "title": "x2v.light-ai",
+        "url": "https://x2v.light-ai.top/generate?taskType=s2v&model=Wan2.2_I2V_A14B_distilled&expanded=true"
+      }
+    ],
+    "f_tiz68ob72": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_87ahshv7r",
+        "subtitle": "",
+        "title": "90DaysOfCyberSecurity",
+        "url": "https://github.com/farhanashrafdev/90DaysOfCyberSecurity"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_0c28o8gc0",
+        "subtitle": "",
+        "title": "Ai side hustles",
+        "url": "https://github.com/bleedline/aimoneyhunter/blob/main/README_en.md"
+      },
+      {
+        "icon": "Viral icon pack/drive.png",
+        "id": "c_xv2s2m4ch",
+        "subtitle": "",
+        "title": "Google Drive tele ",
+        "url": "https://drive.google.com/drive/u/0/mobile/folders/0BzZEGiaPJor4QjFKU1h4LXdWVjA?resourcekey=0-F9OURXweo9ePZ2XGFsFYyg&fbclid=IwAR1C1nQqaM3tVWKTfP5eW3L7PSTJwc03ya4Ewrp8iZdYVm2TIpEo7o4w86U"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_oai8hfvbc",
+        "subtitle": "",
+        "title": "Hyperhidrosis",
+        "url": "https://www.reddit.com/r/Hyperhidrosis/comments/171kmg1/omg_i_think_i_found_a_cure_for_my_hyperhidrosis/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0v4ntllq2",
+        "subtitle": "",
+        "title": "tauri.app",
+        "url": "https://tauri.app/v1/guides/getting-started/prerequisites/#setting-up-linux"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_iv6n1pqih",
+        "subtitle": "",
+        "title": "ToolJet",
+        "url": "https://github.com/ToolJet/ToolJet?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_qo6d0cbyr",
+        "subtitle": "",
+        "title": "You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+      }
+    ],
+    "f_o59cd21cw": [
+      {
+        "icon": "Viral icon pack/favicon/gamesworldegypt_com.png",
+        "id": "c_c7kqvzaqq",
+        "subtitle": "",
+        "title": "1-gamesworldegypt",
+        "url": "https://www.gamesworldegypt.com/devices-accessories/gaming-monitor?sort=p.price&order=ASC&fq=1&limit=100"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compuscience_com_eg.png",
+        "id": "c_m8rli3z16",
+        "subtitle": "",
+        "title": "10-compuscience",
+        "url": "https://compuscience.com.eg/en/13-monitors?order=product.price.asc"
+      },
+      {
+        "icon": "Viral icon pack/favicon/sigma-computer_com.png",
+        "id": "c_os6t60tpi",
+        "subtitle": "",
+        "title": "2-sigma-computer",
+        "url": "https://www.sigma-computer.com/en/category/9f503a01-79d7-4a25-b3f3-63b0fd5b3094?sortBy=price&sortDir=asc&page=1&pageSize=50"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compumarts_com.png",
+        "id": "c_slhtak3lc",
+        "subtitle": "",
+        "title": "3-compumarts",
+        "url": "https://www.compumarts.com/collections/monitors?sort_by=price-ascending&filter.v.availability=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_g82d0mj4d",
+        "subtitle": "",
+        "title": "4-alfrensia",
+        "url": "https://alfrensia.com/en/product-category/monitors/?orderby=price&stock=instock"
+      },
+      {
+        "icon": "Viral icon pack/favicon/barakacomputer_net.png",
+        "id": "c_bax33ikpq",
+        "subtitle": "",
+        "title": "5-barakacomputer",
+        "url": "https://barakacomputer.net/product-category/monitor/?orderby=price&in-stock=1"
+      },
+      {
+        "icon": "Viral icon pack/favicon/ahw_store.png",
+        "id": "c_o85a3kqjs",
+        "subtitle": "",
+        "title": "6- ahw.store",
+        "url": "https://ahw.store/computer-peripherals/monitors-en-gb/?sort=p.price&order=ASC&fq=1&limit=100"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elbadrgroupeg_store.png",
+        "id": "c_lmgfkzf1d",
+        "subtitle": "",
+        "title": "7-elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/index.php?route=product/category&path=66&sort=p.price&order=ASC&limit=100&fq=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_0bee6dt8e",
+        "subtitle": "",
+        "title": "8-elnour-tech",
+        "url": "https://elnour-tech.com/ar/product-category/pc-parts/%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa/?orderby=price&paged=1"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elnekhelytechnology_com.png",
+        "id": "c_tz0n7kbcg",
+        "subtitle": "",
+        "title": "9-elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/monitors"
+      }
+    ],
+    "f_3n8k12300": [
+      {
+        "icon": "Viral icon pack/favicon/ntfy_sh.png",
+        "id": "c_lt0sxdc9r",
+        "subtitle": "",
+        "title": "ntfy.sh",
+        "url": "https://ntfy.sh/app"
+      }
+    ],
+    "f_f8lkjsfbi": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_alo403q33",
+        "subtitle": "",
+        "title": "12ft.io",
+        "url": "https://12ft.io/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/smry_ai.png",
+        "id": "c_rybykm2be",
+        "subtitle": "",
+        "title": "smry.ai",
+        "url": "https://www.smry.ai/"
+      }
+    ],
+    "f_7eml54byd": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4m9i176cq",
+        "subtitle": "",
+        "title": "alfrensia",
+        "url": "https://alfrensia.com/en/product-category/accessories/headset/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elnekhelytechnology_com.png",
+        "id": "c_2w2epdxwd",
+        "subtitle": "",
+        "title": "elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/accessories?sort=p.price&order=ASC&fq=1&ff28=206"
+      },
+      {
+        "icon": "Viral icon pack/antennapod.png",
+        "id": "c_1lhg7hdf8",
+        "subtitle": "",
+        "title": "ennap",
+        "url": "https://ennap.com/collections/true-wireless-earbud-headphones?sort_by=price-ascending&filter.v.price.gte=&filter.v.price.lte="
+      },
+      {
+        "icon": "Viral icon pack/favicon/hankerz_com_eg.png",
+        "id": "c_6fymvk3gq",
+        "subtitle": "",
+        "title": "hankerz",
+        "url": "https://www.hankerz.com.eg/product-category/computer-accessories/headset/?orderby=price&paged=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ez0f89do7",
+        "subtitle": "",
+        "title": "hardwaremarket",
+        "url": "https://hardwaremarket.net/product-category/headsets/?orderby=price&paged=1"
+      },
+      {
+        "icon": "Viral icon pack/favicon/highendstore_net.png",
+        "id": "c_l838d7x1l",
+        "subtitle": "",
+        "title": "highendstore",
+        "url": "https://highendstore.net/HEADPHONE"
+      },
+      {
+        "icon": "Viral icon pack/favicon/sigma-computer_com.png",
+        "id": "c_u744cbmzi",
+        "subtitle": "",
+        "title": "sigma-computer",
+        "url": "https://www.sigma-computer.com/subcategory?id=6&id2=15&sort=down"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_i0rodmwro",
+        "subtitle": "",
+        "title": "www.nextmarteg",
+        "url": "https://www.nextmarteg.com/product-category/headset-headphone/gaming_headsets/"
+      }
+    ],
+    "f_mlthldel0": [
+      {
+        "icon": "Viral icon pack/favicon/promptcowboy_ai.png",
+        "id": "c_mwfnus6xi",
+        "subtitle": "",
+        "title": "promptcowboy",
+        "url": "https://www.promptcowboy.ai/"
+      }
+    ],
+    "f_378zices1": [
+      {
+        "icon": "Viral icon pack/favicon/islamicfinder_org.png",
+        "id": "c_e1gberpio",
+        "subtitle": "",
+        "title": "prayer-times",
+        "url": "https://www.islamicfinder.org/world/egypt/358048/damietta-prayer-times/"
+      },
+      {
+        "icon": "Viral icon pack/app_youtube_blue.png",
+        "id": "c_9egg19170",
+        "subtitle": "",
+        "title": "تفسير سورة البقرة - عثمان الخميس",
+        "url": "https://www.youtube.com/watch?v=zwu6YiSpJiU&list=PLx3Fh1kiMbrf6Jb1AZemffsd4LxKi1fj1"
+      },
+      {
+        "icon": "Viral icon pack/quran.png",
+        "id": "c_6rxg4zuf7",
+        "subtitle": "",
+        "title": "سورة البقرة - ١-٢٨٦ - Quran.com",
+        "url": "https://quran.com/ar/page/10"
+      },
+      {
+        "icon": "Viral icon pack/quran.png",
+        "id": "c_vhjibezyw",
+        "subtitle": "",
+        "title": "سورة الملك - ١-٣٠ - Quran.com",
+        "url": "https://quran.com/ar/67"
+      }
+    ],
+    "f_008vuu6kl": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ss71rb0f2",
+        "subtitle": "",
+        "title": "albadrlaptop",
+        "url": "https://albadrlaptop.com/product-category/computer-components/ram/?stock=instock&per_page=64&orderby=price"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_ilzk3p6hf",
+        "subtitle": "",
+        "title": "alfrensia ram",
+        "url": "https://alfrensia.com/en/product-category/ram/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compumarts_com.png",
+        "id": "c_xitl7wwna",
+        "subtitle": "",
+        "title": "compumarts ram",
+        "url": "https://www.compumarts.com/collections/pc-parts-ram-1?filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=&sort_by=price-ascending"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elbadrgroupeg_store.png",
+        "id": "c_4gwrh6585",
+        "subtitle": "",
+        "title": "elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/index.php?route=product/category&path=18&page=2&fq=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_89pgmgj6t",
+        "subtitle": "",
+        "title": "elhamd ram",
+        "url": "https://elhamd.net/product-category/hard-ware/ram/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/elnekhelytechnology_com.png",
+        "id": "c_wjwuo1fvq",
+        "subtitle": "",
+        "title": "elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/ram?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_z5b920ydw",
+        "subtitle": "",
+        "title": "elnour-tech",
+        "url": "https://elnour-tech.com/ar/product-category/pc-parts/ram-2/?orderby=price&per_page=30"
+      },
+      {
+        "icon": "Viral icon pack/favicon/hankerz_com_eg.png",
+        "id": "c_inx7ammu5",
+        "subtitle": "",
+        "title": "hankerz ram",
+        "url": "https://www.hankerz.com.eg/product-category/pc-hardware-components/ram/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/highendstore_net.png",
+        "id": "c_0rnmcxsdq",
+        "subtitle": "",
+        "title": "highendstore ram",
+        "url": "https://highendstore.net/RAM?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/favicon/kimostore_net.png",
+        "id": "c_ue62i03k9",
+        "subtitle": "",
+        "title": "kimostore ram",
+        "url": "https://kimostore.net/collections/ram?sort_by=price-ascending&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte="
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_8az8o2d0s",
+        "subtitle": "",
+        "title": "maximumhardware ram",
+        "url": "https://maximumhardware.store/memory?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/favicon/sigma-computer_com.png",
+        "id": "c_xjddpx2ys",
+        "subtitle": "",
+        "title": "sigma-computer ram",
+        "url": "https://www.sigma-computer.com/subcategory?id=1&id2=3&sort=down"
+      },
+      {
+        "icon": "Viral icon pack/favicon/softlaptop_com.png",
+        "id": "c_a7v6dfq6f",
+        "subtitle": "",
+        "title": "softlaptop",
+        "url": "https://softlaptop.com/computer-components/ram-pc?sort=p.price&order=ASC&fq=1&page=2"
+      },
+      {
+        "icon": "Viral icon pack/venus.png",
+        "id": "c_uabx5hf21",
+        "subtitle": "",
+        "title": "venus tech ram",
+        "url": "https://venus.tech/product-category/pc-components/memory/?orderby=price&filter_stock_status=instock"
+      }
+    ],
+    "f_mcs01ilkg": [
+      {
+        "icon": "Viral icon pack/astro.png",
+        "id": "c_hnz3sem2e",
+        "subtitle": "",
+        "title": "astro",
+        "url": "https://astro.build/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_xe948bsvu",
+        "subtitle": "",
+        "title": "react-three-fiber",
+        "url": "https://github.com/pmndrs/react-three-fiber"
+      }
+    ],
+    "f_8hnwx6of9": [
+      {
+        "icon": "Viral icon pack/favicon/rxresu_me.png",
+        "id": "c_16gn97rwc",
+        "subtitle": "",
+        "title": "1- rxresu.me resumes",
+        "url": "https://rxresu.me/dashboard/resumes"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_n9jxcxzvd",
+        "subtitle": "",
+        "title": "2- Resume-Matcher",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+      },
+      {
+        "icon": "Viral icon pack/favicon/snapit_tech.png",
+        "id": "c_a6ks0boet",
+        "subtitle": "",
+        "title": "snap it",
+        "url": "https://www.snapit.tech/"
+      }
+    ],
+    "f_8jaaocof0": [
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_s5zuvg4gy",
+        "subtitle": "",
+        "title": "1- Ana vodafone",
+        "url": "https://web.vodafone.com.eg/auth/realms/vf-realm/protocol/openid-connect/auth?client_id=website&redirect_uri=https%3A%2F%2Fweb.vodafone.com.eg%2Fspa%2FmyHome&state=7e9f3dd2-9bc3-4c61-b0cf-b0aa435e57a4&response_mode=query&response_type=code&scope=openid&nonce=0db1b3ca-b52b-4d3a-83af-8bfd17489d52"
+      },
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_77psre534",
+        "subtitle": "",
+        "title": "Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "icon": "Viral icon pack/amazon_appstore.png",
+        "id": "c_t2yuxsh48",
+        "subtitle": "",
+        "title": "Microsoft store",
+        "url": "https://store.rg-adguard.net/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_mdak6ug8a",
+        "subtitle": "",
+        "title": "mixpost",
+        "url": "http://localhost:9000/mixpost/login"
+      },
+      {
+        "icon": "Viral icon pack/favicon/searx_nixnet_services.png",
+        "id": "c_eak1ztftl",
+        "subtitle": "",
+        "title": "searx.nixnet",
+        "url": "https://searx.nixnet.services/"
+      },
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_zqkv8fotj",
+        "subtitle": "",
+        "title": "Telegram Web",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "icon": "Viral icon pack/twitter.png",
+        "id": "c_t44u3j9jz",
+        "subtitle": "",
+        "title": "Twitter",
+        "url": "https://twitter.com"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_pyxjaw7tk",
+        "subtitle": "",
+        "title": "weboasis.app",
+        "url": "https://weboasis.app/"
+      },
+      {
+        "icon": "Viral icon pack/app_instagram_layout.png",
+        "id": "c_qp04mt81y",
+        "subtitle": "",
+        "title": "you ",
+        "url": "https://you.com/"
+      }
+    ],
+    "f_zmjj3la1d": [
+      {
+        "icon": "Viral icon pack/outlook.png",
+        "id": "c_hbze7texe",
+        "subtitle": "",
+        "title": "2- Outlook",
+        "url": "https://outlook.live.com/mail/0/?RpsCsrfState=3020f52f-af83-66e8-d5f5-9cc8ac246b72&url=%2fowa%2f0%2f%3fRpsCsrfState%253d3020f52f-af83-66e8-d5f5-9cc8ac246b72"
+      },
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_2vmqxn9jk",
+        "subtitle": "",
+        "title": "Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "icon": "Viral icon pack/alto_mail.png",
+        "id": "c_2max941c3",
+        "subtitle": "",
+        "title": "Gmail",
+        "url": "https://mail.google.com"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_42pkd0nhf",
+        "subtitle": "",
+        "title": "Reddit",
+        "url": "https://www.reddit.com"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_k3gnc0her",
+        "subtitle": "",
+        "title": "simplelogin",
+        "url": "https://app.simplelogin.io/dashboard/?highlight_alias_id=40456244&query=&sort=&filter="
+      },
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_o06m0rwli",
+        "subtitle": "",
+        "title": "Telegram Web",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_i19fo7ekh",
+        "subtitle": "",
+        "title": "Vodafone",
+        "url": "https://web.vodafone.com.eg/auth/realms/vf-realm/protocol/openid-connect/auth?client_id=website&redirect_uri=https%3A%2F%2Fweb.vodafone.com.eg%2Fspa%2FmyHome&state=3f894e58-114d-40bb-a51e-740fd1fc5308&response_mode=query&response_type=code&scope=openid&nonce=70f15892-39eb-4a67-9f12-52329054a2a7"
+      },
+      {
+        "icon": "Viral icon pack/favicon/web-check_as93_net.png",
+        "id": "c_lcfn24htx",
+        "subtitle": "",
+        "title": "web-check",
+        "url": "https://web-check.as93.net/"
+      },
+      {
+        "icon": "Viral icon pack/app_ez_web_video_cast.png",
+        "id": "c_7bwk7w0p9",
+        "subtitle": "",
+        "title": "WhatsApp for Web",
+        "url": "https://web.whatsapp.com"
+      }
+    ],
+    "f_i18t0soo6": [
+      {
+        "icon": "Viral icon pack/favicon/civitai_com.png",
+        "id": "c_f131ldhd7",
+        "subtitle": "",
+        "title": "civitai",
+        "url": "https://civitai.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/lexica_art.png",
+        "id": "c_h6a0t7pa2",
+        "subtitle": "",
+        "title": "lexica.art",
+        "url": "https://lexica.art/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/huggingface_co.png",
+        "id": "c_mmp55mxfe",
+        "subtitle": "",
+        "title": "Promptist",
+        "url": "https://huggingface.co/spaces/microsoft/Promptist?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3zhsij7wy",
+        "subtitle": "",
+        "title": "Stable Diffusion",
+        "url": "http://127.0.0.1:7860/"
+      }
+    ],
+    "f_v1xq33g17": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_p1dv90pds",
+        "subtitle": "",
+        "title": "Modded ubuntu",
+        "url": "https://github.com/modded-ubuntu/modded-ubuntu"
+      }
+    ],
+    "f_t3p1widwd": [
+      {
+        "icon": "Viral icon pack/behance.png",
+        "id": "c_jx717oc3p",
+        "subtitle": "",
+        "title": "Behance gallery ui ux design",
+        "url": "https://www.behance.net/galleries/ui-ux/ui-ux"
+      },
+      {
+        "icon": "Viral icon pack/behance.png",
+        "id": "c_o4o7tp3v1",
+        "subtitle": "",
+        "title": "Behance ui ux design",
+        "url": "https://www.behance.net/search/projects/ui%20ux%20design"
+      }
+    ],
+    "f_plcb1qy0j": [
+      {
+        "icon": "Viral icon pack/favicon/2b_com_eg.png",
+        "id": "c_e3mj39suu",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/ar/electronic-solutions/power-solutions/power-supply.html"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_rigasm599",
+        "subtitle": "",
+        "title": "asg",
+        "url": "https://asg.com.eg/ups/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/btech_com.png",
+        "id": "c_fy1nzp815",
+        "subtitle": "",
+        "title": "btech",
+        "url": "https://btech.com/ar/catalogsearch/result/?q=ups"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compumarts_com.png",
+        "id": "c_vjbftjg9b",
+        "subtitle": "",
+        "title": "compumarts",
+        "url": "https://www.compumarts.com/search?q=ups&options%5Bprefix%5D=last&type=product"
+      },
+      {
+        "icon": "Viral icon pack/favicon/compuscience_com_eg.png",
+        "id": "c_otxg5vzvt",
+        "subtitle": "",
+        "title": "compuscience.com",
+        "url": "https://compuscience.com.eg/ar/34--"
+      },
+      {
+        "icon": "Viral icon pack/favicon/eastasiaeg_com.png",
+        "id": "c_5l87ubqw3",
+        "subtitle": "",
+        "title": "eastasiaeg",
+        "url": "https://www.eastasiaeg.com/business-solutions/ups.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/favicon/egyptlaptop_com.png",
+        "id": "c_izj6rt0l2",
+        "subtitle": "",
+        "title": "egyptlaptop",
+        "url": "https://egyptlaptop.com/ups/back-offline"
+      },
+      {
+        "icon": "Viral icon pack/favicon/epselectric-egypt_com.png",
+        "id": "c_lhsa6gamn",
+        "subtitle": "",
+        "title": "epselectric-egypt",
+        "url": "https://epselectric-egypt.com/en"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_xu9050zx5",
+        "subtitle": "",
+        "title": "mye-tech",
+        "url": "https://www.mye-tech.com/ar/product-category/ups-ar/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/pcs-souq_com.png",
+        "id": "c_oj09n18px",
+        "subtitle": "",
+        "title": "pcs-souq",
+        "url": "https://www.pcs-souq.com/collections/ups/?sort_by=price-ascending"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_8zz35l0gf",
+        "subtitle": "",
+        "title": "powershopeg",
+        "url": "https://powershopeg.com/product-category/ups/page/3/?orderby=price&per_row=4&shop_view=grid&per_page=24"
+      },
+      {
+        "icon": "Viral icon pack/favicon/rayashop_com.png",
+        "id": "c_dlobjcs1j",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/ar/ups"
+      },
+      {
+        "icon": "Viral icon pack/favicon/upsegypt_com.png",
+        "id": "c_rmn470x48",
+        "subtitle": "",
+        "title": "upsegypt",
+        "url": "https://upsegypt.com/"
+      }
+    ],
+    "f_apbmn3g4a": [
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_svux7q9ry",
+        "subtitle": "",
+        "title": "Free V2ray Vless Poland 1",
+        "url": "https://www.vpnjantit.com/create-free-account?type=Vless&server=pl1#create"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_z71ha3r6m",
+        "subtitle": "",
+        "title": "free-v2ray-vless",
+        "url": "https://www.vpnjantit.com/free-v2ray-vless"
+      },
+      {
+        "icon": "Viral icon pack/favicon/freevmess_com.png",
+        "id": "c_2jwthoe6r",
+        "subtitle": "",
+        "title": "freevmess",
+        "url": "https://www.freevmess.com/server-trojan"
+      },
+      {
+        "icon": "Viral icon pack/favicon/ipleak_net.png",
+        "id": "c_7s26x1o2a",
+        "subtitle": "",
+        "title": "ipleak",
+        "url": "https://ipleak.net/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/racevpn_com.png",
+        "id": "c_hl13zhfvl",
+        "subtitle": "",
+        "title": "racevpn ",
+        "url": "https://www.racevpn.com/free-trojan-europe-server"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_d0tzia6pl",
+        "subtitle": "",
+        "title": "sshocean",
+        "url": "https://sshocean.com/trojanvpn/netherlands"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_4zuabd74f",
+        "subtitle": "",
+        "title": "sshocean",
+        "url": "https://sshocean.com/trojanvpn/france"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_reb282iel",
+        "subtitle": "",
+        "title": "v2nodes",
+        "url": "https://www.v2nodes.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_c5yrlrwij",
+        "subtitle": "",
+        "title": "vpnjantit ",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp1&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_ujhrvumkn",
+        "subtitle": "",
+        "title": "vpnjantit  Spain 2",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp2&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_v6l3za4lk",
+        "subtitle": "",
+        "title": "vpnjantit Netherlands 3",
+        "url": "https://www.vpnjantit.com/create-free-account?server=nl3&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/favicon/vpnjantit_com.png",
+        "id": "c_hf1tvno30",
+        "subtitle": "",
+        "title": "vpnjantit Spain 3",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp3&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/favicon/web-check_xyz.png",
+        "id": "c_k77a1ee6v",
+        "subtitle": "",
+        "title": "web-check.xyz",
+        "url": "https://web-check.xyz/"
+      }
+    ],
+    "f_9lcxuv9jp": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_3pa7yzqp7",
+        "subtitle": "",
+        "title": "savevideo",
+        "url": "https://savevideo.me/en/"
+      }
+    ],
+    "f_80bl9h0vt": [
+      {
+        "icon": "Viral icon pack/favicon/artgrid_io.png",
+        "id": "c_z05glds4k",
+        "subtitle": "",
+        "title": "artgrid",
+        "url": "https://artgrid.io/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/freevisuals_net.png",
+        "id": "c_9nit2rqvs",
+        "subtitle": "",
+        "title": "freevisuals",
+        "url": "https://www.freevisuals.net/"
+      }
+    ],
+    "f_8jyd10hmd": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_zo827nvjx",
+        "subtitle": "",
+        "title": "audiocraft",
+        "url": "https://github.com/facebookresearch/audiocraft"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_z9j0nurfj",
+        "subtitle": "",
+        "title": "CodeGeeX2",
+        "url": "https://github.com/THUDM/CodeGeeX2"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_cb1lwm270",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/dabeaz-course/python-mastery"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_vajipabts",
+        "subtitle": "",
+        "title": "Magic123",
+        "url": "https://github.com/guochengqian/Magic123"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_a82xao3ln",
+        "subtitle": "",
+        "title": "pot-desktop",
+        "url": "https://github.com/pot-app/pot-desktop"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_rlugtwftw",
+        "subtitle": "",
+        "title": "RVC ai voice",
+        "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/README.en.md"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_42wle9ixr",
+        "subtitle": "",
+        "title": "ShortGPT",
+        "url": "https://github.com/RayVentura/ShortGPT"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_6b0junzgf",
+        "subtitle": "",
+        "title": "sweep",
+        "url": "https://github.com/sweepai/sweep"
+      }
+    ],
+    "f_ll8osozvb": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_kesv6lr1u",
+        "subtitle": "",
+        "title": "amplication",
+        "url": "https://github.com/amplication/amplication?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_sfor35e06",
+        "subtitle": "",
+        "title": "katana",
+        "url": "https://github.com/projectdiscovery/katana"
+      }
+    ],
+    "f_a0qal400q": [
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_6q1xcj7uw",
+        "subtitle": "",
+        "title": "youtube-playlist-downloader",
+        "url": "https://10downloader.com/en/121/youtube-playlist-downloader"
+      }
+    ],
+    "f_9eo1821up": [
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_cpifgbs1e",
+        "subtitle": "",
+        "title": "AymanElGad",
+        "url": "https://www.facebook.com/AymanElGad"
+      },
+      {
+        "icon": "Viral icon pack/favicon/alfagala_com.png",
+        "id": "c_kn8e1ow3o",
+        "subtitle": "",
+        "title": "الفجاله",
+        "url": "https://www.alfagala.com/"
+      },
+      {
+        "icon": "Viral icon pack/favicon/sllr_co.png",
+        "id": "c_dh2zv9av5",
+        "subtitle": "",
+        "title": "توتونجي بلاستيك جروب",
+        "url": "https://sllr.co/toutounji/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_d0jxgi4fw",
+        "subtitle": "",
+        "title": "سباكه",
+        "url": "https://www.sebakashop.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_g3cfsrrxa",
+        "subtitle": "",
+        "title": "محجوب",
+        "url": "https://www.mahgoub.com/ar/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B3%D8%A8%D8%A7%D9%83%D8%A9/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_w01405kp8",
+        "subtitle": "",
+        "title": "مشرق",
+        "url": "https://mashreqy.com/"
+      },
+      {
+        "icon": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "id": "c_d7tq6jzi4",
+        "subtitle": "",
+        "title": "معداتي",
+        "url": "https://mo3datee.com/product"
+      }
+    ]
+  },
+  "folders": [
+    {
+      "icon": "📁",
+      "id": "f_v4tyfpfk1",
+      "name": "0- AI Projects",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_t1jkst3of",
+      "name": "0- best media sites",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8g1d46sb3",
+      "name": "0- LocalHost",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_yknn8lngb",
+      "name": "10- pc benchmark",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_0bwuhz495",
+      "name": "100-Server",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_bvzlr5ihc",
+      "name": "11- Photo",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_36icq1kig",
+      "name": "12- Courses",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_xzwqaqra7",
+      "name": "13- Torrent",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_7fre0mnhn",
+      "name": "14- Premium Link Generators",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_degeyn9qw",
+      "name": "15- PayWall",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_qlqw9ubqb",
+      "name": "16- Vpn , browserVpn",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_88tsicmth",
+      "name": "17- Games",
+      "category": "Entertainment"
+    },
+    {
+      "icon": "📁",
+      "id": "f_1g5dywv4f",
+      "name": "18- io games",
+      "category": "Entertainment"
+    },
+    {
+      "icon": "📁",
+      "id": "f_2fac3dl6t",
+      "name": "19- Android app modded",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_rhuu26rad",
+      "name": "2- Temp mail ",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_l57dncps6",
+      "name": "20- Arch",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_zbs1fdo6l",
+      "name": "21- Blender",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_0uemb6scw",
+      "name": "22- Virtual browser",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_qzrstulj4",
+      "name": "23- Mobile",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_wb539d6f4",
+      "name": "24- WhiteBoard",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gq4dw1hn9",
+      "name": "25- Blender",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_dbw06rz9j",
+      "name": "27- subtitle",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_6e7sxpdkt",
+      "name": "28- Docker Projects",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_6j6o3ykug",
+      "name": "29- Cloud Driver",
+      "category": "Productivity"
+    },
+    {
+      "icon": "📁",
+      "id": "f_5870rzg4d",
+      "name": "3- Ai sites",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_fadv2tgwc",
+      "name": "3- sms Verification",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4ez7y2pgp",
+      "name": "30- ocr [img2txt]",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_vdaeuxers",
+      "name": "31- MB Driver",
+      "category": "Productivity"
+    },
+    {
+      "icon": "📁",
+      "id": "f_q9m2bg5iy",
+      "name": "32- Vault",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_a2spxca34",
+      "name": "33- Data-Base",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jbo6t2h7w",
+      "name": "34-Vmware images",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_1aezjhpmm",
+      "name": "35- wallpaper engine",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4nfm18p94",
+      "name": "36- grafana",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_87m24tpup",
+      "name": "37-Server",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_i47s10jfv",
+      "name": "38- Ai-Video",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_bhcvparaw",
+      "name": "38- regex",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_h19qv6yor",
+      "name": "39- md ",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_k96yqk9mp",
+      "name": "4- SpeedTest",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_5sa9nzrd4",
+      "name": "40- ComfyUi",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gr0jjwnt8",
+      "name": "41- Ai agent",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_q3mypjpfm",
+      "name": "42- Color",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_hryxseue6",
+      "name": "43- api ",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_fboebp1r5",
+      "name": "43- Vscode",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_b5jjh4kg5",
+      "name": "44- fonts",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_trv4qrpyj",
+      "name": "45- n8n",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_n8rngocyf",
+      "name": "5- Books",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_of81h33m9",
+      "name": "50- Ai Agents",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_9euflfdjw",
+      "name": "51- Docker",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gthqabiwt",
+      "name": "6- Software sites",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jejj3vun7",
+      "name": "7- Movies & Series",
+      "category": "Entertainment"
+    },
+    {
+      "icon": "📁",
+      "id": "f_thx3tw9ru",
+      "name": "9- pc hardware",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3r7mc1ege",
+      "name": "99- internet recharge",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3zzdwhyth",
+      "name": "Ai API keys",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_h9zyqjasu",
+      "name": "Ai Image",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_v7rnv4ya2",
+      "name": "Ai Voice",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_xe82elyx3",
+      "name": "Ai_Chat",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8ggifxzwn",
+      "name": "Api",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_rz97hmgjd",
+      "name": "backend",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_itqvhk6to",
+      "name": "CC Generator",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_1m3zh225m",
+      "name": "code",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_zsjmqr771",
+      "name": "color",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4nkw2k3j3",
+      "name": "Crypto",
+      "category": "Finance"
+    },
+    {
+      "icon": "📁",
+      "id": "f_z7d7h2a06",
+      "name": "Css Sites",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_hemyiveo8",
+      "name": "CssReact",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_937hyy8qd",
+      "name": "dev",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_abkpg9arb",
+      "name": "domain",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_niv8aw5db",
+      "name": "electro shops egypt",
+      "category": "Shopping"
+    },
+    {
+      "icon": "📁",
+      "id": "f_nfesjwrt0",
+      "name": "github",
+      "category": "Development"
+    },
+    {
+      "icon": "📁",
+      "id": "f_er3ljrwfp",
+      "name": "Google ai tools",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_sevyr82ju",
+      "name": "hacker fourm",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jynnd74z7",
+      "name": "Home",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_pidk9pqpn",
+      "name": "img ai generation",
+      "category": "AI & Tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_yu6eivbn4",
+      "name": "img2video online",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_tiz68ob72",
+      "name": "later",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_o59cd21cw",
+      "name": "Monitor",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3n8k12300",
+      "name": "notify",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_f8lkjsfbi",
+      "name": "PayWall",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_7eml54byd",
+      "name": "pc headphone",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mlthldel0",
+      "name": "Prompt",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_378zices1",
+      "name": "Quarn",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_008vuu6kl",
+      "name": "Ram-pc",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mcs01ilkg",
+      "name": "react",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8hnwx6of9",
+      "name": "resume builder",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8jaaocof0",
+      "name": "Social",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_zmjj3la1d",
+      "name": "Social ",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_i18t0soo6",
+      "name": "Stable Diffusion",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_v1xq33g17",
+      "name": "Termux",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_t3p1widwd",
+      "name": "UI&UX",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_plcb1qy0j",
+      "name": "UPS",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_apbmn3g4a",
+      "name": "V2ray servers",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_9lcxuv9jp",
+      "name": "Video Download sites",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_80bl9h0vt",
+      "name": "Video Editing",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8jyd10hmd",
+      "name": "view later",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_ll8osozvb",
+      "name": "web crawler",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_a0qal400q",
+      "name": "Yt Tweaks",
+      "category": "Other"
+    },
+    {
+      "icon": "📁",
+      "id": "f_9eo1821up",
+      "name": "سباكه",
+      "category": "Other"
+    }
+  ],
+  "settings": {
+    "bgUrl": "wallpaper.png",
+    "searchEngine": "google"
+  }
+}

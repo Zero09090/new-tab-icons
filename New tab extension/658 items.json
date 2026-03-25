@@ -1,0 +1,5288 @@
+{
+  "cards": {
+    "f_9lby2e740": [
+      {
+        "icon": "Viral icon pack/game_google_verne.png",
+        "id": "c_o9zavywlz",
+        "subtitle": "",
+        "title": "Google",
+        "url": "https://www.google.com"
+      },
+      {
+        "icon": "Viral icon pack/business_calendar_1.png",
+        "id": "c_zhux3r7bb",
+        "subtitle": "",
+        "title": "Google Calendar",
+        "url": "https://calendar.google.com"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_ohs1pmqvt",
+        "subtitle": "",
+        "title": "YouTube",
+        "url": "https://www.youtube.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wa94c3ss6",
+        "subtitle": "",
+        "title": "Router",
+        "url": "http://Zero:8080@192.168.2.1/QoS.asp"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_t6j0drq9a",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/trending"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ivkazk04k",
+        "subtitle": "",
+        "title": "CodeSandbox",
+        "url": "https://codesandbox.io/signin"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fwbu87hjz",
+        "subtitle": "",
+        "title": "productivie.",
+        "url": "https://www.productivie.com/app"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_70t4fz8gt",
+        "subtitle": "",
+        "title": "full-stack",
+        "url": "https://roadmap.sh/full-stack"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dq26so99w",
+        "subtitle": "",
+        "title": "alternativeto",
+        "url": "https://alternativeto.net/browse/new-apps/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5bietrpbn",
+        "subtitle": "",
+        "title": "meteum.ai",
+        "url": "https://meteum.ai/weather/en?utm_campaign=suggest&utm_medium=drp&utm_source=distrib&clid=3721391&lat=31.427796&lon=31.811222"
+      },
+      {
+        "icon": "Viral icon pack/alarmpad.png",
+        "id": "c_evyqgqo23",
+        "subtitle": "",
+        "title": "pad.ws - whiteboard as an IDE",
+        "url": "https://pad.ws/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_e7pzz5cxh",
+        "subtitle": "",
+        "title": "build-your-own-x",
+        "url": "https://github.com/codecrafters-io/build-your-own-x"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dicmiepq7",
+        "subtitle": "",
+        "title": "excalidraw",
+        "url": "https://excalidraw.com/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_8c8zm65zg",
+        "subtitle": "",
+        "title": "Jsoncrack.com",
+        "url": "https://github.com/AykutSarac/jsoncrack.com"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_i03ie4h3x",
+        "subtitle": "",
+        "title": " تدبر سورة النحل",
+        "url": "https://www.youtube.com/watch?v=B5Uu4tweUI8&list=PLukAHj56HNKan5Fv62SnvIlOHmtolkbsv"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_oy164p665",
+        "subtitle": "",
+        "title": "flowsavvy",
+        "url": "https://my.flowsavvy.app/app"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ex41xicz6",
+        "subtitle": "",
+        "title": "roadmap",
+        "url": "https://roadmap.sh/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_z6x462zt8",
+        "subtitle": "",
+        "title": "system-design-101",
+        "url": "https://github.com/ByteByteGoHq/system-design-101"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_88zn8kfko",
+        "subtitle": "",
+        "title": "karakeep",
+        "url": "https://github.com/karakeep-app/karakeep"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3uo6fd81l",
+        "subtitle": "",
+        "title": "kixat",
+        "url": "https://www.kixat.com/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_x4e0qeuwd",
+        "subtitle": "",
+        "title": "OSSU ",
+        "url": "https://github.com/ossu/computer-science"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_qsfynlmgx",
+        "subtitle": "",
+        "title": "dns-blocklists ultimate",
+        "url": "https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#ultimate"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_e3gphf31u",
+        "subtitle": "",
+        "title": "اسرع طريقه تستخدم بيها فلاكس كونتيكست || FLUX KONTEXT WITH nunchaku",
+        "url": "https://www.youtube.com/watch?v=SQoWlC0M_no"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_au48rmkkm",
+        "subtitle": "",
+        "title": "internet usage",
+        "url": "https://my.te.eg/echannel/#/usage?mainOfferId=820048"
+      }
+    ],
+    "f_pqztrlce3": [
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_iwutwffcp",
+        "subtitle": "",
+        "title": "simplelogin",
+        "url": "https://app.simplelogin.io/dashboard/?highlight_alias_id=40456244&query=&sort=&filter="
+      },
+      {
+        "icon": "Viral icon pack/alto_mail.png",
+        "id": "c_qwe4exdq4",
+        "subtitle": "",
+        "title": "Gmail",
+        "url": "https://mail.google.com"
+      },
+      {
+        "icon": "Viral icon pack/outlook.png",
+        "id": "c_qpv7v131m",
+        "subtitle": "",
+        "title": "2- Outlook",
+        "url": "https://outlook.live.com/mail/0/?RpsCsrfState=3020f52f-af83-66e8-d5f5-9cc8ac246b72&url=%2fowa%2f0%2f%3fRpsCsrfState%253d3020f52f-af83-66e8-d5f5-9cc8ac246b72"
+      },
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_x9i7hbm33",
+        "subtitle": "",
+        "title": "Telegram Web",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_i8inkwpev",
+        "subtitle": "",
+        "title": "WhatsApp for Web",
+        "url": "https://web.whatsapp.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_sq158nbx0",
+        "subtitle": "",
+        "title": "web-check",
+        "url": "https://web-check.as93.net/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_eu8e99f8l",
+        "subtitle": "",
+        "title": "Reddit",
+        "url": "https://www.reddit.com"
+      },
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_q15keba0w",
+        "subtitle": "",
+        "title": "Vodafone",
+        "url": "https://web.vodafone.com.eg/auth/realms/vf-realm/protocol/openid-connect/auth?client_id=website&redirect_uri=https%3A%2F%2Fweb.vodafone.com.eg%2Fspa%2FmyHome&state=3f894e58-114d-40bb-a51e-740fd1fc5308&response_mode=query&response_type=code&scope=openid&nonce=70f15892-39eb-4a67-9f12-52329054a2a7"
+      },
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_1y52m9co6",
+        "subtitle": "",
+        "title": "Facebook",
+        "url": "https://www.facebook.com"
+      }
+    ],
+    "f_r93gdf384": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wwwtswq30",
+        "subtitle": "",
+        "title": "web-check.xyz",
+        "url": "https://web-check.xyz/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cpo3wgfia",
+        "subtitle": "",
+        "title": "ipleak",
+        "url": "https://ipleak.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fjhzgqk9n",
+        "subtitle": "",
+        "title": "free-v2ray-vless",
+        "url": "https://www.vpnjantit.com/free-v2ray-vless"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_74kmb9uug",
+        "subtitle": "",
+        "title": "Free V2ray Vless Poland 1",
+        "url": "https://www.vpnjantit.com/create-free-account?type=Vless&server=pl1#create"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nvxnt3qvn",
+        "subtitle": "",
+        "title": "racevpn ",
+        "url": "https://www.racevpn.com/free-trojan-europe-server"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_onyqh1801",
+        "subtitle": "",
+        "title": "freevmess",
+        "url": "https://www.freevmess.com/server-trojan"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8mvpo2iy8",
+        "subtitle": "",
+        "title": "sshocean",
+        "url": "https://sshocean.com/trojanvpn/netherlands"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_npddbbqph",
+        "subtitle": "",
+        "title": "sshocean",
+        "url": "https://sshocean.com/trojanvpn/france"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_79fy8kfl9",
+        "subtitle": "",
+        "title": "v2nodes",
+        "url": "https://www.v2nodes.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i8hutpc1g",
+        "subtitle": "",
+        "title": "vpnjantit ",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp1&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_66jg9j6fh",
+        "subtitle": "",
+        "title": "vpnjantit  Spain 2",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp2&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_m2vtl3g1w",
+        "subtitle": "",
+        "title": "vpnjantit Spain 3",
+        "url": "https://www.vpnjantit.com/create-free-account?server=sp3&type=Vless"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vzu9udk3l",
+        "subtitle": "",
+        "title": "vpnjantit Netherlands 3",
+        "url": "https://www.vpnjantit.com/create-free-account?server=nl3&type=Vless"
+      }
+    ],
+    "f_8ekw9rodx": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ihsq8puui",
+        "subtitle": "",
+        "title": "prayer-times",
+        "url": "https://www.islamicfinder.org/world/egypt/358048/damietta-prayer-times/"
+      },
+      {
+        "icon": "Viral icon pack/quran.png",
+        "id": "c_5v2omvoqj",
+        "subtitle": "",
+        "title": "سورة البقرة - ١-٢٨٦ - Quran.com",
+        "url": "https://quran.com/ar/page/10"
+      },
+      {
+        "icon": "Viral icon pack/quran.png",
+        "id": "c_d32yyg2km",
+        "subtitle": "",
+        "title": "سورة الملك - ١-٣٠ - Quran.com",
+        "url": "https://quran.com/ar/67"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_mga12hrj8",
+        "subtitle": "",
+        "title": "تفسير سورة البقرة - عثمان الخميس",
+        "url": "https://www.youtube.com/watch?v=zwu6YiSpJiU&list=PLx3Fh1kiMbrf6Jb1AZemffsd4LxKi1fj1"
+      }
+    ],
+    "f_6msmlxvec": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6n576a4e2",
+        "subtitle": "",
+        "title": "outmatch.online",
+        "url": "https://outmatch.online/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0hfahg52o",
+        "subtitle": "",
+        "title": "Namecheap",
+        "url": "https://www.namecheap.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_tgbgvtk7k",
+        "subtitle": "",
+        "title": "gname",
+        "url": "https://www.gname.com/user#/admin_ym"
+      },
+      {
+        "icon": "Viral icon pack/google_domains.png",
+        "id": "c_sr91dynte",
+        "subtitle": "",
+        "title": "https://domain.stackryze.com/",
+        "url": "https://domain.stackryze.com/"
+      },
+      {
+        "icon": "Viral icon pack/bionic_reading.png",
+        "id": "c_e9s8bayl1",
+        "subtitle": "",
+        "title": "nic.eu.org",
+        "url": "https://nic.eu.org/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6v8odmw5t",
+        "subtitle": "",
+        "title": "dnspod",
+        "url": "https://www.dnspod.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_play_store_panel0.png",
+        "id": "c_v1dmowfc4",
+        "subtitle": "",
+        "title": "000webhost",
+        "url": "https://panel.000webhost.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3ok7xyoqq",
+        "subtitle": "",
+        "title": "Zoho",
+        "url": "https://mailadmin.zoho.com/hosting?plan=free"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gwj3u6wks",
+        "subtitle": "",
+        "title": "cloudns",
+        "url": "https://www.cloudns.net/main/"
+      },
+      {
+        "icon": "Viral icon pack/alto_mail.png",
+        "id": "c_mpt6cvtl1",
+        "subtitle": "",
+        "title": "private-mail",
+        "url": "https://mail.zoho.com/zm/#mail/folder/inbox/p/1693357492260110002"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_foj2w1nvc",
+        "subtitle": "",
+        "title": "https://app.tinkerhost.net/",
+        "url": "https://app.tinkerhost.net/"
+      }
+    ],
+    "f_gnks0ico6": [
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_uspmgnumd",
+        "subtitle": "",
+        "title": "gemini",
+        "url": "https://gemini.google.com/app"
+      },
+      {
+        "icon": "Viral icon pack/dankchat.png",
+        "id": "c_4am0qnpv0",
+        "subtitle": "",
+        "title": "OpenAI",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_00oez5fmq",
+        "subtitle": "",
+        "title": "scrape url",
+        "url": "https://www.firecrawl.dev/playground?endpoint=scrape&url=https%3A%2F%2Fprice-engine.com%2F%3Fcat%3Dmotherboard&dept=electronics"
+      }
+    ],
+    "f_60ozs5bpr": [
+      {
+        "icon": "Viral icon pack/streamlabs_controller.png",
+        "id": "c_8lo22ypjm",
+        "subtitle": "",
+        "title": "flow ",
+        "url": "https://labs.google/fx/tools/flow/"
+      }
+    ],
+    "f_mw1f2tar6": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fteyp759m",
+        "subtitle": "",
+        "title": "routeway",
+        "url": "https://routeway.ai/dashboard"
+      }
+    ],
+    "f_rzi5k7rqw": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gqvzjrvtr",
+        "subtitle": "",
+        "title": "promptcowboy",
+        "url": "https://www.promptcowboy.ai/"
+      }
+    ],
+    "f_3q60b64v3": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_263txxy5o",
+        "subtitle": "",
+        "title": "1- smailpro",
+        "url": "https://smailpro.com/advanced"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9xhl4lhl3",
+        "subtitle": "",
+        "title": "2- Temp Mail",
+        "url": "https://temp-mail.org/en/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pkgqc5qo7",
+        "subtitle": "",
+        "title": "edumailfree",
+        "url": "https://edumailfree.com/"
+      },
+      {
+        "icon": "Viral icon pack/adobe_premiere_clip.png",
+        "id": "c_r5gneqot9",
+        "subtitle": "",
+        "title": "cloud flare temp mail",
+        "url": "https://em.bjedu.tech/en/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_esg2y1pqp",
+        "subtitle": "",
+        "title": "3- tempumail",
+        "url": "https://tempumail.com/mailbox"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pjm6su9aw",
+        "subtitle": "",
+        "title": "random-address",
+        "url": "https://www.bestrandoms.com/random-address-in-nl"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nkcb039ui",
+        "subtitle": "",
+        "title": "name-generator",
+        "url": "https://www.namesnerd.com/people/polish-name-generator/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_q7wkmep02",
+        "subtitle": "",
+        "title": "etempmail",
+        "url": "https://etempmail.com/"
+      }
+    ],
+    "f_sg6cdcqz5": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k0xna59eo",
+        "subtitle": "",
+        "title": "esimplus.me",
+        "url": "https://esimplus.me/temporary-numbers"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o5uro88pk",
+        "subtitle": "",
+        "title": "receive-smss-online",
+        "url": "https://www.receive-smss-online.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_33vg57llb",
+        "subtitle": "",
+        "title": "textrapp",
+        "url": "https://textrapp.com/free-tools/textr-free-receive-sms-online-tool"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rloy36g51",
+        "subtitle": "",
+        "title": "www.sms-receive-online",
+        "url": "https://www.sms-receive-online.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_67b2s3u4o",
+        "subtitle": "",
+        "title": "yunduanxin",
+        "url": "https://www.yunduanxin.xyz/en/"
+      },
+      {
+        "icon": "Viral icon pack/google_voice_access.png",
+        "id": "c_ap9gsknyt",
+        "subtitle": "",
+        "title": "Voice",
+        "url": "https://voice.google.com/u/0/calls"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_quw5eav7b",
+        "subtitle": "",
+        "title": "anonymsms",
+        "url": "https://anonymsms.com/"
+      }
+    ],
+    "f_jh19dfxrp": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7v86jt7wo",
+        "subtitle": "",
+        "title": "cc-generator",
+        "url": "https://dummylabs.live/cc-generator"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_59bo03t04",
+        "subtitle": "",
+        "title": "credit-card-validator",
+        "url": "https://dnschecker.org/credit-card-validator.php?ccn=3743551269364129"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h6qxt12lf",
+        "subtitle": "",
+        "title": "cc checker",
+        "url": "https://chkr.cc/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vcn2xdv3u",
+        "subtitle": "",
+        "title": "payate",
+        "url": "https://www.payate.com/best-credit-cards/"
+      }
+    ],
+    "f_z70ct4186": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jzu4nnqc9",
+        "subtitle": "",
+        "title": "Wifi",
+        "url": "https://192.168.5.1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_c4b55sec8",
+        "subtitle": "",
+        "title": "jelly fin",
+        "url": "http://localhost:8096/web/index.html#/home.html"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_22tns5zzj",
+        "subtitle": "",
+        "title": "gate",
+        "url": "http://192.168.1.1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7y2o7yefz",
+        "subtitle": "",
+        "title": "AdGuard Home",
+        "url": "http://localhost/#"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vucblsl05",
+        "subtitle": "",
+        "title": "Eaton UPS",
+        "url": "https://127.0.0.1:4680/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_x5a3b40we",
+        "subtitle": "",
+        "title": "4- Ebook2AudioBook",
+        "url": "localhost:7860"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h45mc6dnc",
+        "subtitle": "",
+        "title": "Comfy Ui",
+        "url": "http://127.0.0.1:8188/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yd1n01ije",
+        "subtitle": "",
+        "title": "playwright unlimited bw",
+        "url": "https://replit.com/@junker2dumpu098/IrritatingEarnestApplicationprogram"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dk8ihamqs",
+        "subtitle": "",
+        "title": "chatwoot",
+        "url": "https://127.0.0.1:3000"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_oxu02udho",
+        "subtitle": "",
+        "title": "Home-assistant",
+        "url": "http://homeassistant.local:8123/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o62zzrwaw",
+        "subtitle": "",
+        "title": "immich",
+        "url": "http://127.0.0.1:2283/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xe5p1iib6",
+        "subtitle": "",
+        "title": "Plane ",
+        "url": "http://localhost:80/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_b813lhoue",
+        "subtitle": "",
+        "title": "Plane GodMode",
+        "url": "http://localhost/god-mode/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_2ky147jd7",
+        "subtitle": "",
+        "title": "Domain ",
+        "url": "https://app.tinkerhost.net/login"
+      },
+      {
+        "icon": "Viral icon pack/internet_speed_meter.png",
+        "id": "c_2ap6m2kdw",
+        "subtitle": "",
+        "title": "Vodafone cash pdf",
+        "url": "https://internet.vodafone.com.eg/digital/vf_cash_guide.pdf"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_oppo54ia7",
+        "subtitle": "",
+        "title": "lean Time",
+        "url": "http://localhost:8080/dashboard/home"
+      }
+    ],
+    "f_fs03enc96": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9n72lloqj",
+        "subtitle": "",
+        "title": "1- ipspeed.info",
+        "url": "https://ipspeed.info/index.php?language=en"
+      },
+      {
+        "icon": "Viral icon pack/adblock_fast.png",
+        "id": "c_r878fub44",
+        "subtitle": "",
+        "title": "2- Fast",
+        "url": "https://fast.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_oi822q4hb",
+        "subtitle": "",
+        "title": "3- valorant ping test",
+        "url": "https://gameserverping.com/valorant/"
+      },
+      {
+        "icon": "Viral icon pack/imagemeter.png",
+        "id": "c_6jmp06p6a",
+        "subtitle": "",
+        "title": "meter.net",
+        "url": "https://www.meter.net/tools/world-ping-test/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_45j86v7sq",
+        "subtitle": "",
+        "title": "bufferbloat",
+        "url": "https://www.waveform.com/tools/bufferbloat"
+      }
+    ],
+    "f_gi2pa9usj": [
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_hxghnidr0",
+        "subtitle": "",
+        "title": "Veo3",
+        "url": "https://gemini.google.com/app?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+      },
+      {
+        "icon": "Viral icon pack/gemini.png",
+        "id": "c_58q4xkgzs",
+        "subtitle": "",
+        "title": "gemini",
+        "url": "https://gemini.google.com/app"
+      },
+      {
+        "icon": "Viral icon pack/streamlabs_controller.png",
+        "id": "c_ikv6vebfx",
+        "subtitle": "",
+        "title": "flow",
+        "url": "https://labs.google/fx/tools/flow"
+      },
+      {
+        "icon": "Viral icon pack/stitcher.png",
+        "id": "c_ou55r9qut",
+        "subtitle": "",
+        "title": "stitch google",
+        "url": "https://stitch.withgoogle.com/projects/15331715079905368599?pli=1"
+      },
+      {
+        "icon": "Viral icon pack/streamlabs_controller.png",
+        "id": "c_fxznp44zc",
+        "subtitle": "",
+        "title": "veo 3 flow",
+        "url": "https://labs.google/fx/tools/flow/project/577443e9-727a-4a7e-884f-121240044000"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k9zemdyo3",
+        "subtitle": "",
+        "title": "bassamtalksgenerator",
+        "url": "https://bassamtalksgenerator.lovable.app/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4nx4fxl4k",
+        "subtitle": "",
+        "title": "opal",
+        "url": "https://opal.google/landing/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_baesticb7",
+        "subtitle": "",
+        "title": "Veo3 enhancer",
+        "url": "https://ocdevel.com/prompt"
+      }
+    ],
+    "f_1rx58whhi": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_xp33v6l7s",
+        "subtitle": "",
+        "title": "openclaw",
+        "url": "https://github.com/openclaw/openclaw"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_qhypz8cut",
+        "subtitle": "",
+        "title": "Kimi Code CLI",
+        "url": "https://github.com/MoonshotAI/kimi-cli"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ru1iy8fkp",
+        "subtitle": "",
+        "title": "cc-generator",
+        "url": "https://dummylabs.live/cc-generator"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i5xafilkv",
+        "subtitle": "",
+        "title": "credit-card-validator",
+        "url": "https://dnschecker.org/credit-card-validator.php?ccn=5154620021120603"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hjypyurde",
+        "subtitle": "",
+        "title": "ZIP CODE FINDER",
+        "url": "https://www.randymajors.org/zipcodegmap?state=AL&onestate=show&labels=show&x=-86.4059033&y=33.7326175&cx=-86.7300000&cy=32.6200000&zoom=7&zipcodes=show"
+      }
+    ],
+    "f_4tb4j5jry": [
+      {
+        "icon": "Viral icon pack/google_cloud_console_new.png",
+        "id": "c_g2nh2kw9d",
+        "subtitle": "",
+        "title": "1-Aiven io",
+        "url": "https://console.aiven.io/account/a52492998a86/project/kareemmehesen2026-0680/services"
+      },
+      {
+        "icon": "Viral icon pack/google_cloud_console_new.png",
+        "id": "c_wtngwhfmp",
+        "subtitle": "",
+        "title": "2-Upstash Redis",
+        "url": "https://console.upstash.com/redis?teamid=0"
+      },
+      {
+        "icon": "Viral icon pack/google_cloud_console_new.png",
+        "id": "c_igslwwqr3",
+        "subtitle": "",
+        "title": "neon  Postgres17",
+        "url": "https://console.neon.tech/app/projects/blue-fire-60786604"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_ra0yur350",
+        "subtitle": "",
+        "title": "koyeb postgress",
+        "url": "https://app.koyeb.com/database-services/d1d3a3b8-eebb-4205-9735-1d957eb1a4a8/settings"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i0qvyvutw",
+        "subtitle": "",
+        "title": "Vercel",
+        "url": "https://vercel.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_f42pv3foq",
+        "subtitle": "",
+        "title": "GitLab",
+        "url": "https://www.gitlab.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yecko6p09",
+        "subtitle": "",
+        "title": "zeabur",
+        "url": "https://zeabur.com/projects"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rn3j3xuoj",
+        "subtitle": "",
+        "title": "github hosting",
+        "url": "https://container-hosting.anotherwebservice.com/#start"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_directions_railway.png",
+        "id": "c_f0eekouhm",
+        "subtitle": "",
+        "title": "railway",
+        "url": "https://railway.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0clult81o",
+        "subtitle": "",
+        "title": "LeetCode",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_d49z66ekj",
+        "subtitle": "",
+        "title": "cranl better  than vercel",
+        "url": "https://cranl.com/"
+      },
+      {
+        "icon": "Viral icon pack/actiondash.png",
+        "id": "c_ls1zdcrn1",
+        "subtitle": "",
+        "title": "Cloudflare",
+        "url": "https://dash.cloudflare.com/30562615b16fd86d16b0509f4f56a9ed/outmatch.online"
+      }
+    ],
+    "f_qbsqz6505": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yi0ct0w0l",
+        "subtitle": "",
+        "title": "1- mediasavvy",
+        "url": "https://mediasavvy.pages.dev/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8npmdigki",
+        "subtitle": "",
+        "title": "2- champagne",
+        "url": "https://champagne.pages.dev/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_e7at7cyd7",
+        "subtitle": "",
+        "title": "3- shakil-shahada",
+        "url": "https://shakil-shahadat.github.io/awesome-piracy/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_2s9p6qot8",
+        "subtitle": "",
+        "title": "4- free media heck yeah",
+        "url": "https://fmhy.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xeq52p9qd",
+        "subtitle": "",
+        "title": "5- ripped",
+        "url": "https://ripped.guide/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_litwgcuq5",
+        "subtitle": "",
+        "title": "awesome-selfhosted",
+        "url": "https://awesome-selfhosted.net/"
+      }
+    ],
+    "f_ul87676fp": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_iywqus6j8",
+        "subtitle": "",
+        "title": "1- notebooklm",
+        "url": "https://notebooklm.google.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fiexgxav7",
+        "subtitle": "",
+        "title": "lmarena.ai leaderboard",
+        "url": "https://lmarena.ai/leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/dankchat.png",
+        "id": "c_27wnvb0pu",
+        "subtitle": "",
+        "title": "1- OpenAI",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6rk0kfotw",
+        "subtitle": "",
+        "title": "2- Google Ai",
+        "url": "https://bard.google.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_sqm7v6kzk",
+        "subtitle": "",
+        "title": "openrouter free api key",
+        "url": "https://openrouter.ai/models?max_price=0"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xgea6b5oy",
+        "subtitle": "",
+        "title": "8- claude.ai",
+        "url": "https://claude.ai/login"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g4b8l5lxw",
+        "subtitle": "",
+        "title": "Open Router",
+        "url": "https://openrouter.ai/chat?room=orc-1745569617-clF1fF8rn3LJPT7h4fKN"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vfiaizyvd",
+        "subtitle": "",
+        "title": "3- perplexity",
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4a1tr6gg7",
+        "subtitle": "",
+        "title": "4- Hugging face",
+        "url": "https://huggingface.co/chat/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_midungjps",
+        "subtitle": "",
+        "title": "5- agentgpt",
+        "url": "https://agentgpt.reworkd.ai/?utm_source=theneuron&utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_brivtzsxr",
+        "subtitle": "",
+        "title": "6- phind",
+        "url": "https://www.phind.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_co30n0mmw",
+        "subtitle": "",
+        "title": "7- humata.ai",
+        "url": "https://app.humata.ai/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gzp3p6638",
+        "subtitle": "",
+        "title": "9-  Carlos",
+        "url": "https://www.getproduct.help/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wwe0yoi6h",
+        "subtitle": "",
+        "title": "10- llama2.ai",
+        "url": "https://www.llama2.ai/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ecib470ba",
+        "subtitle": "",
+        "title": "11- lepton.ai",
+        "url": "https://www.lepton.ai/playground"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qht9gmkmb",
+        "subtitle": "",
+        "title": "11- lepton",
+        "url": "https://www.lepton.ai/playground/stable-video-diffusion"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fwzj2n3j1",
+        "subtitle": "",
+        "title": "11- leption",
+        "url": "https://www.lepton.ai/playground/sdxl/stable-diffusion-xl"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_97my7rla9",
+        "subtitle": "",
+        "title": "11- lepton ",
+        "url": "https://www.lepton.ai/playground/whisper/whisper-v3"
+      },
+      {
+        "icon": "Viral icon pack/dankchat.png",
+        "id": "c_v1emvmus9",
+        "subtitle": "",
+        "title": "12- deepseek Coder",
+        "url": "https://chat.deepseek.com/coder"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_v9jrguml6",
+        "subtitle": "",
+        "title": "13- gpt.h2o.ai",
+        "url": "https://gpt.h2o.ai/?hp=chat&utm_source=h2o.ai&utm_medium=referral&utm_campaign=h2o-home-page-plg"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_soebforfj",
+        "subtitle": "",
+        "title": "14- Codeium chat",
+        "url": "https://codeium.com/live/general?referrer=navbar"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_gndwg5bo9",
+        "subtitle": "",
+        "title": "15- leonardo.ai",
+        "url": "https://app.leonardo.ai/auth/login?callbackUrl=%2F"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3j2piqr8n",
+        "subtitle": "",
+        "title": "16- civitai",
+        "url": "https://civitai.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hh5zdue4o",
+        "subtitle": "",
+        "title": "3- TIAFT",
+        "url": "https://theresanaiforthat.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g9t86bvtc",
+        "subtitle": "",
+        "title": "surya",
+        "url": "https://www.datalab.to/surya"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_va7pm26z8",
+        "subtitle": "",
+        "title": "4- producthunt",
+        "url": "https://www.producthunt.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9utsfy0vv",
+        "subtitle": "",
+        "title": "futurepedia",
+        "url": "https://www.futurepedia.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jmvcm1bh5",
+        "subtitle": "",
+        "title": "lalal.ai",
+        "url": "https://www.lalal.ai/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ail6wc5mt",
+        "subtitle": "",
+        "title": "reimaginehome.ai",
+        "url": "https://www.reimaginehome.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6nt59rnv2",
+        "subtitle": "",
+        "title": "imagecolorizer",
+        "url": "https://imagecolorizer.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_l1pnkh77v",
+        "subtitle": "",
+        "title": "watermarkremover.io",
+        "url": "https://www.watermarkremover.io/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_05ultb1jd",
+        "subtitle": "",
+        "title": "camenduru",
+        "url": "https://github.com/camenduru"
+      },
+      {
+        "icon": "Viral icon pack/eraser.png",
+        "id": "c_hj3u3vn18",
+        "subtitle": "",
+        "title": "erase.bg",
+        "url": "https://www.erase.bg/?utm_source=watermarkremover&utm_campaign=cross-sell&ref=watermarkremover"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ytz8g5iw6",
+        "subtitle": "",
+        "title": "cookup.ai",
+        "url": "https://cookup.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia#programming"
+      },
+      {
+        "icon": "Viral icon pack/firefly_vapor.png",
+        "id": "c_1driih6v2",
+        "subtitle": "",
+        "title": "FireFly",
+        "url": "https://firefly.adobe.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fp8uze83n",
+        "subtitle": "",
+        "title": "vercel.ai",
+        "url": "https://sdk.vercel.ai/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_nhfojte0x",
+        "subtitle": "",
+        "title": "Awesome-GPT-Store",
+        "url": "https://github.com/Anil-matcha/Awesome-GPT-Store"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_tuhubowoq",
+        "subtitle": "",
+        "title": "myshell.ai",
+        "url": "https://app.myshell.ai/chat"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_r0quawxbx",
+        "subtitle": "",
+        "title": "huggingface ",
+        "url": "https://huggingface.co/collections/open-llm-leaderboard/llm-leaderboard-best-models-652d6c7965a4619fb5c27a03"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6b1n6cs48",
+        "subtitle": "",
+        "title": "huggingface",
+        "url": "https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_9b6pigrx1",
+        "subtitle": "",
+        "title": "dify",
+        "url": "https://github.com/langgenius/dify"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_t8yaur9e0",
+        "subtitle": "",
+        "title": "make.com",
+        "url": "https://eu2.make.com/organization/1575572/dashboard"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_szjsg6hb2",
+        "subtitle": "",
+        "title": "the-big-benchmarks-collection",
+        "url": "https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_meaumdqeu",
+        "subtitle": "",
+        "title": "chatbot-arena-leaderboard",
+        "url": "https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fxr5siefn",
+        "subtitle": "",
+        "title": "https://artificialanalysis.ai/models",
+        "url": "https://artificialanalysis.ai/models"
+      },
+      {
+        "icon": "Viral icon pack/dankchat.png",
+        "id": "c_c8g1ukvah",
+        "subtitle": "",
+        "title": "qwen.ai",
+        "url": "https://chat.qwen.ai/"
+      }
+    ],
+    "f_hubvpwodt": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_z29q5woy3",
+        "subtitle": "",
+        "title": "1- annas archive",
+        "url": "https://annas-archive.org/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6k0lekc8m",
+        "subtitle": "",
+        "title": "2- library Genesis",
+        "url": "https://libgen.is/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_v1bgmh49p",
+        "subtitle": "",
+        "title": "3- Z-library ",
+        "url": "https://z-lib.gs/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xse6vlss9",
+        "subtitle": "",
+        "title": "4- Book racy",
+        "url": "https://bookracy.ru/?q="
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ohzm3y4tq",
+        "subtitle": "",
+        "title": "5- liber3",
+        "url": "https://liber3.eth.limo/#/?"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_c2ngy3816",
+        "subtitle": "",
+        "title": "99- readingpiracyguide",
+        "url": "https://fmhy.net/readingpiracyguide"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zrygou9k4",
+        "subtitle": "",
+        "title": "7- audiobookbay",
+        "url": "https://audiobookbay.lu/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h5iaeman6",
+        "subtitle": "",
+        "title": "12- hash to magnet link",
+        "url": "https://hardrisk.github.io/magnet/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qxtriczab",
+        "subtitle": "",
+        "title": "6- pdf drive",
+        "url": "https://www.pdfdrive.to/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_iu96qefch",
+        "subtitle": "",
+        "title": "8- Magazinelib",
+        "url": "https://magazinelib.com/technology/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hptjq6ahb",
+        "subtitle": "",
+        "title": "9- for coder",
+        "url": "https://forcoder.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ue19p7m9w",
+        "subtitle": "",
+        "title": "10- most recommended books",
+        "url": "https://www.mostrecommendedbooks.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nv9wd9xwm",
+        "subtitle": "",
+        "title": "11- Audio book searcher",
+        "url": "https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd#gsc.tab=0&gsc.q=So%20Good%20They%20Can%E2%80%99t%20Ignore%20You%3A%20Why%20Skills%20Trump%20Passion%20in%20the%20Quest%20for%20Work%20You%20Love&gsc.sort="
+      }
+    ],
+    "f_etke0dqo8": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fpwfxf0c8",
+        "subtitle": "",
+        "title": "AlternativeTo",
+        "url": "https://alternativeto.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yb2qe92he",
+        "subtitle": "",
+        "title": "1- filecr",
+        "url": "https://filecr.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3r3ilnpom",
+        "subtitle": "",
+        "title": "2- pesktop",
+        "url": "https://pesktop.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yuu6yomii",
+        "subtitle": "",
+        "title": "3- softarchive",
+        "url": "https://softarchive.is/software/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ivt0hmcox",
+        "subtitle": "",
+        "title": "4- Getintopc",
+        "url": "https://Getintopc.com"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mzg3qmobc",
+        "subtitle": "",
+        "title": "5- winstall",
+        "url": "https://winstall.app/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mvjt2vtjj",
+        "subtitle": "",
+        "title": "6- themicrotech",
+        "url": "https://programs.themicrotech.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5pnqfz824",
+        "subtitle": "",
+        "title": "6- aedownload",
+        "url": "https://aedownload.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vy79tg4s7",
+        "subtitle": "",
+        "title": "7- appdoze",
+        "url": "https://appdoze.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_brgmgua5h",
+        "subtitle": "",
+        "title": "7-allpcworld",
+        "url": "https://allpcworld.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_taaf1xsrp",
+        "subtitle": "",
+        "title": "98- portable site for program",
+        "url": "https://portapps.io/apps/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_jpptokdb1",
+        "subtitle": "",
+        "title": "99- megathread software",
+        "url": "https://www.reddit.com/r/Piracy/wiki/megathread/software/"
+      }
+    ],
+    "f_mc20fgi5z": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9hgqwhwxz",
+        "subtitle": "",
+        "title": "1- movie-web.app",
+        "url": "https://movie-web-kickstart.vercel.app/new-and-popular"
+      },
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_m5eywmbse",
+        "subtitle": "",
+        "title": "stremio web",
+        "url": "https://web.stremio.com/#/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5pnobj66a",
+        "subtitle": "",
+        "title": "extend.seedr.cc/stremio/",
+        "url": "https://extend.seedr.cc/stremio/?ct=YTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6OTc7fXM6NToiZW1haWwiO2k6OTc7czo0OiJzdGF0IjtzOjIyOiI2OWE0NzQ5YTg2Nzg1MDg3NzQ1MjY2IjtzOjQ6ImxlYWQiO3M6NzoiMzY0ODA4OCI7czo3OiJjaGFubmVsIjthOjE6e3M6NToiZW1haWwiO2k6OTc7fX0%3D&utm_source=mautic&utm_medium=email&utm_campaign=stremio-addon&utm_content=cta_primary"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zfwb450a0",
+        "subtitle": "",
+        "title": "2-weciiima",
+        "url": "https://wecima.ac/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_l84kvb51h",
+        "subtitle": "",
+        "title": "3- tuktukcinema",
+        "url": "https://tuktukcima.art/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w4duuo8hf",
+        "subtitle": "",
+        "title": "4- shahid4",
+        "url": "https://shiid4u.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jmdlcd4t0",
+        "subtitle": "",
+        "title": "5- fushaar",
+        "url": "https://www.fushaar.link/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7s2qeiu24",
+        "subtitle": "",
+        "title": "6- cinema",
+        "url": "https://elcinema.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_eh7hnqczi",
+        "subtitle": "",
+        "title": "7- cimanow",
+        "url": "https://cimanow.cc/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cpjm91mfd",
+        "subtitle": "",
+        "title": "7- arblionz",
+        "url": "https://arblionz.net/"
+      },
+      {
+        "icon": "Viral icon pack/amtrak.png",
+        "id": "c_j0kn8eb3g",
+        "subtitle": "",
+        "title": "8- Akwam",
+        "url": "https://ak.sv/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dkfl87nza",
+        "subtitle": "",
+        "title": "9- ciimaa4u",
+        "url": "https://cima4u.actor/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_bu8a15a1i",
+        "subtitle": "",
+        "title": "10- movieuniverse.se",
+        "url": "https://movieuniverse.lol/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_c0ihvdyb9",
+        "subtitle": "",
+        "title": "11- series4pack",
+        "url": "https://siries4pack.site/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_e0r0ox9m2",
+        "subtitle": "",
+        "title": "12- Soup2day",
+        "url": "https://soap2dayx.to/home"
+      },
+      {
+        "icon": "Viral icon pack/system_messaging_asus_colors10.png",
+        "id": "c_ral6vilnd",
+        "subtitle": "",
+        "title": "13- Cima club",
+        "url": "https://s10.cmaclb.store/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_okumbj3wr",
+        "subtitle": "",
+        "title": "14- arab seed",
+        "url": "https://m5.arbsd5.sbs/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_17qhzn0pa",
+        "subtitle": "",
+        "title": "15- 360 torrent upload guy",
+        "url": "https://thepiratebay.org/search.php?q=user:threesixtyp"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xf1q4x2wg",
+        "subtitle": "",
+        "title": "Filepursuit",
+        "url": "https://filepursuit.com/"
+      }
+    ],
+    "f_uz2t8v9bq": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wisq1npb2",
+        "subtitle": "",
+        "title": "price-engine",
+        "url": "https://price-engine.com/?dept=electronics"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ltaf7ig4b",
+        "subtitle": "",
+        "title": "eg-pc",
+        "url": "https://eg-pc.com/?in_stock=true&category=monitor&page=10&sort_field=price&sort_dir=asc"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i3bcef71m",
+        "subtitle": "",
+        "title": "1- sigma-computer",
+        "url": "https://www.sigma-computer.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_iy3yrcwr2",
+        "subtitle": "",
+        "title": "2- alfrensia",
+        "url": "https://alfrensia.com/"
+      },
+      {
+        "icon": "Viral icon pack/venus.png",
+        "id": "c_l02pni30f",
+        "subtitle": "",
+        "title": "3- venus.tech",
+        "url": "https://venus.tech/shop/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_14092hl8z",
+        "subtitle": "",
+        "title": "4- barakacomputer",
+        "url": "https://barakacomputer.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_he0n5detg",
+        "subtitle": "",
+        "title": "5- hardwaremarket",
+        "url": "https://hardwaremarket.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w6dgns1yh",
+        "subtitle": "",
+        "title": "6- arabhardware",
+        "url": "https://ahw.store/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_36ew6k3rg",
+        "subtitle": "",
+        "title": "7- elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4i0pxvfm0",
+        "subtitle": "",
+        "title": "8- elnour-tech",
+        "url": "https://elnour-tech.com/ar/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_50u7sakb1",
+        "subtitle": "",
+        "title": "9- elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_m90nogwz1",
+        "subtitle": "",
+        "title": "10- compumarts",
+        "url": "https://www.compumarts.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yqph231c1",
+        "subtitle": "",
+        "title": "11- compuscience",
+        "url": "https://compuscience.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_v977dvwy6",
+        "subtitle": "",
+        "title": "12- nextmarteg",
+        "url": "https://www.nextmarteg.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o0ttqc5zh",
+        "subtitle": "",
+        "title": "13- compuartstore",
+        "url": "https://www.compuartstore.com/intel?sort=p.price&order=DESC&page=2"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8wt250ar0",
+        "subtitle": "",
+        "title": "14- maximumhardware",
+        "url": "https://maximumhardware.store/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_b0mi0y4bq",
+        "subtitle": "",
+        "title": "15- solidhardware",
+        "url": "https://solidhardware.store/shop/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8wn7wtshc",
+        "subtitle": "",
+        "title": "16- highendstore",
+        "url": "https://highendstore.net/index.php?route=common/home"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hk9f9hesv",
+        "subtitle": "",
+        "title": "17- hankerz",
+        "url": "https://www.hankerz.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/antennapod.png",
+        "id": "c_clqb5v0ke",
+        "subtitle": "",
+        "title": "18- ennap",
+        "url": "https://www.ennap.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_1mjdry4wk",
+        "subtitle": "",
+        "title": "19- kimostore",
+        "url": "https://kimostore.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_oshvoac29",
+        "subtitle": "",
+        "title": "20- homzmart",
+        "url": "https://homzmart.com/c/appliances"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_atxwfeszk",
+        "subtitle": "",
+        "title": "21- albadrlaptop",
+        "url": "https://albadrlaptop.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fi3bmxwu5",
+        "subtitle": "",
+        "title": "22- computecheg",
+        "url": "https://computecheg.com/"
+      },
+      {
+        "icon": "Viral icon pack/amazonfresh.png",
+        "id": "c_ejpvwdljr",
+        "subtitle": "",
+        "title": "fresh",
+        "url": "https://fresh.com.eg/en"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cp74cll4h",
+        "subtitle": "",
+        "title": "elarabygroup",
+        "url": "https://www.elarabygroup.com/ar/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5dn6rei0m",
+        "subtitle": "",
+        "title": "jumia",
+        "url": "https://www.jumia.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wig96whrm",
+        "subtitle": "",
+        "title": "softlaptop",
+        "url": "https://softlaptop.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5k68sciw4",
+        "subtitle": "",
+        "title": "raneen",
+        "url": "https://www.raneen.com/ar/appliances"
+      },
+      {
+        "icon": "Viral icon pack/ic_lg_home.png",
+        "id": "c_zkjcowzk4",
+        "subtitle": "",
+        "title": "lg",
+        "url": "https://www.lg.com/eg_ar/home-appliances"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8fcnvsv7e",
+        "subtitle": "",
+        "title": "passap",
+        "url": "https://www.passap.com.eg/arabic/home/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_72sui8cm0",
+        "subtitle": "",
+        "title": "btech",
+        "url": "https://btech.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_89jcuczoe",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/ar/home-appliances.html"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3dqmuzrrj",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/ar/large-appliances"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9itsen73t",
+        "subtitle": "",
+        "title": "hyperone",
+        "url": "https://www.hyperone.com.eg/ar/categories/appliances"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rtuhw7q76",
+        "subtitle": "",
+        "title": "elghazawy",
+        "url": "https://elghazawy.com/ar/categories/home-appliances"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dou03eyj3",
+        "subtitle": "",
+        "title": "eliraqi",
+        "url": "https://eliraqi.com.eg/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_84jcn5r0m",
+        "subtitle": "",
+        "title": "compudatacenter",
+        "url": "https://compudatacenter.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w2wu0og5f",
+        "subtitle": "",
+        "title": "trend-pc",
+        "url": "https://www.trend-pc.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zi1fh3n07",
+        "subtitle": "",
+        "title": "TimeTech",
+        "url": "https://www.timetecheg.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_53m9acybb",
+        "subtitle": "",
+        "title": "altyseer",
+        "url": "https://altyseer.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_1429bnhdv",
+        "subtitle": "",
+        "title": "esteraad",
+        "url": "https://www.esteraad.com/ar/"
+      }
+    ],
+    "f_ups87nm6a": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yf2psnmit",
+        "subtitle": "",
+        "title": "1-gamesworldegypt",
+        "url": "https://www.gamesworldegypt.com/devices-accessories/gaming-monitor?sort=p.price&order=ASC&fq=1&limit=100"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vck7vmg04",
+        "subtitle": "",
+        "title": "2-sigma-computer",
+        "url": "https://www.sigma-computer.com/en/category/9f503a01-79d7-4a25-b3f3-63b0fd5b3094?sortBy=price&sortDir=asc&page=1&pageSize=50"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mwjio5g2f",
+        "subtitle": "",
+        "title": "3-compumarts",
+        "url": "https://www.compumarts.com/collections/monitors?sort_by=price-ascending&filter.v.availability=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_lzujgzbq0",
+        "subtitle": "",
+        "title": "4-alfrensia",
+        "url": "https://alfrensia.com/en/product-category/monitors/?orderby=price&stock=instock"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_v4wth1ujn",
+        "subtitle": "",
+        "title": "5-barakacomputer",
+        "url": "https://barakacomputer.net/product-category/monitor/?orderby=price&in-stock=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jymz1mvpf",
+        "subtitle": "",
+        "title": "6- ahw.store",
+        "url": "https://ahw.store/computer-peripherals/monitors-en-gb/?sort=p.price&order=ASC&fq=1&limit=100"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k1ebg856a",
+        "subtitle": "",
+        "title": "7-elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/index.php?route=product/category&path=66&sort=p.price&order=ASC&limit=100&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o6y5t5uz1",
+        "subtitle": "",
+        "title": "8-elnour-tech",
+        "url": "https://elnour-tech.com/ar/product-category/pc-parts/%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa/?orderby=price&paged=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wibj5w8wx",
+        "subtitle": "",
+        "title": "9-elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/monitors"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h0yzclmpi",
+        "subtitle": "",
+        "title": "10-compuscience",
+        "url": "https://compuscience.com.eg/en/13-monitors?order=product.price.asc"
+      }
+    ],
+    "f_v6hnjsp92": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wc7kh5ijt",
+        "subtitle": "",
+        "title": "1- PCPartPicker",
+        "url": "https://pcpartpicker.com/list/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kbejfwi97",
+        "subtitle": "",
+        "title": "intel-chips-rating",
+        "url": "https://nanoreview.net/en/cpu-list/intel-chips-rating"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rpw0qvze1",
+        "subtitle": "",
+        "title": "amd-chips-rating",
+        "url": "https://nanoreview.net/en/cpu-list/amd-chips-rating"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_psj2t9fq0",
+        "subtitle": "",
+        "title": "4- Cpu list",
+        "url": "https://nanoreview.net/en/cpu-list/cinebench-scores"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_az0p0k3z9",
+        "subtitle": "",
+        "title": "2- howmanyfps",
+        "url": "https://howmanyfps.com/processors"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vwwsh074w",
+        "subtitle": "",
+        "title": "3- cultists",
+        "url": "https://cultists.network/"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_4igap8nid",
+        "subtitle": "",
+        "title": "5- GPU list",
+        "url": "https://docs.google.com/spreadsheets/d/1uMWv0eRsL_eCFTH1R2Mu9xtszHGiL0LxjMhePqoOHmg/edit?gid=1285535276#gid=1285535276"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_zd0c2ietq",
+        "subtitle": "",
+        "title": "6- AM4 [AMD]",
+        "url": "https://docs.google.com/spreadsheets/d/1-cw7A2MDHPvA-oB3OKXivdUo9BbTcsss1Rzy3J4hRyA/edit#gid=2112472504"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_r5x21q1cy",
+        "subtitle": "",
+        "title": "6- AM5 [AMD]",
+        "url": "https://docs.google.com/spreadsheets/d/1NQHkDEcgDPm34Mns3C93K6SJoBnua-x9O-y_6hv8sPs/edit?gid=454171143#gid=454171143"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_bt3wqx6th",
+        "subtitle": "",
+        "title": "6- LGA1851 [Intel]",
+        "url": "https://docs.google.com/spreadsheets/d/1o0PmKbAd6INOj3VFn5qsw7Rat2LalcDOV_hcr6Zvi88/edit?gid=0#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_uxf8qewul",
+        "subtitle": "",
+        "title": "6- LGA1151v2 for Intel 9th & 8th-Gen",
+        "url": "https://docs.google.com/spreadsheets/d/1IY6W6YhyjnzSvi8BqEqiK1xykSiTDF2Lt1FO8cNhI6I/edit?gid=585498417#gid=585498417"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_m2c00fyth",
+        "subtitle": "",
+        "title": "7- PSU list",
+        "url": "https://docs.google.com/spreadsheets/d/1i6gYAlEEB8Wpbr4E3jY3ctuYvNR5SiuokzPLb5WiQlw/edit#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wfrwz62li",
+        "subtitle": "",
+        "title": "8- ssd specs",
+        "url": "https://www.techpowerup.com/ssd-specs"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_dlz524ohy",
+        "subtitle": "",
+        "title": "8- ssd & m.2 list",
+        "url": "https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit?gid=0#gid=0"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ffe7lftti",
+        "subtitle": "",
+        "title": "9- FurMark Score list",
+        "url": "https://www.gpumagick.com/scores/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nqo5wizj4",
+        "subtitle": "",
+        "title": "megacharts/cpus",
+        "url": "https://gamersnexus.net/megacharts/cpus"
+      }
+    ],
+    "f_p32g8npge": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5ydwg05xm",
+        "subtitle": "",
+        "title": "1- watermarkremover",
+        "url": "https://www.watermarkremover.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rhajkl2jy",
+        "subtitle": "",
+        "title": "2- pixelbin",
+        "url": "https://www.pixelbin.io/"
+      },
+      {
+        "icon": "Viral icon pack/eraser.png",
+        "id": "c_uty8j8m2l",
+        "subtitle": "",
+        "title": "3- erase.bg",
+        "url": "https://www.erase.bg/?ref=watermarkremover"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_y5qy5ps3f",
+        "subtitle": "",
+        "title": "4- clipdrop",
+        "url": "https://clipdrop.co/remove-background"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9fxb3ij3h",
+        "subtitle": "",
+        "title": "4- clipdrop Tools",
+        "url": "https://clipdrop.co/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_ir96f0vrl",
+        "subtitle": "",
+        "title": "5- Pixlr editor",
+        "url": "https://pixlr.com/editor/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_z208aby4q",
+        "subtitle": "",
+        "title": "6- Pixlr",
+        "url": "https://pixlr.com/remove-background/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_lftlt8lpe",
+        "subtitle": "",
+        "title": "7- Pixlr",
+        "url": "https://pixlr.com/batch/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_fdtdir9ju",
+        "subtitle": "",
+        "title": "8- Pixlr ",
+        "url": "https://pixlr.com/designer/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_joh3f75t4",
+        "subtitle": "",
+        "title": "9- Pixlr ",
+        "url": "https://pixlr.com/express/"
+      },
+      {
+        "icon": "Viral icon pack/pixlr.png",
+        "id": "c_7vmpj3aht",
+        "subtitle": "",
+        "title": "10- Pixlr ",
+        "url": "https://pixlr.com/image-generator/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vut26krm5",
+        "subtitle": "",
+        "title": "11- upscale.media",
+        "url": "https://www.upscale.media/upload"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4wtbo03nz",
+        "subtitle": "",
+        "title": "Pexels",
+        "url": "https://www.pexels.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_bndvvg58k",
+        "subtitle": "",
+        "title": "DeviantArt",
+        "url": "https://www.deviantart.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mfw0gfdpb",
+        "subtitle": "",
+        "title": "imgupscaler",
+        "url": "https://imgupscaler.com/"
+      },
+      {
+        "icon": "Viral icon pack/pinterest.png",
+        "id": "c_08zyhxpcf",
+        "subtitle": "",
+        "title": "Pinterest",
+        "url": "https://www.pinterest.com"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_s9piwac9x",
+        "subtitle": "",
+        "title": "text-behind-image",
+        "url": "https://github.com/RexanWONG/text-behind-image"
+      }
+    ],
+    "f_iet65pryy": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_eukk32x8x",
+        "subtitle": "",
+        "title": "1- Courses all sites",
+        "url": "https://fmhy.net/edupiracyguide#torrenting"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xpcukh35l",
+        "subtitle": "",
+        "title": "2- tutflix",
+        "url": "https://tutflix.org/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_06n18c8d4",
+        "subtitle": "",
+        "title": "3- tutflix best",
+        "url": "https://tutflix.org/forums/ui-ux.41/?order=view_count&direction=desc"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6nmtack1y",
+        "subtitle": "",
+        "title": "4- courseclub",
+        "url": "https://courseclub.me/?1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_urf1knhg2",
+        "subtitle": "",
+        "title": "5- freecoursesite",
+        "url": "https://freecoursesite.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jkhvdqry6",
+        "subtitle": "",
+        "title": "7- downloadfreecourse",
+        "url": "https://downloadfreecourse.com/development-25"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jyqjqpxy0",
+        "subtitle": "",
+        "title": "8- downloadlynet.ir",
+        "url": "https://downloadlynet.ir/"
+      },
+      {
+        "icon": "Viral icon pack/aarogya_setu_trans.png",
+        "id": "c_i4vopnisx",
+        "subtitle": "",
+        "title": "9- yandex search",
+        "url": "https://ya.ru/search/?text=CSS+-+The+Complete+Guide+2024+(incl.+Flexbox%2C+Grid+%26+Sass)&lr=213&search_source=yaru_desktop_common&search_domain=yaru"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dnnzjq5v7",
+        "subtitle": "",
+        "title": "onehack.se",
+        "url": "https://onehack.se/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kscj7z9wd",
+        "subtitle": "",
+        "title": "academind  courses",
+        "url": "https://academind.com/courses/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g9rlcaitz",
+        "subtitle": "",
+        "title": "docspedia",
+        "url": "https://docspedia.world/browse.php"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k5xkblm5x",
+        "subtitle": "",
+        "title": "hacksnation",
+        "url": "https://hacksnation.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vqfe6jdiz",
+        "subtitle": "",
+        "title": "3- gigacourse",
+        "url": "https://www.gigacourses.com/"
+      },
+      {
+        "icon": "Viral icon pack/udemy.png",
+        "id": "c_f134uusqk",
+        "subtitle": "",
+        "title": "Udemy",
+        "url": "https://www.udemy.com"
+      }
+    ],
+    "f_zpz0122h3": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qdluev30x",
+        "subtitle": "",
+        "title": "1- Seedr",
+        "url": "https://www.seedr.cc/"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_vtsucmrsz",
+        "subtitle": "",
+        "title": "10- sonic bit",
+        "url": "https://my.sonicbit.net/seedbox"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_y6ycma7zn",
+        "subtitle": "",
+        "title": "2- webtor",
+        "url": "https://webtor.io/#/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zeplv0vsa",
+        "subtitle": "",
+        "title": "3-torrentz2",
+        "url": "https://torrentz2.nz/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dc22viu7c",
+        "subtitle": "",
+        "title": "snowfl",
+        "url": "https://snowfl.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_74uwljefy",
+        "subtitle": "",
+        "title": "3- The Pirate Bay",
+        "url": "https://thepiratebay.org/"
+      },
+      {
+        "icon": "Viral icon pack/hoyts_cinema.png",
+        "id": "c_n8f3xgfcf",
+        "subtitle": "",
+        "title": "4- yts",
+        "url": "https://yts.mx/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i7zlslfc6",
+        "subtitle": "",
+        "title": "5- 1337x",
+        "url": "https://www.1337x.to/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7j1ufsyit",
+        "subtitle": "",
+        "title": "6- limetorrents",
+        "url": "https://www.limetorrents.info/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7rkgdomzm",
+        "subtitle": "",
+        "title": "7- kick ass torrent",
+        "url": "https://katcr.to/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_j1jcihtbv",
+        "subtitle": "",
+        "title": "8- ez tv",
+        "url": "https://eztvx.to/home"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_bn6fulxd7",
+        "subtitle": "",
+        "title": "9- torlock",
+        "url": "https://www.torlock.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_du9t8qj7b",
+        "subtitle": "",
+        "title": "kiss cartoon",
+        "url": "https://kisscartoon.nz/"
+      }
+    ],
+    "f_dmuyuex85": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8r42htlrw",
+        "subtitle": "",
+        "title": "1- Premium_Leeches",
+        "url": "https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8ln3qk15n",
+        "subtitle": "",
+        "title": "2- cocoleech",
+        "url": "https://cocoleech.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jkmi2zbgs",
+        "subtitle": "",
+        "title": "3- leechall",
+        "url": "https://leechall.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wom2cyrsk",
+        "subtitle": "",
+        "title": "4- uploadedpremiumlink",
+        "url": "http://www.uploadedpremiumlink.xyz/"
+      },
+      {
+        "icon": "Viral icon pack/adobe_premiere_clip.png",
+        "id": "c_owuzz85vl",
+        "subtitle": "",
+        "title": "4- prem.link",
+        "url": "http://prem.link/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zuj68ccc6",
+        "subtitle": "",
+        "title": "5- fshare ",
+        "url": "https://getlinkfshare.net/"
+      }
+    ],
+    "f_qorq46xro": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jsvppu1ln",
+        "subtitle": "",
+        "title": "1- freeduim",
+        "url": "https://freedium.cfd/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_btsbcbbg4",
+        "subtitle": "",
+        "title": "2- pay wall buster",
+        "url": "https://paywallbuster.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_udmr1ufk3",
+        "subtitle": "",
+        "title": "3- bye bye pay wall",
+        "url": "https://byebyepaywall.com/en/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7ig8hsoe0",
+        "subtitle": "",
+        "title": "4- smry ai",
+        "url": "https://www.smry.ai/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_2erxvygq8",
+        "subtitle": "",
+        "title": "5- open access button",
+        "url": "https://openaccessbutton.org/"
+      }
+    ],
+    "f_85bwvm3l2": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k2wkhyley",
+        "subtitle": "",
+        "title": "1- proxysite",
+        "url": "https://www.proxysite.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_p2f4hc3ts",
+        "subtitle": "",
+        "title": "2- proxyium",
+        "url": "https://proxyium.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_14b82n7dr",
+        "subtitle": "",
+        "title": "3- croxyproxy",
+        "url": "https://www.croxyproxy.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9kylr0lo3",
+        "subtitle": "",
+        "title": "4- proxysite.pro",
+        "url": "https://proxysite.pro/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6jlzpyodb",
+        "subtitle": "",
+        "title": "ip-blacklist-checker",
+        "url": "https://dnschecker.org/ip-blacklist-checker.php"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_bt4d5ug14",
+        "subtitle": "",
+        "title": "blacklist-check",
+        "url": "https://whatismyipaddress.com/blacklist-check"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kz497rmdn",
+        "subtitle": "",
+        "title": "webshare",
+        "url": "https://proxy2.webshare.io/proxy/"
+      }
+    ],
+    "f_pundgw1y8": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mtw1f1mfu",
+        "subtitle": "",
+        "title": "SteamDB [games review]",
+        "url": "https://steamdb.info/stats/gameratings/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zpz8gvv7p",
+        "subtitle": "",
+        "title": "1- dodi-repacks",
+        "url": "https://dodi-repacks.site/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_1wng2mr4n",
+        "subtitle": "",
+        "title": "game-repack.site",
+        "url": "https://game-repack.site/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_r3gqdf975",
+        "subtitle": "",
+        "title": "2- gnarly_repacks",
+        "url": "https://rentry.org/gnarly_repacks"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8hugumwsj",
+        "subtitle": "",
+        "title": "3- gload",
+        "url": "https://gload.to/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o8t1kcqha",
+        "subtitle": "",
+        "title": "4- gamdie",
+        "url": "https://gamdie.com/popular-games/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_29sjsf2un",
+        "subtitle": "",
+        "title": "seven-gamers",
+        "url": "https://www.seven-gamers.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mpssqxcob",
+        "subtitle": "",
+        "title": "g4u",
+        "url": "https://g4u.to/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_ys1luih4u",
+        "subtitle": "",
+        "title": "Reddit megathread games",
+        "url": "https://www.reddit.com/r/Piracy/wiki/megathread/games/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ugc22otoz",
+        "subtitle": "",
+        "title": "2- steamrip [full game]",
+        "url": "https://steamrip.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_q88zio5b8",
+        "subtitle": "",
+        "title": "steamrip",
+        "url": "https://steamrip.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_x8jkh0t90",
+        "subtitle": "",
+        "title": "Poopgirl Repacks",
+        "url": "https://fitgirl-repacks.site/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_p23r1lu5v",
+        "subtitle": "",
+        "title": "Metacritic",
+        "url": "https://www.metacritic.com/browse/game/pc/all/all-time/userscore/?releaseYearMin=2010&releaseYearMax=2025&platform=pc&page=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jn31bqutk",
+        "subtitle": "",
+        "title": "Dead Island 2",
+        "url": "https://Dead Island 2"
+      }
+    ],
+    "f_ovu13rwxh": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8hzkgr1zo",
+        "subtitle": "",
+        "title": "narrow.one",
+        "url": "https://narrow.one/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ggegfvhu3",
+        "subtitle": "",
+        "title": "diep",
+        "url": "https://diep.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_whbunwre3",
+        "subtitle": "",
+        "title": "stug.",
+        "url": "https://stug.io/"
+      },
+      {
+        "icon": "Viral icon pack/beta.png",
+        "id": "c_fh5b6rwu9",
+        "subtitle": "",
+        "title": "beta.deeeep.io",
+        "url": "https://beta.deeeep.io/"
+      },
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_wuy9t193s",
+        "subtitle": "",
+        "title": "IoGames/wiki/index/",
+        "url": "https://www.reddit.com/r/IoGames/wiki/index/"
+      }
+    ],
+    "f_wpczznfye": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ezdojqq11",
+        "subtitle": "",
+        "title": "getmodsapk",
+        "url": "https://getmodsapk.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_j8i93qxal",
+        "subtitle": "",
+        "title": "1- File cr Android ",
+        "url": "https://filecr.com/android/?id=895662014000"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ysmpbxdo4",
+        "subtitle": "",
+        "title": "2-Mod yolo",
+        "url": "https://modyolo.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gmrywm4zj",
+        "subtitle": "",
+        "title": "3-Apk mody",
+        "url": "https://apkmody.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5ldmgwxck",
+        "subtitle": "",
+        "title": "4-Mod apkok",
+        "url": "https://modapkok.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gdjl5ynzu",
+        "subtitle": "",
+        "title": "5- Revdl",
+        "url": "https://www.revdl.com/category/apps/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_e4trqpcuo",
+        "subtitle": "",
+        "title": "Liteapks",
+        "url": "https://liteapks.com/"
+      }
+    ],
+    "f_ibdr6c6sl": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_9di29nv60",
+        "subtitle": "",
+        "title": "1- Arch linux Jakool",
+        "url": "https://github.com/JaKooLit/Arch-Hyprland"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_h5grhwumx",
+        "subtitle": "",
+        "title": "2- JaKooLit Keybinds",
+        "url": "https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_2y18r34du",
+        "subtitle": "",
+        "title": "3- nwg-dock-hyprland",
+        "url": "https://www.youtube.com/watch?v=16KX3vnbNcg"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_e52sqasy7",
+        "subtitle": "",
+        "title": "4- flathub",
+        "url": "https://flathub.org/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qcji7et6p",
+        "subtitle": "",
+        "title": "5- Snap Store ",
+        "url": "https://snapcraft.io/store"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nonsh4f0z",
+        "subtitle": "",
+        "title": "Arch linux",
+        "url": "https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_puu59f0af",
+        "subtitle": "",
+        "title": "arch-nvidia-drivers-installation-guide",
+        "url": "https://github.com/korvahannu/arch-nvidia-drivers-installation-guide"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_of60mryo2",
+        "subtitle": "",
+        "title": "bluetooth",
+        "url": "https://itsfoss.com/bluetooth-arch-linux/"
+      },
+      {
+        "icon": "Viral icon pack/superuser.png",
+        "id": "c_m32y5gimm",
+        "subtitle": "",
+        "title": "arch brightness",
+        "url": "https://superuser.com/questions/1531050/no-brightness-control-in-kde"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_5t4rkt69m",
+        "subtitle": "",
+        "title": "actionless/pikaur",
+        "url": "https://github.com/actionless/pikaur"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_uxi0q6klo",
+        "subtitle": "",
+        "title": "hyprland",
+        "url": "https://github.com/mylinuxforwork/dotfiles"
+      },
+      {
+        "icon": "Viral icon pack/wikipedia_beta.png",
+        "id": "c_bzlbjs8q4",
+        "subtitle": "",
+        "title": "hyprland Nvidia",
+        "url": "https://wiki.hyprland.org/Nvidia/"
+      }
+    ],
+    "f_hgzlx2l2s": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_f89ckfem4",
+        "subtitle": "",
+        "title": "1- Most Blender Plugins",
+        "url": "https://www.fshare.vn/folder/LYROTUGJZ6IT?token=1735846728"
+      }
+    ],
+    "f_8rla0xgmr": [
+      {
+        "icon": "Viral icon pack/apus_browser_turbo.png",
+        "id": "c_080pfb48k",
+        "subtitle": "",
+        "title": "browser.lol",
+        "url": "https://browser.lol/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_32dyplo10",
+        "subtitle": "",
+        "title": "browserling",
+        "url": "https://www.browserling.com/"
+      }
+    ],
+    "f_zncdqzw11": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fmnu3fps5",
+        "subtitle": "",
+        "title": "1- Kimovil",
+        "url": "https://www.kimovil.com/en/best-smartphones-antutu"
+      },
+      {
+        "icon": "Viral icon pack/adobe_photoshop_fix.png",
+        "id": "c_zhk065xuk",
+        "subtitle": "",
+        "title": "shop.orange",
+        "url": "https://shop.orange.eg/en/mobiles?s=4G&orderby=10"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xz6lhlr1a",
+        "subtitle": "",
+        "title": "eshop.vodafone",
+        "url": "https://eshop.vodafone.com.eg/en/list?channelId=organicGoogle&c_id=DACS0367&c_medium=Organic&c_source=Google&c_type=Anonymous&categoryUrls=%2Fsmart-phones&sort=bestPrice,asc"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_837c2gp7a",
+        "subtitle": "",
+        "title": "etisalat.eg",
+        "url": "https://www.etisalat.eg/eshop2/#/category/devices?cid=2&categoryType=Category"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9cg766icg",
+        "subtitle": "",
+        "title": "myxprs",
+        "url": "https://myxprs.com/collections/mobile-phones-egypt?filter.v.availability=1&sort_by=price-ascending"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kkv0s2d9h",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/en/smartphones"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_d88788bo1",
+        "subtitle": "",
+        "title": "dream2000",
+        "url": "https://dream2000.com/en/mobiles.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gflumiqp1",
+        "subtitle": "",
+        "title": "mobilaty",
+        "url": "https://www.mobilaty.com/en/product/mobiles?sort=low"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_463slripp",
+        "subtitle": "",
+        "title": "drmobilestore",
+        "url": "https://drmobilestore.com/shop.html?q=categories&c=MOBILES&page=1&nitems=36"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i2ktza10f",
+        "subtitle": "",
+        "title": "iq-mobiles",
+        "url": "https://iq-mobiles.com/ar/mobile.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9htee9427",
+        "subtitle": "",
+        "title": "imediastores",
+        "url": "https://www.imediastores.com/product-category/all_devices/mobile-phones/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_q4j9cqn22",
+        "subtitle": "",
+        "title": "egypt.sharafdg",
+        "url": "https://egypt.sharafdg.com/c/mobiles_tablets/mobiles/?idx=egypt_products_price_asc&hFR[taxonomies.taxonomies_hierarchical][0]=Mobiles%20%26%20Tablets%20%3E%20Mobiles"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_p5wd8s509",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/en/mobile-and-tablet/mobiles.html?product_list_order=price&product_list_dir=asc"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w2jyqwdi8",
+        "subtitle": "",
+        "title": "https://elghazawy.com/en/product/38074270288563/Redmi+A5+Dual+SIM+Mobile%2C+128GB+Memory%2C+4GB+RAM%2C+4G+LTE+Network%2C+Midnight+Black",
+        "url": "https://elghazawy.com/en/product/38074270288563/Redmi+A5+Dual+SIM+Mobile%2C+128GB+Memory%2C+4GB+RAM%2C+4G+LTE+Network%2C+Midnight+Black"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6rm286npu",
+        "subtitle": "",
+        "title": "elghazawy",
+        "url": "https://elghazawy.com/en/sub-category/smart-phone?ordered=price&sort=asc"
+      },
+      {
+        "icon": "Viral icon pack/beta.png",
+        "id": "c_ii0jyiv81",
+        "subtitle": "",
+        "title": "beta.btech",
+        "url": "https://beta.btech.com/en/c/32f83711-3591-48eb-8bb8-2d5a045f2d31?sort=low_to_high"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w619cs0ak",
+        "subtitle": "",
+        "title": "kimostore",
+        "url": "https://kimostore.net/collections/mobile-phone?sort_by=price-ascending"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zjcqq28zz",
+        "subtitle": "",
+        "title": "jumia",
+        "url": "https://www.jumia.com.eg/mobile-phones/?sort=lowest-price#catalog-listing"
+      },
+      {
+        "icon": "Viral icon pack/a_better_camera_unlocked.png",
+        "id": "c_pbfzvja6g",
+        "subtitle": "",
+        "title": "te.eg Mobile-Phones",
+        "url": "https://te.eg/wps/portal/te/Personal/Devices/Mobile-Phones"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_c5nktlysv",
+        "subtitle": "",
+        "title": "smartkoshk",
+        "url": "https://smartkoshk.com/collections/smartphones"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kbocmedlk",
+        "subtitle": "",
+        "title": "CPU ranking ",
+        "url": "https://nanoreview.net/en/soc-list/rating"
+      }
+    ],
+    "f_bomj34etl": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_jifndx9kb",
+        "subtitle": "",
+        "title": "1- excalidraw",
+        "url": "https://excalidraw.com/"
+      }
+    ],
+    "f_jg6er8lnt": [
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_we9f2dm1h",
+        "subtitle": "",
+        "title": "Blender Documentations",
+        "url": "https://docs.blender.org/manual/en/latest/"
+      }
+    ],
+    "f_eb2kd11pg": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_81x1kce5x",
+        "subtitle": "",
+        "title": "opensubtitles arabic",
+        "url": "https://www.opensubtitles.org/ar/ssearch/sublanguageid-ara/idmovie-1184717"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ywwwz35g2",
+        "subtitle": "",
+        "title": "subdl",
+        "url": "https://subdl.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_iac5itx15",
+        "subtitle": "",
+        "title": "yts-subs",
+        "url": "https://yts-subs.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6lrf92di5",
+        "subtitle": "",
+        "title": "Arabic subtitle",
+        "url": "https://www.opensubtitles.com/ar/"
+      }
+    ],
+    "f_fhj4t9tjm": [
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_su084wl1a",
+        "subtitle": "",
+        "title": "Dokploy",
+        "url": "https://docs.dokploy.com/docs/core"
+      },
+      {
+        "icon": "Viral icon pack/streamlabs_controller.png",
+        "id": "c_71k8foabn",
+        "subtitle": "",
+        "title": "play-with-docker",
+        "url": "https://labs.play-with-docker.com/"
+      }
+    ],
+    "f_jzz9ct8n2": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ni1apzv3l",
+        "subtitle": "",
+        "title": "1- tier list cloud storage",
+        "url": "https://comparisontabl.es/cloud-storage/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_gko3obawr",
+        "subtitle": "",
+        "title": "app.filen.io",
+        "url": "https://app.filen.io/"
+      },
+      {
+        "icon": "Viral icon pack/mega.png",
+        "id": "c_razfmccre",
+        "subtitle": "",
+        "title": "1-MEGA",
+        "url": "https://mega.nz/fm/Q70jlJZY"
+      },
+      {
+        "icon": "Viral icon pack/dropbox.png",
+        "id": "c_28bz72e8w",
+        "subtitle": "",
+        "title": "2-Dropbox",
+        "url": "https://www.dropbox.com"
+      },
+      {
+        "icon": "Viral icon pack/drive.png",
+        "id": "c_v3jtgkkxo",
+        "subtitle": "",
+        "title": "3-Google Drive",
+        "url": "https://drive.google.com"
+      },
+      {
+        "icon": "Viral icon pack/onedrive.png",
+        "id": "c_f6hwq8c8q",
+        "subtitle": "",
+        "title": "4- OneDrive",
+        "url": "https://onedrive.live.com"
+      }
+    ],
+    "f_djytv1sho": [
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_a9mal86gm",
+        "subtitle": "",
+        "title": "1- nanonets",
+        "url": "https://app.nanonets.com/#/ocr/test/a2c51ca6-7e25-4c47-aad9-9d89cad0493f"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yj0eiolpn",
+        "subtitle": "",
+        "title": "Mistral-OCR",
+        "url": "https://huggingface.co/spaces/merterbak/Mistral-OCR"
+      }
+    ],
+    "f_oveyse4kf": [
+      {
+        "icon": "Viral icon pack/system_asus_heart_rate.png",
+        "id": "c_bripxsleu",
+        "subtitle": "",
+        "title": "B760M-PLUS WIFI D4 ASUSTeK ",
+        "url": "https://www.asus.com/supportonly/tuf%20gaming%20b760m-plus%20wifi%20d4/helpdesk_download/"
+      }
+    ],
+    "f_3bk3dj0ox": [
+      {
+        "icon": "Viral icon pack/google_play_developer_console.png",
+        "id": "c_u3yezc03h",
+        "subtitle": "",
+        "title": "1- hashicorp",
+        "url": "https://developer.hashicorp.com/vault/install?product_intent=vault"
+      },
+      {
+        "icon": "Viral icon pack/portal.png",
+        "id": "c_75mggcsm1",
+        "subtitle": "",
+        "title": "hashicorp vault cloud",
+        "url": "https://portal.cloud.hashicorp.com/services/secrets/apps/bitwarden/secrets?project_id=247f382b-6869-453a-8b3e-52d833390c69"
+      }
+    ],
+    "f_519ie7aib": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pwtuynl5u",
+        "subtitle": "",
+        "title": "linuxvmimages",
+        "url": "https://www.linuxvmimages.com/images/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qmk6g1z1y",
+        "subtitle": "",
+        "title": "osboxes",
+        "url": "https://www.osboxes.org/vmware-images/"
+      }
+    ],
+    "f_c6khsn9cs": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_38uhal8rw",
+        "subtitle": "",
+        "title": "ggntw workshop-wallpaper-engine",
+        "url": "https://ggntw.com/steam"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o5s7hw9qa",
+        "subtitle": "",
+        "title": "workshop - WallpaperEngine",
+        "url": "https://steamcommunity.com/workshop/browse/?appid=431960&browsesort=trend&section=readytouseitems"
+      }
+    ],
+    "f_4lfk23jt9": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gdw9ho0fu",
+        "subtitle": "",
+        "title": "grafana cloud ",
+        "url": "https://kareemmehesen2026.grafana.net/a/grafana-setupguide-app/onboarding-flow/start?src=hg_notification_trial"
+      }
+    ],
+    "f_1s0qxcjwr": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_yz0y3ileq",
+        "subtitle": "",
+        "title": "jumpserver",
+        "url": "https://github.com/jumpserver/jumpserver?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_l8nn7mvdd",
+        "subtitle": "",
+        "title": "Cloud-Free-Tier-Comparison",
+        "url": "https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_8me7itj9i",
+        "subtitle": "",
+        "title": "nakama",
+        "url": "https://github.com/heroiclabs/nakama?tab=readme-ov-file"
+      }
+    ],
+    "f_3g20q0chj": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_c62h4sxzb",
+        "subtitle": "",
+        "title": "regex-builder",
+        "url": "https://platform.text.com/tools/regex-builder"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_t9zns3k7f",
+        "subtitle": "",
+        "title": "regex-quickstart",
+        "url": "https://www.rexegg.com/regex-quickstart.php"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_77pq7motq",
+        "subtitle": "",
+        "title": "regex-generator",
+        "url": "https://regex-generator.olafneumann.org/?sampleText=Futurama%20-%2009x06%20L%27attacco%20dei%20pantacloni%20ITA.ENG%201080p%20H265%20sub%20ita.eng%20Sp33dy94-MIRCrew.mkv&flags=i&selection=11%7CDigit,12%7CDigit,13%7CCharacter,14%7CDigit,15%7CDigit"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_iikjm7az7",
+        "subtitle": "",
+        "title": "Regex tricks",
+        "url": "https://app.affine.pro/workspace/d9b6cb93-daf1-4184-8598-9b4deb6c854d/W02FElmLcU"
+      }
+    ],
+    "f_h7sr4xdf0": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fuh4cvthw",
+        "subtitle": "",
+        "title": "notegen ",
+        "url": "https://notegen.top/zh/preview/files.html"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_hs3n67pcq",
+        "subtitle": "",
+        "title": "Affine",
+        "url": "https://app.affine.pro/"
+      },
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_caya48cyw",
+        "subtitle": "",
+        "title": "docs.craft.do",
+        "url": "https://docs.craft.do/recents"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_9z0xfpjv9",
+        "subtitle": "",
+        "title": "hyprnote",
+        "url": "https://github.com/fastrepl/hyprnote"
+      }
+    ],
+    "f_crpp65ppo": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g2dt07kim",
+        "subtitle": "",
+        "title": "openart.ai workflows templates",
+        "url": "https://openart.ai/workflows/templates"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g7ysw20gr",
+        "subtitle": "",
+        "title": "Photoshop SDXL + ControlNet",
+        "url": "https://openart.ai/workflows/tiger_vicious_50/photoshop-sdxl-controlnet/2HTFV9wKjCmrmOJuVicZ"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0f4rwquqs",
+        "subtitle": "",
+        "title": "comfyui-wiki install-models",
+        "url": "https://comfyui-wiki.com/en/install/install-models"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_nyrom9w2l",
+        "subtitle": "",
+        "title": "liblib.art",
+        "url": "https://www.liblib.art/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8dsdi7m1w",
+        "subtitle": "",
+        "title": "civitai",
+        "url": "https://civitai.com/models"
+      }
+    ],
+    "f_afvhnkksd": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_381ooa6km",
+        "subtitle": "",
+        "title": "agenticSeek",
+        "url": "https://github.com/Fosowl/agenticSeek"
+      }
+    ],
+    "f_daqwzehvs": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6svz2ixe1",
+        "subtitle": "",
+        "title": "Color Hunt",
+        "url": "https://colorhunt.co/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xr9gcimba",
+        "subtitle": "",
+        "title": "Coolors",
+        "url": "https://coolors.co/7fb069-fffbbd-e6aa68-ca3c25-1d1a05"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dbma5d2yh",
+        "subtitle": "",
+        "title": "htmlcolorcodes",
+        "url": "https://htmlcolorcodes.com/"
+      }
+    ],
+    "f_mgtth55tj": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9itct991c",
+        "subtitle": "",
+        "title": "Vscode Github",
+        "url": "https://psychic-waddle-4q4vg4qvj5x3j5rp.github.dev/"
+      }
+    ],
+    "f_kpoq19dc5": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_j0i2sjm01",
+        "subtitle": "",
+        "title": "1- fonnts",
+        "url": "https://fonnts.com/"
+      },
+      {
+        "icon": "Viral icon pack/font_installer.png",
+        "id": "c_tykw0etvr",
+        "subtitle": "",
+        "title": "2- font download",
+        "url": "https://font.download/font/"
+      }
+    ],
+    "f_mjnhet0uj": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cxx20vqx6",
+        "subtitle": "",
+        "title": "Workflow",
+        "url": "http://127.0.0.1:8000"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_o4p3l6pn1",
+        "subtitle": "",
+        "title": "n8n",
+        "url": "http://localhost:5678"
+      }
+    ],
+    "f_avk06luel": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_663ocunug",
+        "subtitle": "",
+        "title": "sim",
+        "url": "https://github.com/simstudioai/sim"
+      }
+    ],
+    "f_blwtk7yur": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_p2jjebuv4",
+        "subtitle": "",
+        "title": "zerobyte",
+        "url": "https://github.com/nicotsx/zerobyte?tab=readme-ov-file"
+      }
+    ],
+    "f_w2tx29lhb": [
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_l8ubeogdp",
+        "subtitle": "",
+        "title": "1- internet usage 🛜",
+        "url": "https://my.te.eg/echannel/#/usage?mainOfferId=820048"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_4uyx5yf4p",
+        "subtitle": "",
+        "title": "2- renew , exp dates 🗓️",
+        "url": "https://my.te.eg/echannel/#/overview"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_wgw9srmjd",
+        "subtitle": "",
+        "title": "balance-recharge [we internet]",
+        "url": "https://my.te.eg/echannel/#/balance-recharge"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_qzu3pxeha",
+        "subtitle": "",
+        "title": "accountoverview",
+        "url": "https://my.te.eg/echannel/#/accountoverview"
+      },
+      {
+        "icon": "Viral icon pack/alarmy.png",
+        "id": "c_xb6uocqmk",
+        "subtitle": "",
+        "title": "addon",
+        "url": "https://my.te.eg/echannel/#/tomoreaddon"
+      },
+      {
+        "icon": "Viral icon pack/internet_speed_meter.png",
+        "id": "c_1xi3rymhc",
+        "subtitle": "",
+        "title": "Vodafone Cash",
+        "url": "https://internet.vodafone.com.eg/digital/vf_cash_guide.pdf"
+      }
+    ],
+    "f_9p1sk53n7": [
+      {
+        "icon": "Viral icon pack/reddit.png",
+        "id": "c_m57z2ym88",
+        "subtitle": "",
+        "title": "Hyperhidrosis",
+        "url": "https://www.reddit.com/r/Hyperhidrosis/comments/171kmg1/omg_i_think_i_found_a_cure_for_my_hyperhidrosis/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_wvjslf8nu",
+        "subtitle": "",
+        "title": "90DaysOfCyberSecurity",
+        "url": "https://github.com/farhanashrafdev/90DaysOfCyberSecurity"
+      },
+      {
+        "icon": "Viral icon pack/drive.png",
+        "id": "c_zjn6v91wp",
+        "subtitle": "",
+        "title": "Google Drive tele ",
+        "url": "https://drive.google.com/drive/u/0/mobile/folders/0BzZEGiaPJor4QjFKU1h4LXdWVjA?resourcekey=0-F9OURXweo9ePZ2XGFsFYyg&fbclid=IwAR1C1nQqaM3tVWKTfP5eW3L7PSTJwc03ya4Ewrp8iZdYVm2TIpEo7o4w86U"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_bbhjv9sa8",
+        "subtitle": "",
+        "title": "You-Dont-Know-JS",
+        "url": "https://github.com/getify/You-Dont-Know-JS"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_80quskypi",
+        "subtitle": "",
+        "title": "Ai side hustles",
+        "url": "https://github.com/bleedline/aimoneyhunter/blob/main/README_en.md"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_b6ffq2ps7",
+        "subtitle": "",
+        "title": "tauri.app",
+        "url": "https://tauri.app/v1/guides/getting-started/prerequisites/#setting-up-linux"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_n4wb6jbs2",
+        "subtitle": "",
+        "title": "ToolJet",
+        "url": "https://github.com/ToolJet/ToolJet?tab=readme-ov-file"
+      }
+    ],
+    "f_y4vqrc6r9": [
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_eam90hxe3",
+        "subtitle": "",
+        "title": "1- Ana vodafone",
+        "url": "https://web.vodafone.com.eg/auth/realms/vf-realm/protocol/openid-connect/auth?client_id=website&redirect_uri=https%3A%2F%2Fweb.vodafone.com.eg%2Fspa%2FmyHome&state=7e9f3dd2-9bc3-4c61-b0cf-b0aa435e57a4&response_mode=query&response_type=code&scope=openid&nonce=0db1b3ca-b52b-4d3a-83af-8bfd17489d52"
+      },
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_8uv8oi39r",
+        "subtitle": "",
+        "title": "Facebook",
+        "url": "https://www.facebook.com"
+      },
+      {
+        "icon": "Viral icon pack/twitter.png",
+        "id": "c_d3q079hhm",
+        "subtitle": "",
+        "title": "Twitter",
+        "url": "https://twitter.com"
+      },
+      {
+        "icon": "Viral icon pack/ez_web_video_cast.png",
+        "id": "c_hsfex2l40",
+        "subtitle": "",
+        "title": "Telegram Web",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h82aem6dz",
+        "subtitle": "",
+        "title": "searx.nixnet",
+        "url": "https://searx.nixnet.services/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_h5pxf5ry7",
+        "subtitle": "",
+        "title": "weboasis.app",
+        "url": "https://weboasis.app/"
+      },
+      {
+        "icon": "Viral icon pack/google_youtube_alternate.png",
+        "id": "c_sz8a2ecxc",
+        "subtitle": "",
+        "title": "you ",
+        "url": "https://you.com/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_appstore.png",
+        "id": "c_7xu6mn3gi",
+        "subtitle": "",
+        "title": "Microsoft store",
+        "url": "https://store.rg-adguard.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_fjhpmmyhg",
+        "subtitle": "",
+        "title": "mixpost",
+        "url": "http://localhost:9000/mixpost/login"
+      }
+    ],
+    "f_vysbklouh": [
+      {
+        "icon": "Viral icon pack/behance.png",
+        "id": "c_u813m4fk2",
+        "subtitle": "",
+        "title": "Behance ui ux design",
+        "url": "https://www.behance.net/search/projects/ui%20ux%20design"
+      },
+      {
+        "icon": "Viral icon pack/behance.png",
+        "id": "c_lxozqcvp3",
+        "subtitle": "",
+        "title": "Behance gallery ui ux design",
+        "url": "https://www.behance.net/galleries/ui-ux/ui-ux"
+      }
+    ],
+    "f_j7dwhbeq4": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_i668r96qv",
+        "subtitle": "",
+        "title": "LeetCode",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_wq00p08r3",
+        "subtitle": "",
+        "title": "zoom-clone",
+        "url": "https://github.com/adrianhajdin/zoom-clone"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_a0iwtaa32",
+        "subtitle": "",
+        "title": "dev road map",
+        "url": "https://github.com/kamranahmedse/developer-roadmap"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_ra8rfe8ut",
+        "subtitle": "",
+        "title": "llm-app-stack",
+        "url": "https://github.com/a16z-infra/llm-app-stack"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zdc0mp1cu",
+        "subtitle": "",
+        "title": "betterstack",
+        "url": "https://uptime.betterstack.com/team/164784/monitors"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_details.png",
+        "id": "c_soayyjf7e",
+        "subtitle": "",
+        "title": "deta.space",
+        "url": "https://deta.space/?horizon=ypgyWpWmwo"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_709z74tyh",
+        "subtitle": "",
+        "title": "react (frontend)",
+        "url": "http://localhost:3000/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_md03c2sf4",
+        "subtitle": "",
+        "title": "node (backend)",
+        "url": "http://localhost:5000/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_g062e4ozk",
+        "subtitle": "",
+        "title": "best tools",
+        "url": "https://it-tools.tech/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_j60adrxh0",
+        "subtitle": "",
+        "title": "Google idx",
+        "url": "https://idx.google.com/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_cloud_drive.png",
+        "id": "c_tfms2h9nv",
+        "subtitle": "",
+        "title": "MongoDB atlas",
+        "url": "https://cloud.mongodb.com/v2/65913e0ac02eda2c765693d8#/overview"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3rl4vvuqg",
+        "subtitle": "",
+        "title": "Gitpod Vscode",
+        "url": "https://red0hood-vscode-s4rfy6kirux.ws-eu107.gitpod.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w4uzji7zy",
+        "subtitle": "",
+        "title": "gitpod.io",
+        "url": "https://gitpod.io/workspaces"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_g3akf20m1",
+        "subtitle": "",
+        "title": "free-for-dev",
+        "url": "https://github.com/ripienaar/free-for-dev"
+      },
+      {
+        "icon": "Viral icon pack/amazon_cloud_drive.png",
+        "id": "c_a34cehh9m",
+        "subtitle": "",
+        "title": "MongoDB",
+        "url": "https://cloud.mongodb.com/v2/65913e0ac02eda2c765693d8#/metrics/replicaSet/659142d1f3c9ff79489bdfc6/explorer/mydatabase/Invoice/find"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_6e5bkrbdz",
+        "subtitle": "",
+        "title": "professional-programming",
+        "url": "https://github.com/charlax/professional-programming"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_y3kq0et4d",
+        "subtitle": "",
+        "title": "MoneyPrinterV2",
+        "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_d2xfh82e6",
+        "subtitle": "",
+        "title": "app.teable",
+        "url": "https://app.teable.io/base/bseUNFLA5WannnYaHqc/dashboard"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_dashboard.png",
+        "id": "c_pznhledo5",
+        "subtitle": "",
+        "title": "dashboard.render",
+        "url": "https://dashboard.render.com/d/dpg-cnsu0t0l6cac73dcfu5g-a/info"
+      },
+      {
+        "icon": "Viral icon pack/amazon_apps.png",
+        "id": "c_wjx7u6j6m",
+        "subtitle": "",
+        "title": "app.koyeb",
+        "url": "https://app.koyeb.com/database-services/b67957fe-aa9b-4c98-ba61-b7cdcdcaefaf/connection-details"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_5bvb31yvr",
+        "subtitle": "",
+        "title": "OpenDevin",
+        "url": "https://github.com/OpenDevin/OpenDevin"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_mdtm6yugc",
+        "subtitle": "",
+        "title": "plandex",
+        "url": "https://github.com/plandex-ai/plandex?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_mv3cec9t9",
+        "subtitle": "",
+        "title": "refinedev/refine",
+        "url": "https://github.com/refinedev/refine"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_7t0840vem",
+        "subtitle": "",
+        "title": "bun js and ts engine",
+        "url": "https://github.com/oven-sh/bun?tab=readme-ov-file"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w2znmyyvn",
+        "subtitle": "",
+        "title": "drawdb.vercel",
+        "url": "https://drawdb.vercel.app/editor"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_frd84ds8o",
+        "subtitle": "",
+        "title": "zerotomastery-complete-web-mobile-designer-in-2023-ui-ux-figma-more.97/",
+        "url": "https://tutflix.org/resources/zerotomastery-complete-web-mobile-designer-in-2023-ui-ux-figma-more.97/"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_th6oi159q",
+        "subtitle": "",
+        "title": "ai Scraping",
+        "url": "https://github.com/VinciGit00/Scrapegraph-ai"
+      }
+    ],
+    "f_q1x0ezpt9": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_qz7cvjvm0",
+        "subtitle": "",
+        "title": "breached",
+        "url": "https://breached.vc/index.php"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rjc9o68c9",
+        "subtitle": "",
+        "title": "nulled.to",
+        "url": "https://www.nulled.to/index.php?"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5izt6qr1u",
+        "subtitle": "",
+        "title": "top hacker forums",
+        "url": "https://webz.io/dwp/top-5-hacker-forums-on-the-deep-and-dark-web-in-2022/"
+      }
+    ],
+    "f_8rfvwc5fo": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5t0u0hu8w",
+        "subtitle": "",
+        "title": "replit",
+        "url": "https://replit.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pqequlfom",
+        "subtitle": "",
+        "title": "stackblitz",
+        "url": "https://stackblitz.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_y65t63qsn",
+        "subtitle": "",
+        "title": "codefy",
+        "url": "https://www.codefy.ai/"
+      }
+    ],
+    "f_fi8yfg9wl": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_5oe3fdw9z",
+        "subtitle": "",
+        "title": "savevideo",
+        "url": "https://savevideo.me/en/"
+      }
+    ],
+    "f_4uefndyou": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xrcoi4cji",
+        "subtitle": "",
+        "title": "civitai",
+        "url": "https://civitai.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ke9w0ljmi",
+        "subtitle": "",
+        "title": "Stable Diffusion",
+        "url": "http://127.0.0.1:7860/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_x0lu4xvgi",
+        "subtitle": "",
+        "title": "lexica.art",
+        "url": "https://lexica.art/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0abukifjr",
+        "subtitle": "",
+        "title": "Promptist",
+        "url": "https://huggingface.co/spaces/microsoft/Promptist?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+      }
+    ],
+    "f_e2wl4aa34": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_m59ubxshc",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/Drakkar-Software/OctoBot"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_d7eujlmqy",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/tysonwu/dash-tradingview"
+      }
+    ],
+    "f_24ubi1a8w": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_3kfr00mjh",
+        "subtitle": "",
+        "title": "Modded ubuntu",
+        "url": "https://github.com/modded-ubuntu/modded-ubuntu"
+      }
+    ],
+    "f_t2tqp1yfs": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_zq454idkk",
+        "subtitle": "",
+        "title": "ShortGPT",
+        "url": "https://github.com/RayVentura/ShortGPT"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_k5kkllhf7",
+        "subtitle": "",
+        "title": "CodeGeeX2",
+        "url": "https://github.com/THUDM/CodeGeeX2"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_092ayyqac",
+        "subtitle": "",
+        "title": "pot-desktop",
+        "url": "https://github.com/pot-app/pot-desktop"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_oge9it7uf",
+        "subtitle": "",
+        "title": "GitHub",
+        "url": "https://github.com/dabeaz-course/python-mastery"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_zj6zugiu8",
+        "subtitle": "",
+        "title": "audiocraft",
+        "url": "https://github.com/facebookresearch/audiocraft"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_0zwhqkexe",
+        "subtitle": "",
+        "title": "RVC ai voice",
+        "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/README.en.md"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_1lifpun2v",
+        "subtitle": "",
+        "title": "Magic123",
+        "url": "https://github.com/guochengqian/Magic123"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_pzxvzgeu9",
+        "subtitle": "",
+        "title": "sweep",
+        "url": "https://github.com/sweepai/sweep"
+      }
+    ],
+    "f_wjri919fa": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kq60n750i",
+        "subtitle": "",
+        "title": "ntfy.sh",
+        "url": "https://ntfy.sh/app"
+      }
+    ],
+    "f_evmz0jb6f": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_3n2eyuidr",
+        "subtitle": "",
+        "title": "12ft.io",
+        "url": "https://12ft.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mvqd5teaw",
+        "subtitle": "",
+        "title": "smry.ai",
+        "url": "https://www.smry.ai/"
+      }
+    ],
+    "f_z3jrbiuir": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_lfpygmx0c",
+        "subtitle": "",
+        "title": "Color Hunt",
+        "url": "https://colorhunt.co/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_31olxdd6c",
+        "subtitle": "",
+        "title": "Coolors",
+        "url": "https://coolors.co/0f0a0a-f5efed-2292a4-bdbf09-d96c06"
+      },
+      {
+        "icon": "Viral icon pack/canva.png",
+        "id": "c_g5rar8x5q",
+        "subtitle": "",
+        "title": "Canva",
+        "url": "https://www.canva.com/colors/color-palette-generator/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dr0h9e05p",
+        "subtitle": "",
+        "title": "flexoki",
+        "url": "https://stephango.com/flexoki"
+      }
+    ],
+    "f_p3slahbqw": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_qj9jidq5d",
+        "subtitle": "",
+        "title": "public-apis",
+        "url": "https://github.com/public-apis/public-apis"
+      }
+    ],
+    "f_v6s7un9kx": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ayhvkk6ex",
+        "subtitle": "",
+        "title": "openstatus.dev",
+        "url": "https://www.openstatus.dev/app/onboarding?workspaceSlug=melodic-autumn&path=http"
+      }
+    ],
+    "f_22bpimnjz": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_tw0gmq43s",
+        "subtitle": "",
+        "title": "react-three-fiber",
+        "url": "https://github.com/pmndrs/react-three-fiber"
+      },
+      {
+        "icon": "Viral icon pack/astro.png",
+        "id": "c_2afjox6y8",
+        "subtitle": "",
+        "title": "astro",
+        "url": "https://astro.build/"
+      }
+    ],
+    "f_0w0z9hwr1": [
+      {
+        "icon": "Viral icon pack/emui_themes.png",
+        "id": "c_3s0mb3kuf",
+        "subtitle": "",
+        "title": "ui.shadcn",
+        "url": "https://ui.shadcn.com/docs/components/switch"
+      },
+      {
+        "icon": "Viral icon pack/alliant_energy.png",
+        "id": "c_gxk4y5t95",
+        "subtitle": "",
+        "title": "Ant Design",
+        "url": "https://ant.design/docs/react/introduce"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zvix9iowc",
+        "subtitle": "",
+        "title": "react-native-web",
+        "url": "https://necolas.github.io/react-native-web/docs/picker/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8noq9uadp",
+        "subtitle": "",
+        "title": "chakra-ui",
+        "url": "https://chakra-ui.com/docs/styled-system/theme"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4ht9eqtcb",
+        "subtitle": "",
+        "title": "reactnativeelements",
+        "url": "https://reactnativeelements.com/docs"
+      },
+      {
+        "icon": "Viral icon pack/emui_themes.png",
+        "id": "c_jrmdy8aiw",
+        "subtitle": "",
+        "title": "mui",
+        "url": "https://mui.com/core/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gebacx1vx",
+        "subtitle": "",
+        "title": "react.semantic-u",
+        "url": "https://react.semantic-ui.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cr8nqtng8",
+        "subtitle": "",
+        "title": "react-native-vector-icons",
+        "url": "https://oblador.github.io/react-native-vector-icons/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xye2a6xrf",
+        "subtitle": "",
+        "title": "nextui",
+        "url": "https://nextui.org/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zz4nj8pk1",
+        "subtitle": "",
+        "title": "Segment",
+        "url": "https://evergreen.segment.com/components"
+      }
+    ],
+    "f_2w2zvxzsq": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ix92u9zzl",
+        "subtitle": "",
+        "title": "httpie.io",
+        "url": "https://httpie.io/app"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_y1yzfi0lq",
+        "subtitle": "",
+        "title": "hoppscotch",
+        "url": "https://hoppscotch.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4t0hm06y9",
+        "subtitle": "",
+        "title": "betterstack",
+        "url": "https://uptime.betterstack.com/team/164784/monitors"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_1c04bo73h",
+        "subtitle": "",
+        "title": "MotiaDev/motia",
+        "url": "https://github.com/MotiaDev/motia"
+      }
+    ],
+    "f_uqy0k6rus": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6fn0pqywh",
+        "subtitle": "",
+        "title": "adel-elsamman",
+        "url": "https://www.adel-elsamman.com/"
+      },
+      {
+        "icon": "Viral icon pack/amazon_appstore.png",
+        "id": "c_96oa44fvr",
+        "subtitle": "",
+        "title": "store.fut-electronics",
+        "url": "https://store.fut-electronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_rab94wamg",
+        "subtitle": "",
+        "title": "free-electronic",
+        "url": "https://free-electronic.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ib961hzx4",
+        "subtitle": "",
+        "title": "elgammalelectronics",
+        "url": "http://www.elgammalelectronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w2rn2vx0k",
+        "subtitle": "",
+        "title": "uge-one",
+        "url": "https://uge-one.com/categories/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4ifkf1dpd",
+        "subtitle": "",
+        "title": "makerselectronics",
+        "url": "https://makerselectronics.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_1odhahbdw",
+        "subtitle": "",
+        "title": "lampatronics",
+        "url": "https://lampatronics.com/"
+      }
+    ],
+    "f_exn2foi17": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_wdqjx5su8",
+        "subtitle": "",
+        "title": "blockchair",
+        "url": "https://blockchair.com/"
+      }
+    ],
+    "f_osl7vlnpv": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_r46qi1igy",
+        "subtitle": "",
+        "title": "katana",
+        "url": "https://github.com/projectdiscovery/katana"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_tp3kancrr",
+        "subtitle": "",
+        "title": "amplication",
+        "url": "https://github.com/amplication/amplication?tab=readme-ov-file"
+      }
+    ],
+    "f_lxdycaxal": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dwptl4qog",
+        "subtitle": "",
+        "title": "youtube-playlist-downloader",
+        "url": "https://10downloader.com/en/121/youtube-playlist-downloader"
+      }
+    ],
+    "f_6pzbk02o5": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_s59bj9o1k",
+        "subtitle": "",
+        "title": "html5up",
+        "url": "https://html5up.net/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_v9j05mq27",
+        "subtitle": "",
+        "title": "media-queries-for-standard-devices/",
+        "url": "https://css-tricks.com/snippets/css/media-queries-for-standard-devices/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_18qt7cy15",
+        "subtitle": "",
+        "title": "creative-tim",
+        "url": "https://www.creative-tim.com/bootstrap-themes/free"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_tx0fn2lve",
+        "subtitle": "",
+        "title": "free-css-templates",
+        "url": "https://www.free-css.com/free-css-templates"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_71v8bx80u",
+        "subtitle": "",
+        "title": "templatemo",
+        "url": "https://templatemo.com/page/1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gdguqg1sl",
+        "subtitle": "",
+        "title": "mdbootstrap freebies",
+        "url": "https://mdbootstrap.com/freebies/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0r0pqdk2g",
+        "subtitle": "",
+        "title": "mashuptemplate/",
+        "url": "https://themewagon.com/author/mashuptemplate/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kmoj6w28e",
+        "subtitle": "",
+        "title": "startbootstrap templates",
+        "url": "https://startbootstrap.com/templates"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ntw8olg7y",
+        "subtitle": "",
+        "title": "animate.style",
+        "url": "https://animate.style/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_mihh1x2cv",
+        "subtitle": "",
+        "title": "screensizemap",
+        "url": "https://www.screensizemap.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ult69used",
+        "subtitle": "",
+        "title": "wireframer",
+        "url": "https://wireframer.art/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_y3bmzvvsu",
+        "subtitle": "",
+        "title": "buttons-generator/",
+        "url": "https://markodenic.com/tools/buttons-generator/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ao4eoyqoz",
+        "subtitle": "",
+        "title": "mockups",
+        "url": "https://mockups.pixeltrue.com/"
+      },
+      {
+        "icon": "Viral icon pack/promo_codes.png",
+        "id": "c_sn2ei9ff1",
+        "subtitle": "",
+        "title": "image-resizer/",
+        "url": "https://promo.com/tools/image-resizer/"
+      },
+      {
+        "icon": "Viral icon pack/system_zzz_leak_remove.png",
+        "id": "c_11rpwyt3b",
+        "subtitle": "",
+        "title": "Remove Background",
+        "url": "https://www.remove.bg/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kle3jkf1o",
+        "subtitle": "",
+        "title": "metatags.io",
+        "url": "https://metatags.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_os7ukpnrq",
+        "subtitle": "",
+        "title": "picsum.photos",
+        "url": "https://picsum.photos/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_yualsty2f",
+        "subtitle": "",
+        "title": "codeimg.io",
+        "url": "https://codeimg.io/"
+      }
+    ],
+    "f_z7u3v2q37": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pwijzmsnv",
+        "subtitle": "",
+        "title": "artgrid",
+        "url": "https://artgrid.io/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_odslrkxlv",
+        "subtitle": "",
+        "title": "freevisuals",
+        "url": "https://www.freevisuals.net/"
+      }
+    ],
+    "f_mn3cl8edo": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hobprz5d6",
+        "subtitle": "",
+        "title": "توتونجي بلاستيك جروب",
+        "url": "https://sllr.co/toutounji/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_pyidabns8",
+        "subtitle": "",
+        "title": "الفجاله",
+        "url": "https://www.alfagala.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ow22nat85",
+        "subtitle": "",
+        "title": "محجوب",
+        "url": "https://www.mahgoub.com/ar/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA/%D9%84%D9%88%D8%A7%D8%B2%D9%85-%D8%B3%D8%A8%D8%A7%D9%83%D8%A9/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_80whd1k8m",
+        "subtitle": "",
+        "title": "سباكه",
+        "url": "https://www.sebakashop.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_kr9xm8ztn",
+        "subtitle": "",
+        "title": "مشرق",
+        "url": "https://mashreqy.com/"
+      },
+      {
+        "icon": "Viral icon pack/facebook.png",
+        "id": "c_o4yq1s9lc",
+        "subtitle": "",
+        "title": "AymanElGad",
+        "url": "https://www.facebook.com/AymanElGad"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_xsfku11vt",
+        "subtitle": "",
+        "title": "معداتي",
+        "url": "https://mo3datee.com/product"
+      }
+    ],
+    "f_z2fq7kujh": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ba0iz1kzm",
+        "subtitle": "",
+        "title": "epselectric-egypt",
+        "url": "https://epselectric-egypt.com/en"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_enuvb74vg",
+        "subtitle": "",
+        "title": "upsegypt",
+        "url": "https://upsegypt.com/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_0k47fnrre",
+        "subtitle": "",
+        "title": "egyptlaptop",
+        "url": "https://egyptlaptop.com/ups/back-offline"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_n9juy0cfn",
+        "subtitle": "",
+        "title": "mye-tech",
+        "url": "https://www.mye-tech.com/ar/product-category/ups-ar/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_zu5r7lzn8",
+        "subtitle": "",
+        "title": "compuscience.com",
+        "url": "https://compuscience.com.eg/ar/34--"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9yfybt090",
+        "subtitle": "",
+        "title": "rayashop",
+        "url": "https://www.rayashop.com/ar/ups"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_83f0246xv",
+        "subtitle": "",
+        "title": "btech",
+        "url": "https://btech.com/ar/catalogsearch/result/?q=ups"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4xdcghyou",
+        "subtitle": "",
+        "title": "2b",
+        "url": "https://2b.com.eg/ar/electronic-solutions/power-solutions/power-supply.html"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_gt4gy8i8a",
+        "subtitle": "",
+        "title": "compumarts",
+        "url": "https://www.compumarts.com/search?q=ups&options%5Bprefix%5D=last&type=product"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_l6y9xj3gn",
+        "subtitle": "",
+        "title": "asg",
+        "url": "https://asg.com.eg/ups/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_u0rrdnpge",
+        "subtitle": "",
+        "title": "powershopeg",
+        "url": "https://powershopeg.com/product-category/ups/page/3/?orderby=price&per_row=4&shop_view=grid&per_page=24"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w4li2qs9k",
+        "subtitle": "",
+        "title": "eastasiaeg",
+        "url": "https://www.eastasiaeg.com/business-solutions/ups.html?product_list_order=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_f7o4dvcp8",
+        "subtitle": "",
+        "title": "pcs-souq",
+        "url": "https://www.pcs-souq.com/collections/ups/?sort_by=price-ascending"
+      }
+    ],
+    "f_i2zimf1ko": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7nk6rvuue",
+        "subtitle": "",
+        "title": "elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/accessories?sort=p.price&order=ASC&fq=1&ff28=206"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hzzfc7afe",
+        "subtitle": "",
+        "title": "sigma-computer",
+        "url": "https://www.sigma-computer.com/subcategory?id=6&id2=15&sort=down"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_90yiss2oi",
+        "subtitle": "",
+        "title": "alfrensia",
+        "url": "https://alfrensia.com/en/product-category/accessories/headset/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_hpowqn0hg",
+        "subtitle": "",
+        "title": "hardwaremarket",
+        "url": "https://hardwaremarket.net/product-category/headsets/?orderby=price&paged=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_60cgz59nh",
+        "subtitle": "",
+        "title": "highendstore",
+        "url": "https://highendstore.net/HEADPHONE"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_vu6nspk8o",
+        "subtitle": "",
+        "title": "hankerz",
+        "url": "https://www.hankerz.com.eg/product-category/computer-accessories/headset/?orderby=price&paged=1"
+      },
+      {
+        "icon": "Viral icon pack/antennapod.png",
+        "id": "c_23wy2vbyu",
+        "subtitle": "",
+        "title": "ennap",
+        "url": "https://ennap.com/collections/true-wireless-earbud-headphones?sort_by=price-ascending&filter.v.price.gte=&filter.v.price.lte="
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_dgt26b5e6",
+        "subtitle": "",
+        "title": "www.nextmarteg",
+        "url": "https://www.nextmarteg.com/product-category/headset-headphone/gaming_headsets/"
+      }
+    ],
+    "f_wbwgf2bq3": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7putjv4ue",
+        "subtitle": "",
+        "title": "alfrensia ram",
+        "url": "https://alfrensia.com/en/product-category/ram/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/venus.png",
+        "id": "c_y5ma2k1fs",
+        "subtitle": "",
+        "title": "venus tech ram",
+        "url": "https://venus.tech/product-category/pc-components/memory/?orderby=price&filter_stock_status=instock"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_ww6g55c8c",
+        "subtitle": "",
+        "title": "highendstore ram",
+        "url": "https://highendstore.net/RAM?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_lmm18r36n",
+        "subtitle": "",
+        "title": "hankerz ram",
+        "url": "https://www.hankerz.com.eg/product-category/pc-hardware-components/ram/?orderby=price"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_7ukz6gv2d",
+        "subtitle": "",
+        "title": "elhamd ram",
+        "url": "https://elhamd.net/product-category/hard-ware/ram/"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_4skwe6kle",
+        "subtitle": "",
+        "title": "maximumhardware ram",
+        "url": "https://maximumhardware.store/memory?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_s5ddff2ud",
+        "subtitle": "",
+        "title": "kimostore ram",
+        "url": "https://kimostore.net/collections/ram?sort_by=price-ascending&filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte="
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_iqizeg5ly",
+        "subtitle": "",
+        "title": "compumarts ram",
+        "url": "https://www.compumarts.com/collections/pc-parts-ram-1?filter.v.availability=1&filter.v.price.gte=&filter.v.price.lte=&sort_by=price-ascending"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6oven2f41",
+        "subtitle": "",
+        "title": "sigma-computer ram",
+        "url": "https://www.sigma-computer.com/subcategory?id=1&id2=3&sort=down"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_tbu2e2wle",
+        "subtitle": "",
+        "title": "softlaptop",
+        "url": "https://softlaptop.com/computer-components/ram-pc?sort=p.price&order=ASC&fq=1&page=2"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_9daeioz9l",
+        "subtitle": "",
+        "title": "elnour-tech",
+        "url": "https://elnour-tech.com/ar/product-category/pc-parts/ram-2/?orderby=price&per_page=30"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_k7gnbfyxq",
+        "subtitle": "",
+        "title": "elbadrgroupeg",
+        "url": "https://elbadrgroupeg.store/index.php?route=product/category&path=18&page=2&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_6c4r9wq2m",
+        "subtitle": "",
+        "title": "elnekhelytechnology",
+        "url": "https://www.elnekhelytechnology.com/ram?sort=p.price&order=ASC&fq=1"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_aaeqtbaxk",
+        "subtitle": "",
+        "title": "albadrlaptop",
+        "url": "https://albadrlaptop.com/product-category/computer-components/ram/?stock=instock&per_page=64&orderby=price"
+      }
+    ],
+    "f_gg4ii4s64": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_twdzj2fih",
+        "subtitle": "",
+        "title": "1- rxresu.me resumes",
+        "url": "https://rxresu.me/dashboard/resumes"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_q6ae8pvml",
+        "subtitle": "",
+        "title": "2- Resume-Matcher",
+        "url": "https://github.com/srbhr/Resume-Matcher"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_cogoqlhnr",
+        "subtitle": "",
+        "title": "snap it",
+        "url": "https://www.snapit.tech/"
+      }
+    ],
+    "f_dvm75g90i": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_lc33hklm6",
+        "subtitle": "",
+        "title": "4-ideogram",
+        "url": "https://ideogram.ai/t/explore"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_8pq4spqja",
+        "subtitle": "",
+        "title": "XLabs-AI-flux-RealismLora",
+        "url": "https://huggingface.co/spaces/Remodeler9023/XLabs-AI-flux-RealismLora"
+      },
+      {
+        "icon": "Viral icon pack/dankchat.png",
+        "id": "c_qf6xot27r",
+        "subtitle": "",
+        "title": "flux 1.1 pro",
+        "url": "https://chat.mistral.ai/chat/"
+      }
+    ],
+    "f_0ejss9wqp": [
+      {
+        "icon": "Viral icon pack/google_docs_new_color.png",
+        "id": "c_lacbgzfd7",
+        "subtitle": "",
+        "title": "1- 1panel",
+        "url": "https://docs.1panel.pro/quick_start/"
+      }
+    ],
+    "f_tgvj75u7n": [
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_ggij8pbyu",
+        "subtitle": "",
+        "title": "LTX-Video",
+        "url": "https://github.com/Lightricks/LTX-Video"
+      },
+      {
+        "icon": "Viral icon pack/github.png",
+        "id": "c_s7j01al4j",
+        "subtitle": "",
+        "title": "ComfyUI-LTXVideo",
+        "url": "https://github.com/Lightricks/ComfyUI-LTXVideo"
+      }
+    ],
+    "f_aq6k5f6lk": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_63jv6pb7r",
+        "subtitle": "",
+        "title": "x2v.light-ai",
+        "url": "https://x2v.light-ai.top/generate?taskType=s2v&model=Wan2.2_I2V_A14B_distilled&expanded=true"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_bl22cgn6d",
+        "subtitle": "",
+        "title": "www.runninghub.ai",
+        "url": "https://www.runninghub.ai/model-cology"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_tevypkgsu",
+        "subtitle": "",
+        "title": "easemate.ai",
+        "url": "https://www.easemate.ai/image-to-video-generator"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_tx3c98eo5",
+        "subtitle": "",
+        "title": "vivago.ai/",
+        "url": "https://vivago.ai/video-generation"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_w9133rskf",
+        "subtitle": "",
+        "title": "diffra.ai",
+        "url": "https://diffra.ai/image-to-video"
+      },
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_lct3jho5q",
+        "subtitle": "",
+        "title": "runninghub.ai/workflow/1996195162357481474",
+        "url": "https://www.runninghub.ai/workflow/1996195162357481474"
+      }
+    ],
+    "f_sujtdsd8g": [
+      {
+        "icon": "Viral icon pack/google_g_new.png",
+        "id": "c_20f4x6d8x",
+        "subtitle": "",
+        "title": "ResembleAI/Chatterbox",
+        "url": "https://huggingface.co/spaces/ResembleAI/Chatterbox"
+      }
+    ]
+  },
+  "folders": [
+    {
+      "icon": "📁",
+      "id": "f_9lby2e740",
+      "name": "Home"
+    },
+    {
+      "icon": "📁",
+      "id": "f_pqztrlce3",
+      "name": "Social "
+    },
+    {
+      "icon": "📁",
+      "id": "f_r93gdf384",
+      "name": "V2ray servers"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8ekw9rodx",
+      "name": "Quarn"
+    },
+    {
+      "icon": "📁",
+      "id": "f_6msmlxvec",
+      "name": "domain"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gnks0ico6",
+      "name": "Ai_Chat"
+    },
+    {
+      "icon": "📁",
+      "id": "f_60ozs5bpr",
+      "name": "Ai Image"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mw1f2tar6",
+      "name": "Ai API keys"
+    },
+    {
+      "icon": "📁",
+      "id": "f_rzi5k7rqw",
+      "name": "Prompt"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3q60b64v3",
+      "name": "2- Temp mail "
+    },
+    {
+      "icon": "📁",
+      "id": "f_sg6cdcqz5",
+      "name": "3- sms Verification"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jh19dfxrp",
+      "name": "CC Generator"
+    },
+    {
+      "icon": "📁",
+      "id": "f_z70ct4186",
+      "name": "0- LocalHost"
+    },
+    {
+      "icon": "📁",
+      "id": "f_fs03enc96",
+      "name": "4- SpeedTest"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gi2pa9usj",
+      "name": "Google ai tools"
+    },
+    {
+      "icon": "📁",
+      "id": "f_1rx58whhi",
+      "name": "0- AI Projects"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4tb4j5jry",
+      "name": "33- Data-Base"
+    },
+    {
+      "icon": "📁",
+      "id": "f_qbsqz6505",
+      "name": "0- best media sites"
+    },
+    {
+      "icon": "📁",
+      "id": "f_ul87676fp",
+      "name": "3- Ai sites"
+    },
+    {
+      "icon": "📁",
+      "id": "f_hubvpwodt",
+      "name": "5- Books"
+    },
+    {
+      "icon": "📁",
+      "id": "f_etke0dqo8",
+      "name": "6- Software sites"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mc20fgi5z",
+      "name": "7- Movies & Series"
+    },
+    {
+      "icon": "📁",
+      "id": "f_uz2t8v9bq",
+      "name": "9- pc hardware"
+    },
+    {
+      "icon": "📁",
+      "id": "f_ups87nm6a",
+      "name": "Monitor"
+    },
+    {
+      "icon": "📁",
+      "id": "f_v6hnjsp92",
+      "name": "10- pc benchmark"
+    },
+    {
+      "icon": "📁",
+      "id": "f_p32g8npge",
+      "name": "11- Photo"
+    },
+    {
+      "icon": "📁",
+      "id": "f_iet65pryy",
+      "name": "12- Courses"
+    },
+    {
+      "icon": "📁",
+      "id": "f_zpz0122h3",
+      "name": "13- Torrent"
+    },
+    {
+      "icon": "📁",
+      "id": "f_dmuyuex85",
+      "name": "14- Premium Link Generators"
+    },
+    {
+      "icon": "📁",
+      "id": "f_qorq46xro",
+      "name": "15- PayWall"
+    },
+    {
+      "icon": "📁",
+      "id": "f_85bwvm3l2",
+      "name": "16- Vpn , browserVpn"
+    },
+    {
+      "icon": "📁",
+      "id": "f_pundgw1y8",
+      "name": "17- Games"
+    },
+    {
+      "icon": "📁",
+      "id": "f_ovu13rwxh",
+      "name": "18- io games"
+    },
+    {
+      "icon": "📁",
+      "id": "f_wpczznfye",
+      "name": "19- Android app modded"
+    },
+    {
+      "icon": "📁",
+      "id": "f_ibdr6c6sl",
+      "name": "20- Arch"
+    },
+    {
+      "icon": "📁",
+      "id": "f_hgzlx2l2s",
+      "name": "21- Blender"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8rla0xgmr",
+      "name": "22- Virtual browser"
+    },
+    {
+      "icon": "📁",
+      "id": "f_zncdqzw11",
+      "name": "23- Mobile"
+    },
+    {
+      "icon": "📁",
+      "id": "f_bomj34etl",
+      "name": "24- WhiteBoard"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jg6er8lnt",
+      "name": "25- Blender"
+    },
+    {
+      "icon": "📁",
+      "id": "f_eb2kd11pg",
+      "name": "27- subtitle"
+    },
+    {
+      "icon": "📁",
+      "id": "f_fhj4t9tjm",
+      "name": "28- Docker Projects"
+    },
+    {
+      "icon": "📁",
+      "id": "f_jzz9ct8n2",
+      "name": "29- Cloud Driver"
+    },
+    {
+      "icon": "📁",
+      "id": "f_djytv1sho",
+      "name": "30- ocr [img2txt]"
+    },
+    {
+      "icon": "📁",
+      "id": "f_oveyse4kf",
+      "name": "31- MB Driver"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3bk3dj0ox",
+      "name": "32- Vault"
+    },
+    {
+      "icon": "📁",
+      "id": "f_519ie7aib",
+      "name": "34-Vmware images"
+    },
+    {
+      "icon": "📁",
+      "id": "f_c6khsn9cs",
+      "name": "35- wallpaper engine"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4lfk23jt9",
+      "name": "36- grafana"
+    },
+    {
+      "icon": "📁",
+      "id": "f_1s0qxcjwr",
+      "name": "37-Server"
+    },
+    {
+      "icon": "📁",
+      "id": "f_3g20q0chj",
+      "name": "38- regex"
+    },
+    {
+      "icon": "📁",
+      "id": "f_h7sr4xdf0",
+      "name": "39- md "
+    },
+    {
+      "icon": "📁",
+      "id": "f_crpp65ppo",
+      "name": "40- ComfyUi"
+    },
+    {
+      "icon": "📁",
+      "id": "f_afvhnkksd",
+      "name": "41- Ai agent"
+    },
+    {
+      "icon": "📁",
+      "id": "f_daqwzehvs",
+      "name": "42- Color"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mgtth55tj",
+      "name": "43- Vscode"
+    },
+    {
+      "icon": "📁",
+      "id": "f_kpoq19dc5",
+      "name": "44- fonts"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mjnhet0uj",
+      "name": "45- n8n"
+    },
+    {
+      "icon": "📁",
+      "id": "f_avk06luel",
+      "name": "50- Ai Agents"
+    },
+    {
+      "icon": "📁",
+      "id": "f_blwtk7yur",
+      "name": "51- Docker"
+    },
+    {
+      "icon": "📁",
+      "id": "f_w2tx29lhb",
+      "name": "99- internet recharge"
+    },
+    {
+      "icon": "📁",
+      "id": "f_9p1sk53n7",
+      "name": "later"
+    },
+    {
+      "icon": "📁",
+      "id": "f_y4vqrc6r9",
+      "name": "Social"
+    },
+    {
+      "icon": "📁",
+      "id": "f_vysbklouh",
+      "name": "UI&UX"
+    },
+    {
+      "icon": "📁",
+      "id": "f_j7dwhbeq4",
+      "name": "dev"
+    },
+    {
+      "icon": "📁",
+      "id": "f_q1x0ezpt9",
+      "name": "hacker fourm"
+    },
+    {
+      "icon": "📁",
+      "id": "f_8rfvwc5fo",
+      "name": "code"
+    },
+    {
+      "icon": "📁",
+      "id": "f_fi8yfg9wl",
+      "name": "Video Download sites"
+    },
+    {
+      "icon": "📁",
+      "id": "f_4uefndyou",
+      "name": "Stable Diffusion"
+    },
+    {
+      "icon": "📁",
+      "id": "f_e2wl4aa34",
+      "name": "github"
+    },
+    {
+      "icon": "📁",
+      "id": "f_24ubi1a8w",
+      "name": "Termux"
+    },
+    {
+      "icon": "📁",
+      "id": "f_t2tqp1yfs",
+      "name": "view later"
+    },
+    {
+      "icon": "📁",
+      "id": "f_wjri919fa",
+      "name": "notify"
+    },
+    {
+      "icon": "📁",
+      "id": "f_evmz0jb6f",
+      "name": "PayWall"
+    },
+    {
+      "icon": "📁",
+      "id": "f_z3jrbiuir",
+      "name": "color"
+    },
+    {
+      "icon": "📁",
+      "id": "f_p3slahbqw",
+      "name": "Api"
+    },
+    {
+      "icon": "📁",
+      "id": "f_v6s7un9kx",
+      "name": "backend"
+    },
+    {
+      "icon": "📁",
+      "id": "f_22bpimnjz",
+      "name": "react"
+    },
+    {
+      "icon": "📁",
+      "id": "f_0w0z9hwr1",
+      "name": "CssReact"
+    },
+    {
+      "icon": "📁",
+      "id": "f_2w2zvxzsq",
+      "name": "43- api "
+    },
+    {
+      "icon": "📁",
+      "id": "f_uqy0k6rus",
+      "name": "electro shops egypt"
+    },
+    {
+      "icon": "📁",
+      "id": "f_exn2foi17",
+      "name": "Crypto"
+    },
+    {
+      "icon": "📁",
+      "id": "f_osl7vlnpv",
+      "name": "web crawler"
+    },
+    {
+      "icon": "📁",
+      "id": "f_lxdycaxal",
+      "name": "Yt Tweaks"
+    },
+    {
+      "icon": "📁",
+      "id": "f_6pzbk02o5",
+      "name": "Css Sites"
+    },
+    {
+      "icon": "📁",
+      "id": "f_z7u3v2q37",
+      "name": "Video Editing"
+    },
+    {
+      "icon": "📁",
+      "id": "f_mn3cl8edo",
+      "name": "سباكه"
+    },
+    {
+      "icon": "📁",
+      "id": "f_z2fq7kujh",
+      "name": "UPS"
+    },
+    {
+      "icon": "📁",
+      "id": "f_i2zimf1ko",
+      "name": "pc headphone"
+    },
+    {
+      "icon": "📁",
+      "id": "f_wbwgf2bq3",
+      "name": "Ram-pc"
+    },
+    {
+      "icon": "📁",
+      "id": "f_gg4ii4s64",
+      "name": "resume builder"
+    },
+    {
+      "icon": "📁",
+      "id": "f_dvm75g90i",
+      "name": "img ai generation"
+    },
+    {
+      "icon": "📁",
+      "id": "f_0ejss9wqp",
+      "name": "100-Server"
+    },
+    {
+      "icon": "📁",
+      "id": "f_tgvj75u7n",
+      "name": "38- Ai-Video"
+    },
+    {
+      "icon": "📁",
+      "id": "f_aq6k5f6lk",
+      "name": "img2video online"
+    },
+    {
+      "icon": "📁",
+      "id": "f_sujtdsd8g",
+      "name": "Ai Voice"
+    }
+  ],
+  "settings": {
+    "bgUrl": "wallpaper.png",
+    "searchEngine": "google"
+  }
+}
